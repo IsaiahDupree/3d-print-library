@@ -1,0 +1,45 @@
+name: 3D design request
+description: Propose a practical part for Isaiah to consider
+title: "[Request] "
+labels:
+  - design request
+  - needs review
+body:
+  - type: markdown
+    attributes:
+      value: Please do not include private addresses, vehicle identifiers, credentials, or confidential drawings.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Explain what the part needs to do and why existing options do not work.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Operating environment
+      description: Include temperature, water, sunlight, chemicals, vibration, and expected load.
+    validations:
+      required: true
+  - type: textarea
+    id: interfaces
+    attributes:
+      label: Measurements and mating parts
+      description: Include dimensions, tolerances, fasteners, exact component revisions, and safe photo links.
+    validations:
+      required: true
+  - type: textarea
+    id: printing
+    attributes:
+      label: Printer and material
+      description: State the printer, nozzle, material, and build-volume constraints when known.
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I removed private and confidential information from this request.
+          required: true
+        - label: I understand a request is not a promise that the design will be produced.
+          required: true
