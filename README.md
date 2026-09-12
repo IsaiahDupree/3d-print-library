@@ -49,3 +49,4 @@ Use any physical part at your own risk. Re-check dimensions, material suitabilit
 
 There is intentionally no repository-wide CAD licence. Each model folder carries its own `LICENSE` or `LICENSE.md`, matching the applicable Printables listing and preserving required attribution. See [LICENSE-POLICY.md](LICENSE-POLICY.md).
 
+The controlled mirror procedure is documented in [SYNCING.md](SYNCING.md).
