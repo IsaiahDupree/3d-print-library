@@ -8,19 +8,19 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-09-13",
-  "published_model_count_reported_by_printables": 0,
+  "published_model_count_reported_by_printables": 1,
   "mirrored_model_count": 1,
   "models": [
     {
       "id": "1840792",
       "slug": "vehicle-ac-diagnostic-sensor-enclosure-v4",
       "title": "Vehicle A/C Diagnostic Sensor Enclosure V4 — Prototype",
-      "printables_url": "https://www.printables.com/model/1840792",
+      "printables_url": "https://www.printables.com/model/1840792-vehicle-ac-diagnostic-sensor-enclosure-v4-prototyp",
       "repository_path": "models/vehicle-ac-diagnostic-sensor-enclosure-v4",
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "445f837e3168283956f9829b0f80b63082e74c109de58418bc0b90009fa0c56d",
-      "status": "prepared_for_publication"
+      "status": "published"
     }
   ]
 }

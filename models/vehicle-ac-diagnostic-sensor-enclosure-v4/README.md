@@ -2,7 +2,7 @@
 
 An original, AI-assisted design by Isaiah Dupree for packaging an ESP32-based vehicle A/C diagnostic logger. This release combines the standing-print enclosure body, removable electronics backplane, service lid, four-entry sensor-pigtail cap, fitment gauges, and process coupons.
 
-[Printables model](https://www.printables.com/model/1840792) · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
+[Printables model](https://www.printables.com/model/1840792-vehicle-ac-diagnostic-sensor-enclosure-v4-prototyp) · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 ## Four sensor channels
 

@@ -10,7 +10,7 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory mirrors models that are publicly hosted on my Printables profile. The first prepared release is the [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/), an original AI-assisted prototype with four sensor channels, a removable electronics backplane, and fitment/process coupons.
+The [`models/`](models/) directory mirrors models that are publicly hosted on my Printables profile. The first published release is the [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/), an original AI-assisted prototype with four sensor channels, a removable electronics backplane, and fitment/process coupons.
 
 Every future model folder will contain:
 
