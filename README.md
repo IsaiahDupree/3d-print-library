@@ -10,7 +10,7 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory mirrors models that are publicly hosted on my Printables profile. The repository was initialized on 2026-09-12; the profile currently has no published models, so no model files have been added yet.
+The [`models/`](models/) directory mirrors models that are publicly hosted on my Printables profile. The first prepared release is the [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/), an original AI-assisted prototype with four sensor channels, a removable electronics backplane, and fitment/process coupons.
 
 Every future model folder will contain:
 
@@ -23,6 +23,8 @@ Every future model folder will contain:
 - the exact licence and remix attribution for that model.
 
 Local drafts, private paths, credentials, printer configuration, paid/member-only content, and models without redistribution permission are excluded.
+
+The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md).
 
 ## Request a design
 

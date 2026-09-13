@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "model": "Vehicle A/C Diagnostic Sensor Enclosure V4",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1840792",
+  "release_status": "prepared_for_publication",
+  "archive_sha256": "445f837e3168283956f9829b0f80b63082e74c109de58418bc0b90009fa0c56d",
+  "files": {
+    "files/vehicle-ac-diagnostic-enclosure-v4-prototype-draft-20260912.zip": "445f837e3168283956f9829b0f80b63082e74c109de58418bc0b90009fa0c56d",
+    "images/preview_assembly.png": "88ea95845ed18c1f7cd65ebb008f5421febee1f13f1313f428ceb56253a96345",
+    "images/preview_backplane_front.png": "b1caadc75d188e78f7390efea2d21a1e611ee3dc3d02502ea0d8697a1dadd369",
+    "images/preview_interior_lid_removed.png": "a624c48d47102981236a45c2121cc082749152c1c6bf1b2246e46b4f10b71ea0",
+    "images/preview_interior_right_io.png": "81649fe254bb5e570648d8b5f99c097ac973482d0bbd7c6c272c61f8c17fb758",
+    "images/preview_mount_clearance.png": "6cf553524b10bc590ede80943621f6ace69754976aada08f4ed0206d6a0013f5",
+    "images/preview_standing.png": "7f6afea50b43eb3443cdf4d319e42c70ec98e720774679309d3322204e8f0bbd"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "slicer_prepared": true,
+    "physically_printed": false,
+    "vehicle_fit_verified": false
+  }
+}
