@@ -19,6 +19,7 @@ from pathlib import Path
 
 DEFAULT_URL = "http://192.168.1.78"
 NUMBERED_RE = re.compile(r"^(?:\d{3}_(?:ALT_|REVIEW_)?)")
+AC_PROJECT = "01_Current_CAD_Catalog/AC_V4_Enclosure"
 
 AC_ORDER = [
     "arduino_uno_mount_coupon",
@@ -120,6 +121,19 @@ def api_post(base: str, path: str, payload: dict) -> dict:
         return json.load(response)
 
 
+def ensure_directory(base: str, path: str) -> None:
+    query = urllib.parse.urlencode({"path": "gcodes/" + path})
+    request = urllib.request.Request(base + "/server/files/directory?" + query, data=b"", method="POST")
+    try:
+        with urllib.request.urlopen(request, timeout=30):
+            return
+    except urllib.error.HTTPError as error:
+        body = error.read().decode("utf-8", errors="replace").lower()
+        if error.code == 400 and ("exist" in body or "already" in body):
+            return
+        raise
+
+
 def clean_name(filename: str) -> str:
     return NUMBERED_RE.sub("", filename)
 
@@ -183,6 +197,30 @@ def rationale(project: str, filename: str) -> str:
     return "Ordered by dependency, size, and estimated print cost within this project."
 
 
+def ac_stage(sequence: int, status: str) -> str:
+    if status == "alternate_duplicate":
+        return "90_Alternates_Do_Not_Print"
+    if sequence <= 2:
+        return "01_START_HERE_Board_Fit"
+    if sequence <= 7:
+        return "02_Process_And_Hardware_Coupons"
+    if sequence <= 10:
+        return "03_Print_Process_And_Gland_Tests"
+    if sequence <= 15:
+        return "04_Vehicle_Clearance_Gauges"
+    if sequence <= 19:
+        return "05_Final_Enclosure_AFTER_ALL_TESTS_PASS"
+    return "06_Bench_Only_Pi_HAT_Base"
+
+
+def destination_path(project: str, sequence: int, status: str, filename: str) -> str:
+    marker = "REVIEW_" if status == "review" else "ALT_" if status == "alternate_duplicate" else ""
+    numbered = f"{sequence:03d}_{marker}{filename}"
+    if project == AC_PROJECT:
+        return f"{project}/{ac_stage(sequence, status)}/{numbered}"
+    return f"{project}/{numbered}"
+
+
 def metadata(base: str, path: str) -> dict:
     query = urllib.parse.urlencode({"filename": path})
     for attempt in range(3):
@@ -207,6 +245,8 @@ def build_plan(base: str) -> list[dict]:
         if "/" not in path:
             continue
         project, filename = path.rsplit("/", 1)
+        if path.startswith(AC_PROJECT + "/"):
+            project = AC_PROJECT
         info = metadata_by_path.get(path, {})
         items.append({
             **file_info,
@@ -239,23 +279,22 @@ def build_plan(base: str) -> list[dict]:
         alternates.sort(key=lambda x: (project_sort_key(project, x), x["filename"]))
         for sequence, item in enumerate(preferred, 1):
             marker = "REVIEW_" if project == "90_Misc_Parts_To_Review" else ""
-            new_filename = f"{sequence:03d}_{marker}{item['filename']}"
+            status = "review" if marker else "primary"
             plan.append({
                 **item,
                 "sequence": sequence,
-                "status": "review" if marker else "primary",
+                "status": status,
                 "old_path": item["path"],
-                "new_path": f"{project}/{new_filename}",
+                "new_path": destination_path(project, sequence, status, item["filename"]),
                 "rationale": rationale(project, item["filename"]),
             })
         for sequence, item in enumerate(alternates, 901):
-            new_filename = f"{sequence:03d}_ALT_{item['filename']}"
             plan.append({
                 **item,
                 "sequence": sequence,
                 "status": "alternate_duplicate",
                 "old_path": item["path"],
-                "new_path": f"{project}/{new_filename}",
+                "new_path": destination_path(project, sequence, "alternate_duplicate", item["filename"]),
                 "rationale": "Alternate duplicate retained; prefer the matching thumbnail-enabled primary file.",
             })
     return sorted(plan, key=lambda x: (x["project"], x["sequence"], x["new_path"]))
@@ -265,6 +304,9 @@ def apply_plan(base: str, plan: list[dict]) -> None:
     state = api_get(base, "/printer/info").get("result", {}).get("state")
     if state != "ready":
         raise SystemExit(f"Refusing to rename files while printer state is {state!r}")
+    directories = sorted({item["new_path"].rsplit("/", 1)[0] for item in plan}, key=lambda value: (value.count("/"), value))
+    for directory in directories:
+        ensure_directory(base, directory)
     for index, item in enumerate(plan, 1):
         if item["old_path"] == item["new_path"]:
             continue
@@ -325,13 +367,13 @@ def write_catalog(output_dir: Path, base: str, plan: list[dict], applied: bool) 
     for project, project_items in sorted(grouped.items()):
         primary = [x for x in project_items if x["status"] != "alternate_duplicate"]
         alternate_count = len(project_items) - len(primary)
-        first = primary[0]["new_path"].rsplit("/", 1)[-1] if primary else "—"
+        first = primary[0]["new_path"][len(project) + 1:] if primary else "—"
         lines.append(f"| `{project}` | {len(primary)} | {alternate_count} | `{first}` |")
 
     for project, project_items in sorted(grouped.items()):
         lines.extend(["", f"## {project}", "", "| # | Status | Est. time | File | Why |", "| ---: | --- | ---: | --- | --- |"])
         for item in project_items:
-            filename = item["new_path"].rsplit("/", 1)[-1].replace("|", "\\|")
+            filename = item["new_path"][len(project) + 1:].replace("|", "\\|")
             why = item["rationale"].replace("|", "\\|")
             lines.append(f"| {item['sequence']:03d} | {item['status']} | {duration(item.get('estimated_time'))} | `{filename}` | {why} |")
     lines.append("")

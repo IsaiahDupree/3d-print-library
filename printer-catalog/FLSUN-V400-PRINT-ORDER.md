@@ -1,6 +1,6 @@
 # FLSUN V400 print-order catalog
 
-Generated: `2026-09-19T17:58:15.460871+00:00`
+Generated: `2026-09-19T18:12:14.261161+00:00`
 
 Files on the Speeder Pad are prefixed with a three-digit sequence within each project. Numbers `001-899` are the recommended order. Numbers `901-999` are retained duplicate/alternate files. `REVIEW` means the file needs human identification before printing.
 
@@ -10,7 +10,7 @@ Files on the Speeder Pad are prefixed with a three-digit sequence within each pr
 
 | Project | Primary | Alternates | First recommended file |
 | --- | ---: | ---: | --- |
-| `01_Current_CAD_Catalog/AC_V4_Enclosure` | 20 | 20 | `001_cad-catalog-54d894c9aa43-ac-v4-arduino_uno_mount_coupon-100pct-5walls-s50-f80.thumbnails.gcode` |
+| `01_Current_CAD_Catalog/AC_V4_Enclosure` | 20 | 20 | `01_START_HERE_Board_Fit/001_cad-catalog-54d894c9aa43-ac-v4-arduino_uno_mount_coupon-100pct-5walls-s50-f80.thumbnails.gcode` |
 | `01_Current_CAD_Catalog/Andrew_Computing` | 5 | 0 | `001_cad-catalog-b1232541efab-andrew-kv260-support-5walls-s75-f75.gcode` |
 | `01_Current_CAD_Catalog/Plaques/McCool` | 18 | 0 | `001_cad-catalog-678a323e1b2b-plaque-mccool-notepad-rounded-S-plain-20260918.gcode` |
 | `01_Current_CAD_Catalog/Plaques/Patterson` | 18 | 0 | `001_cad-catalog-60e521b3d84a-plaque-patterson-gear-rounded-S-plain-20260918.gcode` |
@@ -35,46 +35,46 @@ Files on the Speeder Pad are prefixed with a three-digit sequence within each pr
 
 | # | Status | Est. time | File | Why |
 | ---: | --- | ---: | --- | --- |
-| 001 | primary | 32m | `001_cad-catalog-54d894c9aa43-ac-v4-arduino_uno_mount_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 002 | primary | 41m | `002_cad-catalog-22c0ea128f21-ac-v4-raspberry_pi_hat_mount_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 003 | primary | 1h 29m | `003_cad-catalog-c5ae503d64bf-ac-v4-branding_qr_process_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 004 | primary | 14m | `004_cad-catalog-b69eae5608ca-ac-v4-m25_board_clearance_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 005 | primary | 15m | `005_cad-catalog-dcf11c2c9b48-ac-v4-m3_insert_fit_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 006 | primary | 34m | `006_cad-catalog-e220765a6bd8-ac-v4-m3_horizontal_insert_boss_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 007 | primary | 8m | `007_cad-catalog-ece532f5992e-ac-v4-m25_insert_fit_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 008 | primary | 25m | `008_cad-catalog-2e8a34015b2a-ac-v4-standing_wall_hole_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 009 | primary | 19m | `009_cad-catalog-6399ed37637e-ac-v4-pigtail_gland_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 010 | primary | 3h 09m | `010_cad-catalog-e1226c0cd212-ac-v4-standing_bridge_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 011 | primary | 30m | `011_cad-catalog-1ce02bd29f87-ac-v4-vehicle_bolt_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 012 | primary | 2h 31m | `012_cad-catalog-cd76a656f60e-ac-v4-adapter_drill_template-100pct-5walls-s50-f80.thumbnails.gcode` | Ordered by the AC V4 documented print and assembly sequence. |
-| 013 | primary | 15m | `013_cad-catalog-d9ec82bb455f-ac-v4-depth_feeler_45_55_65-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 014 | primary | 11m | `014_cad-catalog-4b1d21f65d72-ac-v4-right_io_60mm_witness-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
-| 015 | primary | 3h 17m | `015_cad-catalog-4fcf8b4039ed-ac-v4-slot_clearance_cage-100pct-5walls-s50-f80.thumbnails.gcode` | Empty clearance fit follows the coupons and physical measurements. |
-| 016 | primary | 10h 10m | `016_cad-catalog-53adf450d110-ac-v4-body_standing-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
-| 017 | primary | 2h 22m | `017_cad-catalog-da6456e9acda-ac-v4-right_pigtail_cap_print-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
-| 018 | primary | 3h 08m | `018_cad-catalog-69741d339d26-ac-v4-front_lid-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
-| 019 | primary | 1h 14m | `019_cad-catalog-6a5e809dccd7-ac-v4-electronics_backplane-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
-| 020 | primary | 1h 19m | `020_cad-catalog-4f1b83b3beb7-ac-v4-raspberry_pi_hat_bench_baseplate-100pct-5walls-s50-f80.thumbnails.gcode` | Ordered by the AC V4 documented print and assembly sequence. |
-| 901 | alternate_duplicate | 32m | `901_ALT_cad-catalog-e00b76ea68fa-ac-v4-arduino_uno_mount_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 902 | alternate_duplicate | 41m | `902_ALT_cad-catalog-1836b4e22a4a-ac-v4-raspberry_pi_hat_mount_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 903 | alternate_duplicate | 1h 29m | `903_ALT_cad-catalog-a23b049bfa9d-ac-v4-branding_qr_process_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 904 | alternate_duplicate | 14m | `904_ALT_cad-catalog-0245b0efd9da-ac-v4-m25_board_clearance_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 905 | alternate_duplicate | 15m | `905_ALT_cad-catalog-adcbbea5ea33-ac-v4-m3_insert_fit_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 906 | alternate_duplicate | 34m | `906_ALT_cad-catalog-d602ef563413-ac-v4-m3_horizontal_insert_boss_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 907 | alternate_duplicate | 8m | `907_ALT_cad-catalog-3c6194b0225c-ac-v4-m25_insert_fit_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 908 | alternate_duplicate | 25m | `908_ALT_cad-catalog-aeadd3d26c48-ac-v4-standing_wall_hole_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 909 | alternate_duplicate | 19m | `909_ALT_cad-catalog-5e3e0a8ca2aa-ac-v4-pigtail_gland_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 910 | alternate_duplicate | 3h 09m | `910_ALT_cad-catalog-1ee768f3bb70-ac-v4-standing_bridge_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 911 | alternate_duplicate | 30m | `911_ALT_cad-catalog-701ef7c1ad18-ac-v4-vehicle_bolt_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 912 | alternate_duplicate | 2h 31m | `912_ALT_cad-catalog-1c2c4131a0eb-ac-v4-adapter_drill_template-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 913 | alternate_duplicate | 15m | `913_ALT_cad-catalog-18e5b5a458b3-ac-v4-depth_feeler_45_55_65-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 914 | alternate_duplicate | 11m | `914_ALT_cad-catalog-8ae3174a227f-ac-v4-right_io_60mm_witness-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 915 | alternate_duplicate | 3h 17m | `915_ALT_cad-catalog-d4ca23a5ac07-ac-v4-slot_clearance_cage-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 916 | alternate_duplicate | 10h 10m | `916_ALT_cad-catalog-c497f0d80bf9-ac-v4-body_standing-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 917 | alternate_duplicate | 2h 22m | `917_ALT_cad-catalog-f6a9dcfda3e6-ac-v4-right_pigtail_cap_print-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 918 | alternate_duplicate | 3h 08m | `918_ALT_cad-catalog-fd6bb883fc21-ac-v4-front_lid-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 919 | alternate_duplicate | 1h 14m | `919_ALT_cad-catalog-6d5793bce394-ac-v4-electronics_backplane-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
-| 920 | alternate_duplicate | 1h 19m | `920_ALT_cad-catalog-164e7bcf30e3-ac-v4-raspberry_pi_hat_bench_baseplate-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 001 | primary | 32m | `01_START_HERE_Board_Fit/001_cad-catalog-54d894c9aa43-ac-v4-arduino_uno_mount_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 002 | primary | 41m | `01_START_HERE_Board_Fit/002_cad-catalog-22c0ea128f21-ac-v4-raspberry_pi_hat_mount_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 003 | primary | 1h 29m | `02_Process_And_Hardware_Coupons/003_cad-catalog-c5ae503d64bf-ac-v4-branding_qr_process_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 004 | primary | 14m | `02_Process_And_Hardware_Coupons/004_cad-catalog-b69eae5608ca-ac-v4-m25_board_clearance_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 005 | primary | 15m | `02_Process_And_Hardware_Coupons/005_cad-catalog-dcf11c2c9b48-ac-v4-m3_insert_fit_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 006 | primary | 34m | `02_Process_And_Hardware_Coupons/006_cad-catalog-e220765a6bd8-ac-v4-m3_horizontal_insert_boss_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 007 | primary | 8m | `02_Process_And_Hardware_Coupons/007_cad-catalog-ece532f5992e-ac-v4-m25_insert_fit_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 008 | primary | 25m | `03_Print_Process_And_Gland_Tests/008_cad-catalog-2e8a34015b2a-ac-v4-standing_wall_hole_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 009 | primary | 19m | `03_Print_Process_And_Gland_Tests/009_cad-catalog-6399ed37637e-ac-v4-pigtail_gland_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 010 | primary | 3h 09m | `03_Print_Process_And_Gland_Tests/010_cad-catalog-e1226c0cd212-ac-v4-standing_bridge_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 011 | primary | 30m | `04_Vehicle_Clearance_Gauges/011_cad-catalog-1ce02bd29f87-ac-v4-vehicle_bolt_coupon-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 012 | primary | 2h 31m | `04_Vehicle_Clearance_Gauges/012_cad-catalog-cd76a656f60e-ac-v4-adapter_drill_template-100pct-5walls-s50-f80.thumbnails.gcode` | Ordered by the AC V4 documented print and assembly sequence. |
+| 013 | primary | 15m | `04_Vehicle_Clearance_Gauges/013_cad-catalog-d9ec82bb455f-ac-v4-depth_feeler_45_55_65-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 014 | primary | 11m | `04_Vehicle_Clearance_Gauges/014_cad-catalog-4b1d21f65d72-ac-v4-right_io_60mm_witness-100pct-5walls-s50-f80.thumbnails.gcode` | Validation gate from the AC V4 documented first-fit sequence. |
+| 015 | primary | 3h 17m | `04_Vehicle_Clearance_Gauges/015_cad-catalog-4fcf8b4039ed-ac-v4-slot_clearance_cage-100pct-5walls-s50-f80.thumbnails.gcode` | Empty clearance fit follows the coupons and physical measurements. |
+| 016 | primary | 10h 10m | `05_Final_Enclosure_AFTER_ALL_TESTS_PASS/016_cad-catalog-53adf450d110-ac-v4-body_standing-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
+| 017 | primary | 2h 22m | `05_Final_Enclosure_AFTER_ALL_TESTS_PASS/017_cad-catalog-da6456e9acda-ac-v4-right_pigtail_cap_print-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
+| 018 | primary | 3h 08m | `05_Final_Enclosure_AFTER_ALL_TESTS_PASS/018_cad-catalog-69741d339d26-ac-v4-front_lid-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
+| 019 | primary | 1h 14m | `05_Final_Enclosure_AFTER_ALL_TESTS_PASS/019_cad-catalog-6a5e809dccd7-ac-v4-electronics_backplane-100pct-5walls-s50-f80.thumbnails.gcode` | Production-scale part; print only after all applicable coupons pass. |
+| 020 | primary | 1h 19m | `06_Bench_Only_Pi_HAT_Base/020_cad-catalog-4f1b83b3beb7-ac-v4-raspberry_pi_hat_bench_baseplate-100pct-5walls-s50-f80.thumbnails.gcode` | Ordered by the AC V4 documented print and assembly sequence. |
+| 901 | alternate_duplicate | 32m | `90_Alternates_Do_Not_Print/901_ALT_cad-catalog-e00b76ea68fa-ac-v4-arduino_uno_mount_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 902 | alternate_duplicate | 41m | `90_Alternates_Do_Not_Print/902_ALT_cad-catalog-1836b4e22a4a-ac-v4-raspberry_pi_hat_mount_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 903 | alternate_duplicate | 1h 29m | `90_Alternates_Do_Not_Print/903_ALT_cad-catalog-a23b049bfa9d-ac-v4-branding_qr_process_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 904 | alternate_duplicate | 14m | `90_Alternates_Do_Not_Print/904_ALT_cad-catalog-0245b0efd9da-ac-v4-m25_board_clearance_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 905 | alternate_duplicate | 15m | `90_Alternates_Do_Not_Print/905_ALT_cad-catalog-adcbbea5ea33-ac-v4-m3_insert_fit_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 906 | alternate_duplicate | 34m | `90_Alternates_Do_Not_Print/906_ALT_cad-catalog-d602ef563413-ac-v4-m3_horizontal_insert_boss_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 907 | alternate_duplicate | 8m | `90_Alternates_Do_Not_Print/907_ALT_cad-catalog-3c6194b0225c-ac-v4-m25_insert_fit_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 908 | alternate_duplicate | 25m | `90_Alternates_Do_Not_Print/908_ALT_cad-catalog-aeadd3d26c48-ac-v4-standing_wall_hole_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 909 | alternate_duplicate | 19m | `90_Alternates_Do_Not_Print/909_ALT_cad-catalog-5e3e0a8ca2aa-ac-v4-pigtail_gland_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 910 | alternate_duplicate | 3h 09m | `90_Alternates_Do_Not_Print/910_ALT_cad-catalog-1ee768f3bb70-ac-v4-standing_bridge_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 911 | alternate_duplicate | 30m | `90_Alternates_Do_Not_Print/911_ALT_cad-catalog-701ef7c1ad18-ac-v4-vehicle_bolt_coupon-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 912 | alternate_duplicate | 2h 31m | `90_Alternates_Do_Not_Print/912_ALT_cad-catalog-1c2c4131a0eb-ac-v4-adapter_drill_template-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 913 | alternate_duplicate | 15m | `90_Alternates_Do_Not_Print/913_ALT_cad-catalog-18e5b5a458b3-ac-v4-depth_feeler_45_55_65-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 914 | alternate_duplicate | 11m | `90_Alternates_Do_Not_Print/914_ALT_cad-catalog-8ae3174a227f-ac-v4-right_io_60mm_witness-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 915 | alternate_duplicate | 3h 17m | `90_Alternates_Do_Not_Print/915_ALT_cad-catalog-d4ca23a5ac07-ac-v4-slot_clearance_cage-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 916 | alternate_duplicate | 10h 10m | `90_Alternates_Do_Not_Print/916_ALT_cad-catalog-c497f0d80bf9-ac-v4-body_standing-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 917 | alternate_duplicate | 2h 22m | `90_Alternates_Do_Not_Print/917_ALT_cad-catalog-f6a9dcfda3e6-ac-v4-right_pigtail_cap_print-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 918 | alternate_duplicate | 3h 08m | `90_Alternates_Do_Not_Print/918_ALT_cad-catalog-fd6bb883fc21-ac-v4-front_lid-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 919 | alternate_duplicate | 1h 14m | `90_Alternates_Do_Not_Print/919_ALT_cad-catalog-6d5793bce394-ac-v4-electronics_backplane-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
+| 920 | alternate_duplicate | 1h 19m | `90_Alternates_Do_Not_Print/920_ALT_cad-catalog-164e7bcf30e3-ac-v4-raspberry_pi_hat_bench_baseplate-100pct-5walls-s50-f80.gcode` | Alternate duplicate retained; prefer the matching thumbnail-enabled primary file. |
 
 ## 01_Current_CAD_Catalog/Andrew_Computing
 
