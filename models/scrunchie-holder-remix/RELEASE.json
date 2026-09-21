@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "model": "Scrunchie Tree \u2014 Tall Four-Peg Remix",
+  "author": "Isaiah Dupree",
+  "authorship": "remix",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "f66ccd80076fcc0d3a005b13efefb6f67f54f74a1ba511663a2ac49fb95e7b7f",
+  "files": {
+    "files/isaiah-dupree-github-qr-branding.stl": "2181b95577f94e60084a64eab2c18345b119afa7448527cd11a6e1ec828b5c2e",
+    "files/scrunchie-holder-remix.zip": "f66ccd80076fcc0d3a005b13efefb6f67f54f74a1ba511663a2ac49fb95e7b7f",
+    "files/scrunchie_holder.stl": "97a18ec846fdd25b90db53837ddc5d67d9a4f087035f43b9415648569c9d2b7e",
+    "images/01_cover.png": "f51f74d84d33ad1d3c1679891d62afdabd25a3d9c916c385a9f74ab427d412a7",
+    "images/02_upright.png": "3c7b56fc791df59d958905da95d11709d4c5ae1ce39c265bcb353d2ed1800084",
+    "images/03_upright_turned.png": "f2913387ae89c6b4ce359bfe630f9f6266e95bd4c6a45f72f23bdbf7c8469e61"
+  },
+  "testing_status": {
+    "geometry_audited": false,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false
+  },
+  "remix_sources": [
+    {
+      "author": "MattMo3D",
+      "license": "CC BY-NC 4.0",
+      "title": "Scrunchie holder",
+      "url": "https://www.printables.com/model/281155"
+    }
+  ],
+  "remix_differences": "Reworked the single twisted-post holder into a 395 mm tall round-base tree with a central stem and four angled twisted pegs for greater capacity and visibility."
+}

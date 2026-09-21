@@ -1,0 +1,152 @@
+{
+ "job": "cad.freecad_fea",
+ "part": "uploaded_step",
+ "load_case": "enclosure_rim_compression",
+ "load_case_label": "clamp normalized tub base, distribute -Z force over top lid-interface nodes",
+ "material": "petg_fdm_screen",
+ "named_region_contract": {
+  "fixture": {
+   "name": "tub_base_support",
+   "selector": {
+    "axis": "Z",
+    "location": "bbox_min",
+    "tolerance_mm": 0.01
+   },
+   "constraint": "all_dof_zero"
+  },
+  "load": {
+   "name": "lid_interface_top",
+   "selector": {
+    "axis": "Z",
+    "location": "bbox_max",
+    "tolerance_mm": 0.01
+   },
+   "load": "distributed_force_z"
+  }
+ },
+ "screening_only": true,
+ "material_props": {
+  "E": 2330.0,
+  "nu": 0.4,
+  "rho": 1.27e-09,
+  "label": "FDM PETG nominal isotropic screen",
+  "screening_only": true,
+  "source": "Functional Geometry Library conservative printed-part card; modulus 2330 MPa. Not calibrated to the current printer, grade, raster, temperature, or process profile."
+ },
+ "units": "mm / N / MPa",
+ "tools": {
+  "freecad": "C:\\Program Files\\FreeCAD 1.0\\bin\\FreeCADCmd.exe",
+  "gmsh": "C:\\Program Files\\FreeCAD 1.0\\bin\\gmsh.exe",
+  "mapdl": "C:\\Program Files\\ANSYS Inc\\v222\\ansys\\bin\\winx64\\ANSYS222.exe"
+ },
+ "base_params": {
+  "mesh_mm": 5.0,
+  "load_n": 250.0
+ },
+ "sweep_param": "mesh_mm",
+ "sweep_values": [
+  6.0,
+  4.0,
+  2.5
+ ],
+ "started": "2026-09-20 23:21:13",
+ "points": [
+  {
+   "point": 0,
+   "mesh_mm": 6.0,
+   "load_n": 250.0,
+   "cad_volume_mm3": 160990.532153,
+   "cad_faces": 195,
+   "bbox_x_mm": 159.8,
+   "bbox_y_mm": 60.0,
+   "bbox_z_mm": 88.0,
+   "cad_secs": 0.6,
+   "nodes": 32186,
+   "elements": 16397,
+   "reoriented": 0,
+   "element_type": "SOLID187",
+   "mesh_secs": 2.36,
+   "fixture_region": "tub_base_support",
+   "load_region": "lid_interface_top",
+   "solve_secs": 4.29,
+   "exit_code": 0,
+   "max_seqv_mpa": 7.59727552,
+   "max_disp_mm": 0.794874837,
+   "mesh_volume_mm3": 160991.731,
+   "fixture_nodes": 1371,
+   "load_nodes": 1395,
+   "volume_err_pct": 0.0007446692572287665,
+   "mass_kg": 0.20445949837,
+   "stage": "ok",
+   "errors": "",
+   "total_secs": 7.25,
+   "contour_png": "contour_00.png"
+  },
+  {
+   "point": 1,
+   "mesh_mm": 4.0,
+   "load_n": 250.0,
+   "cad_volume_mm3": 160990.532153,
+   "cad_faces": 195,
+   "bbox_x_mm": 159.8,
+   "bbox_y_mm": 60.0,
+   "bbox_z_mm": 88.0,
+   "cad_secs": 0.55,
+   "nodes": 55136,
+   "elements": 28239,
+   "reoriented": 0,
+   "element_type": "SOLID187",
+   "mesh_secs": 3.73,
+   "fixture_region": "tub_base_support",
+   "load_region": "lid_interface_top",
+   "solve_secs": 7.7,
+   "exit_code": 0,
+   "max_seqv_mpa": 7.61344692,
+   "max_disp_mm": 0.816683569,
+   "mesh_volume_mm3": 160991.297,
+   "fixture_nodes": 2919,
+   "load_nodes": 2919,
+   "volume_err_pct": 0.0004750881867121955,
+   "mass_kg": 0.20445894719,
+   "stage": "ok",
+   "errors": "",
+   "total_secs": 11.99,
+   "contour_png": "contour_01.png"
+  },
+  {
+   "point": 2,
+   "mesh_mm": 2.5,
+   "load_n": 250.0,
+   "cad_volume_mm3": 160990.532153,
+   "cad_faces": 195,
+   "bbox_x_mm": 159.8,
+   "bbox_y_mm": 60.0,
+   "bbox_z_mm": 88.0,
+   "cad_secs": 0.56,
+   "nodes": 132710,
+   "elements": 70228,
+   "reoriented": 0,
+   "element_type": "SOLID187",
+   "mesh_secs": 9.99,
+   "fixture_region": "tub_base_support",
+   "load_region": "lid_interface_top",
+   "solve_secs": 16.13,
+   "exit_code": 0,
+   "max_seqv_mpa": 9.71202047,
+   "max_disp_mm": 0.819823543,
+   "mesh_volume_mm3": 160991.281,
+   "fixture_nodes": 7365,
+   "load_nodes": 7357,
+   "volume_err_pct": 0.0004651497140645905,
+   "mass_kg": 0.20445892686999997,
+   "stage": "ok",
+   "errors": "",
+   "total_secs": 26.71,
+   "contour_png": "contour_02.png"
+  }
+ ],
+ "chart": "sweep.png",
+ "ok_points": 3,
+ "total_secs": 46.6,
+ "max_volume_err_pct": 0.0007
+}

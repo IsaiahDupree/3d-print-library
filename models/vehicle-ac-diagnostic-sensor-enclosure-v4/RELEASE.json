@@ -8,6 +8,11 @@
   "release_status": "published",
   "archive_sha256": "445f837e3168283956f9829b0f80b63082e74c109de58418bc0b90009fa0c56d",
   "files": {
+    "files/body_standing.stl": "b7922c4147f8b9f73f29c0715907d96f65d5f4b7457d28892174919e5799a617",
+    "files/electronics_backplane.stl": "0add94cfba73da3063c5fba3a98b9090d1560101abcdc4e55d13dd55bfb1d15e",
+    "files/front_lid.stl": "f9ae47fd9886c9f4a4dd9d13fba371f0fc8ad2ad70eb79456dda440085c82dff",
+    "files/right_pigtail_cap_print.stl": "12955ddc25c96cd11993e7f4b8cc1e695e635751780ce9fe5ca575026064c231",
+    "files/standing_bridge_coupon.stl": "e55b66571fab3978dd084b81b4239f3b1f447b54190a1f522d5ec01b07f608b8",
     "files/vehicle-ac-diagnostic-enclosure-v4-prototype-draft-20260912.zip": "445f837e3168283956f9829b0f80b63082e74c109de58418bc0b90009fa0c56d",
     "images/preview_assembly.png": "88ea95845ed18c1f7cd65ebb008f5421febee1f13f1313f428ceb56253a96345",
     "images/preview_backplane_front.png": "b1caadc75d188e78f7390efea2d21a1e611ee3dc3d02502ea0d8697a1dadd369",

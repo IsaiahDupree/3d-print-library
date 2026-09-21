@@ -7,9 +7,9 @@
     "printables_profile": "https://www.printables.com/@Isaiah_Dupre_1141044",
     "printables_user_id": "1141044"
   },
-  "last_checked": "2026-09-13",
+  "last_checked": "2026-09-20",
   "published_model_count_reported_by_printables": 1,
-  "mirrored_model_count": 1,
+  "mirrored_model_count": 7,
   "models": [
     {
       "id": "1840792",
@@ -21,6 +21,72 @@
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "445f837e3168283956f9829b0f80b63082e74c109de58418bc0b90009fa0c56d",
       "status": "published"
+    },
+    {
+      "id": null,
+      "slug": "vehicle-firewall-slot-tapered-fit-gauge-v5",
+      "title": "Vehicle Firewall-Slot Tapered Fit Gauge V5",
+      "printables_url": null,
+      "repository_path": "models/vehicle-firewall-slot-tapered-fit-gauge-v5",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "bac16e2e82652908b6f01026ea65f0c8e0cabf1ffd9c9e7aad473947c945f04e",
+      "status": "staged-for-printables"
+    },
+    {
+      "id": null,
+      "slug": "ac-diagnostic-enclosure-design-evolution-v1-v4",
+      "title": "Vehicle A/C Diagnostic Enclosure — Design Evolution V1–V4",
+      "printables_url": null,
+      "repository_path": "models/ac-diagnostic-enclosure-design-evolution-v1-v4",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "568eab0a0d17b8be14f2e30336f41a7f94de8474ab67128fe6c75a5f55e3530d",
+      "status": "staged-for-printables"
+    },
+    {
+      "id": null,
+      "slug": "wled-esp32-enclosure",
+      "title": "WLED ESP32 Controller Enclosure — Vented Tower",
+      "printables_url": null,
+      "repository_path": "models/wled-esp32-enclosure",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "cf87754d43628f260ce88675e1184fb4a82ca17ed96cf5e8f2bc6a892df3553d",
+      "status": "staged-for-printables"
+    },
+    {
+      "id": null,
+      "slug": "twin-flame-sign-remix",
+      "title": "Twin Flame Desk Sign — Remix",
+      "printables_url": null,
+      "repository_path": "models/twin-flame-sign-remix",
+      "authorship": "remix",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "96c8fc805b981a352cb5715b2779b9f3b12cf224955dda4ecbe3e444f89a319c",
+      "status": "staged-for-printables"
+    },
+    {
+      "id": null,
+      "slug": "scrunchie-holder-remix",
+      "title": "Scrunchie Tree — Tall Four-Peg Remix",
+      "printables_url": null,
+      "repository_path": "models/scrunchie-holder-remix",
+      "authorship": "remix",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "f66ccd80076fcc0d3a005b13efefb6f67f54f74a1ba511663a2ac49fb95e7b7f",
+      "status": "staged-for-printables"
+    },
+    {
+      "id": null,
+      "slug": "nanosaur-tracks-mod",
+      "title": "Nanosaur Track Ring — Larger-Diameter Mod",
+      "printables_url": null,
+      "repository_path": "models/nanosaur-tracks-mod",
+      "authorship": "remix",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "67554b15397e03bfb183a18bf9fd9fd981be983933ce0b0a67c5168ef7616089",
+      "status": "staged-for-printables"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "model": "Nanosaur Track Ring \u2014 Larger-Diameter Mod",
+  "author": "Isaiah Dupree",
+  "authorship": "remix",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "67554b15397e03bfb183a18bf9fd9fd981be983933ce0b0a67c5168ef7616089",
+  "files": {
+    "files/isaiah-dupree-github-qr-branding.stl": "2181b95577f94e60084a64eab2c18345b119afa7448527cd11a6e1ec828b5c2e",
+    "files/nanosaur-tracks-mod.zip": "67554b15397e03bfb183a18bf9fd9fd981be983933ce0b0a67c5168ef7616089",
+    "files/nanosaur_tracks_mod.stl": "78d9a69f507cc48d7d93e0af5693b8162213dab7a5e26fc7255f84def37b67cd",
+    "images/01_cover.png": "ade69b325f4d16c1c858689ac97eb5edfa30bff35584ef6e84745912754374c4",
+    "images/02_track_ring.png": "67c9791d4604ba0fe2a864213522436195bd80d8487d4e06c808ea560489ffc4",
+    "images/03_track_ring_edge.png": "d6d14267bda508b75ca39bd16dcc59aface027c3db702537bc7af7b01fb7f18e"
+  },
+  "testing_status": {
+    "geometry_audited": false,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false
+  },
+  "remix_sources": [
+    {
+      "author": "Raffaello Bonghi",
+      "license": "CC BY-NC-SA 4.0",
+      "title": "nanosaur track_print.stl",
+      "url": "https://github.com/rnanosaur/nanosaur"
+    }
+  ],
+  "remix_differences": "Increased the track ring to a 95.7 mm outer diameter while retaining the upstream inner-tooth and outer-tread pattern; fit and track tension remain unverified."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "model": "Twin Flame Desk Sign \u2014 Remix",
+  "author": "Isaiah Dupree",
+  "authorship": "remix",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "96c8fc805b981a352cb5715b2779b9f3b12cf224955dda4ecbe3e444f89a319c",
+  "files": {
+    "files/base.stl": "9d34043a657110db4dcc2a555f4ab31e97d9ae93659cab710bee353512e29bb0",
+    "files/connector.stl": "aa1feeb05cf1e6a1a8067ddc2473131e6cf8843ae4a13f83a04ea2fec1e0ec28",
+    "files/connector_with_screw_holes.stl": "595c227c591bcb1f11609787bf571109f3cbbb0e6564a485a1b2952328597219",
+    "files/in.stl": "29bfb10548f1c2ed3a3840654713757197914163fe8684fcfc11bb80c14699ca",
+    "files/isaiah-dupree-github-qr-branding.stl": "2181b95577f94e60084a64eab2c18345b119afa7448527cd11a6e1ec828b5c2e",
+    "files/out.stl": "eaf5bf0908439870c7b13ce027b71a50c8004530cebeeabf1595644c8e78d22e",
+    "files/twin-flame-sign-remix.zip": "96c8fc805b981a352cb5715b2779b9f3b12cf224955dda4ecbe3e444f89a319c",
+    "images/01_cover.png": "2a328ed57cc089cdc0cb8b655f6a1216d513692649b078a254449a508aaaadb2",
+    "images/02_parts_layout.png": "340bb81e4994231e68f7dff9524646696ad24a6f7208608c7e9a246690795fed",
+    "images/03_flame_frame.png": "18efa4babe9fca033794dce094217adf809954f5252b1097c50cb42ac892f46b",
+    "images/04_flame_insert.png": "8dbfba5e4cadc6e0507289fc0478e022f6f71b28246c60b5281befeabff20a0c",
+    "images/05_connector.png": "c6a8b581ea15cc8a58453e809c8789f962d9e856d016f935e6e77a7b23fc19bc"
+  },
+  "testing_status": {
+    "geometry_audited": false,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false
+  },
+  "remix_sources": [
+    {
+      "author": "ozan",
+      "license": "CC BY 4.0",
+      "title": "Just Fire",
+      "url": "https://www.printables.com/model/994911"
+    },
+    {
+      "author": "Moriel",
+      "license": "CC BY-NC-SA 4.0",
+      "title": "Flame wall art",
+      "url": "https://www.printables.com/model/760426"
+    }
+  ],
+  "remix_differences": "Combined the credited flame artwork into a freestanding multi-part desk sign with separate frame and insert, a round base, a removable upright connector, and an optional screw-hole connector."
+}

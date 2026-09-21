@@ -10,9 +10,16 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory mirrors models that are publicly hosted on my Printables profile. The first published release is the [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/), an original AI-assisted prototype with four sensor channels, a removable electronics backplane, and fitment/process coupons.
+The [`models/`](models/) directory is the source-and-evidence mirror for my Printables releases. It currently contains the published [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/) plus six reviewed releases prepared in the September 2026 catalog wave:
 
-Every future model folder will contain:
+- [Vehicle Firewall-Slot Tapered Fit Gauge V5](models/vehicle-firewall-slot-tapered-fit-gauge-v5/) — a safe, low-material measurement sequence before committing to another enclosure;
+- [A/C Diagnostic Enclosure Design Evolution V1–V4](models/ac-diagnostic-enclosure-design-evolution-v1-v4/) — historical prototypes, lessons learned, and an Orion/ANSYS screening report;
+- [WLED ESP32 Controller Enclosure](models/wled-esp32-enclosure/) — a vented tower, sliding board plate, and serviceable connector panel;
+- [Twin Flame Desk Sign](models/twin-flame-sign-remix/) — a credited, layered multi-part remix;
+- [Scrunchie Tree](models/scrunchie-holder-remix/) — a credited tall four-peg remix;
+- [Nanosaur Track Ring](models/nanosaur-tracks-mod/) — a credited larger-diameter track modification.
+
+Every model folder contains:
 
 - the same downloadable design files offered on Printables;
 - a direct Printables listing link;
@@ -24,7 +31,11 @@ Every future model folder will contain:
 
 Local drafts, private paths, credentials, printer configuration, paid/member-only content, and models without redistribution permission are excluded.
 
-The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md).
+The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The exact disposition of the 2026-09-20 release wave is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md).
+
+## Physical GitHub QR branding
+
+Every release in this wave includes an optional, separately printable Isaiah Dupree brand and GitHub QR coupon. The common STL and editable STEP are also in [`branding/`](branding/). Keeping the mark separate avoids changing fit, load, sealing, or attribution-sensitive surfaces. Contrast-fill the recessed QR cells and verify the code scans before display.
 
 ## Request a design
 

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "model": "WLED ESP32 Controller Enclosure \u2014 Vented Tower",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "cf87754d43628f260ce88675e1184fb4a82ca17ed96cf5e8f2bc6a892df3553d",
+  "files": {
+    "files/Slide4.stl": "ccb5962588e1550a7ca729137ae252efb7fcb976f0773a9d2a8b0c36a303e313",
+    "files/box5.stl": "240f2721bd85a861a470c05552a1b840d71369f96a5f0f0e52d9141236fea249",
+    "files/front4.stl": "220bc6e0b871b03e545c9f544fdf4df73cafe237f282ea5e70ed1a0c8b98142c",
+    "files/isaiah-dupree-github-qr-branding.stl": "2181b95577f94e60084a64eab2c18345b119afa7448527cd11a6e1ec828b5c2e",
+    "files/wled-esp32-enclosure.zip": "cf87754d43628f260ce88675e1184fb4a82ca17ed96cf5e8f2bc6a892df3553d",
+    "images/01_cover.png": "6ce0cb2168ab55afcb7b453f36ee8d680bb6944440442d1c1726a8ea76023c1b",
+    "images/02_parts_layout.png": "71138ddf5601763893ee9e34aa1a0fce55dc4cdacb3e14666775041d1522ea03",
+    "images/03_vented_box.png": "6b9c6e44a7f5d67979761904910031e29f7687f44848a4ed16326ed52b02c00c",
+    "images/04_front_panel.png": "6f92ecea09ea4d896bfe8dd3eab4fe24978f1014c6f1c7384b8c37d1ff0fe4a4",
+    "images/05_board_slide.png": "473169ddad296cd5b60c10b03d4c0544284e14a03d662c0f7a1baa017ca76f40"
+  },
+  "testing_status": {
+    "geometry_audited": false,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false
+  }
+}

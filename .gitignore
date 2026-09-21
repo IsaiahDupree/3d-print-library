@@ -1,3 +1,6 @@
 .DS_Store
 *.tmp
 *.partial
+__pycache__/
+tmp/
+output/

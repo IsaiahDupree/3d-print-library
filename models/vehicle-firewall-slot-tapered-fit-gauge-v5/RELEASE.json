@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "model": "Vehicle Firewall-Slot Tapered Fit Gauge V5",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "bac16e2e82652908b6f01026ea65f0c8e0cabf1ffd9c9e7aad473947c945f04e",
+  "files": {
+    "files/adapter_drill_template.stl": "5aedcbfa7a219c0c806b6917b9ebd5924ec4d9c46972db2ffc50fa8877e65ed5",
+    "files/clearance_whisker_coupon.stl": "399cc1837987f97f480d361ed9a1a64b037e2fa356b4d3dea4b5e4a06c6e3f19",
+    "files/depth_feeler_comb_45_50_55_60.stl": "60e917023734625d531b1910af0becf186ca6f96a2d714bc48e470d75490aff0",
+    "files/isaiah-dupree-github-qr-branding.stl": "2181b95577f94e60084a64eab2c18345b119afa7448527cd11a6e1ec828b5c2e",
+    "files/lateral_offset_indicator.stl": "1c46f03713ecd5838951f1b429c2df8650bbcb7fcd6c66150e2783530e14192c",
+    "files/tapered_clearance_cage.stl": "795991ed985eee50c90ae371e3f5f5fe549b6c3111e3c97f3756d5efe8799a38",
+    "files/tapered_profile_coupon.stl": "b012feea789b2231432df66eba3c099964a692fe4366049c056064a2b651660d",
+    "files/vehicle-firewall-slot-tapered-fit-gauge-v5.zip": "bac16e2e82652908b6f01026ea65f0c8e0cabf1ffd9c9e7aad473947c945f04e",
+    "images/01_cover.png": "d5e5967b064aa0cf0770e0d9c38e3d48d2dc4e28d11263da0c2157bd5b18e556",
+    "images/02_preview_tapered_fit_gauge.png": "f6e8a83ff7db509837e26b9ec46e18db850c645a50e8a8197800aed8a46ae297",
+    "images/03_preview_front_profile.png": "feb8da17bc83f80a83a8f338c7c1614f37488798825efdc9dca24f4ce594b99b",
+    "images/04_preview_side_depth.png": "eb9a797303669e278be0630f23376c6354f2d5a6b2aa6b5989aa6cf570cacb98",
+    "images/05_preview_print_parts.png": "b34141544e78663c2168d7b00675fef57e255ead6dd76ee4de23ff0e7ae95313"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false
+  }
+}

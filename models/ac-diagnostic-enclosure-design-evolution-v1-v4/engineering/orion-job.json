@@ -1,0 +1,254 @@
+{
+ "actor": "codex-printables-release",
+ "artifacts": [
+  {
+   "bytes": 174555,
+   "name": "contour_00.png",
+   "sha256": "a4c9a93b50f00d93d35eac2c83106e359cfab249f7c92e60c0fcf9ab4bf933fb"
+  },
+  {
+   "bytes": 195761,
+   "name": "contour_01.png",
+   "sha256": "d792df10941d9564525a30bfb241a9ce3b96605457cfc3eb9a1b8f0f613dfda7"
+  },
+  {
+   "bytes": 210944,
+   "name": "contour_02.png",
+   "sha256": "fd95eee1e3f4e47f21d1a8f6255df195cd7bc8a125253c1c7873e019ec499acd"
+  },
+  {
+   "bytes": 3907,
+   "name": "manifest.json",
+   "sha256": "10fd2292848180bc283d5227480c172cb7180125dddbc98ca5ed9f2602f37bd0"
+  },
+  {
+   "bytes": 2063,
+   "name": "point_00/__pycache__/build.cpython-311.pyc",
+   "sha256": "4bebaccfa2ba7dcfd898019f9f4497c58ed28825e5033e6ff6ef5fb33ff0e8f7"
+  },
+  {
+   "bytes": 964,
+   "name": "point_00/build.py",
+   "sha256": "75240e9648c967854da9372d5e9691d8f125912a478be1913cea12dd1ec33507"
+  },
+  {
+   "bytes": 2640,
+   "name": "point_00/file.DSP",
+   "sha256": "c02fe541e622dfb9187c6ba5d0ff60d804be7151155bbd3ef4d1c6cdac71b060"
+  },
+  {
+   "bytes": 686,
+   "name": "point_00/file.err",
+   "sha256": "19806f84e997f522fc13402b4c00bc52fbbd6ba80bf8cf5ccc98321c7c3390c9"
+  },
+  {
+   "bytes": 90,
+   "name": "point_00/file.log",
+   "sha256": "01a3dad5fb7e67aaf9b87087db94c78475d23c5574eb8d5997b235ee521cc238"
+  },
+  {
+   "bytes": 820,
+   "name": "point_00/file.mntr",
+   "sha256": "777c5d86c91c6b960ba6a18c3c03a4cdd98c3e05b88f22d3743ce189d923ef97"
+  },
+  {
+   "bytes": 154,
+   "name": "point_00/file.stat",
+   "sha256": "325d5d7e5b1963ccb38f8d6fb8b1fcce354b61f805a056a5cf682dafd694eb73"
+  },
+  {
+   "bytes": 235168,
+   "name": "point_00/part.step",
+   "sha256": "39d532bc388cecdf9255472ed5a3496a9fa17d6ce1c9b94aba2a256bf5207e9d"
+  },
+  {
+   "bytes": 8742258,
+   "name": "point_00/part.stl",
+   "sha256": "c4878116805aa6c4c161849fbb36e41c840994f8c01abdaff2db8d09f4a058f9"
+  },
+  {
+   "bytes": 966,
+   "name": "point_00/point.inp",
+   "sha256": "7bdced65a9bef3545258700d0e2c6c728297ccf9e478350a8aebfd9319b4d60f"
+  },
+  {
+   "bytes": 2600105,
+   "name": "point_00/point.out",
+   "sha256": "9d47e45a6e44311c1f4b49ad30639ddb3548b1992241e6b2f25a3faed60a8dd1"
+  },
+  {
+   "bytes": 133,
+   "name": "point_00/point_result.txt",
+   "sha256": "73fa35b96764e4a4e2d94be34aed3db48de81cd4ce1455784073c363f2acd3fa"
+  },
+  {
+   "bytes": 2063,
+   "name": "point_01/__pycache__/build.cpython-311.pyc",
+   "sha256": "9dfca78be33094192d6f98e753b7a3b65d8980b37a35fc0e518f38e574deaa01"
+  },
+  {
+   "bytes": 964,
+   "name": "point_01/build.py",
+   "sha256": "37772f2c1db60ce8a44e74d4ac1e9f15968a65b5350b63030bfb6c4af88a083a"
+  },
+  {
+   "bytes": 2640,
+   "name": "point_01/file.DSP",
+   "sha256": "eab3b1de6493849eec9c797b06bf1d4da82af3e93495704e91a867b8d0c11c0c"
+  },
+  {
+   "bytes": 80,
+   "name": "point_01/file.err",
+   "sha256": "bb700c1fe21b002a06c7773461dd47c6ba331b0bba85c88046dbf6b818090f2c"
+  },
+  {
+   "bytes": 90,
+   "name": "point_01/file.log",
+   "sha256": "62d995199b3a8478d4062a6a5643f7c67d839fe7a5e407b153e43629ee8b314e"
+  },
+  {
+   "bytes": 820,
+   "name": "point_01/file.mntr",
+   "sha256": "7d53099330760f3fcfd2614578ef76bcb92c7e9bf46498f934483b89874085fd"
+  },
+  {
+   "bytes": 154,
+   "name": "point_01/file.stat",
+   "sha256": "df6894565dfa5978fb55c95f4db42bc4cefd1ee1d386a019df6efcfd640dfe1f"
+  },
+  {
+   "bytes": 235168,
+   "name": "point_01/part.step",
+   "sha256": "d20fe7f8f495d2ca600072c8ba87dfda3c314d57607783eea421a557dc039ccb"
+  },
+  {
+   "bytes": 8742258,
+   "name": "point_01/part.stl",
+   "sha256": "c4878116805aa6c4c161849fbb36e41c840994f8c01abdaff2db8d09f4a058f9"
+  },
+  {
+   "bytes": 966,
+   "name": "point_01/point.inp",
+   "sha256": "7bdced65a9bef3545258700d0e2c6c728297ccf9e478350a8aebfd9319b4d60f"
+  },
+  {
+   "bytes": 4434082,
+   "name": "point_01/point.out",
+   "sha256": "e597e272ce49bb93ef8ff6971b4504cd2e16c8a66d66c8c68e29e1a1f870990a"
+  },
+  {
+   "bytes": 133,
+   "name": "point_01/point_result.txt",
+   "sha256": "47dcd5eb50c36ee2a73f9b6d6b7afa96088c0da8c7ecf73d3e431e0540ee772e"
+  },
+  {
+   "bytes": 2063,
+   "name": "point_02/__pycache__/build.cpython-311.pyc",
+   "sha256": "afb37bcf6cf979bc51e0bbeae5e7ea37a559f7864d08beea4dd1227d4f2eb9af"
+  },
+  {
+   "bytes": 964,
+   "name": "point_02/build.py",
+   "sha256": "54e300ef9445200168cb978411c987c7fb043201a931ce960d55c150f2d0f233"
+  },
+  {
+   "bytes": 2640,
+   "name": "point_02/file.DSP",
+   "sha256": "474a624887a178bd6286cdfe4b939057168f2a021d12d7d61c59b28c74dc2325"
+  },
+  {
+   "bytes": 686,
+   "name": "point_02/file.err",
+   "sha256": "ef66053fb8ff8755f23b666c6670b04e36e4db7a3ac9d96ba0ed9d3863083d69"
+  },
+  {
+   "bytes": 90,
+   "name": "point_02/file.log",
+   "sha256": "c5721a12ee2ed41773a017496c6249a59a1b89c3f372628c90742e2bc8f7c315"
+  },
+  {
+   "bytes": 820,
+   "name": "point_02/file.mntr",
+   "sha256": "d231cd962899b3c43c87eda8bf827490bf322ced70e3e8aa63d9f0ca78d2337d"
+  },
+  {
+   "bytes": 154,
+   "name": "point_02/file.stat",
+   "sha256": "94d2a84297c125febd51779bd5569aae43c4f5277a27d4becac5ea228ea0b7c5"
+  },
+  {
+   "bytes": 235168,
+   "name": "point_02/part.step",
+   "sha256": "d11c25cbca0cb3f8f15d0bf467c0a418a7aaed3659240d8cf241e3c81ab069c9"
+  },
+  {
+   "bytes": 8742258,
+   "name": "point_02/part.stl",
+   "sha256": "c4878116805aa6c4c161849fbb36e41c840994f8c01abdaff2db8d09f4a058f9"
+  },
+  {
+   "bytes": 966,
+   "name": "point_02/point.inp",
+   "sha256": "7bdced65a9bef3545258700d0e2c6c728297ccf9e478350a8aebfd9319b4d60f"
+  },
+  {
+   "bytes": 10642253,
+   "name": "point_02/point.out",
+   "sha256": "fc1085dd7576fda63621921455fd5570cefa45e93238eb926878d560b7a60cfd"
+  },
+  {
+   "bytes": 133,
+   "name": "point_02/point_result.txt",
+   "sha256": "fa843d8ba30ee61004fe6ab85ee4651671c9892f5d4e728e4b6c891b35be2254"
+  },
+  {
+   "bytes": 994,
+   "name": "results.csv",
+   "sha256": "07c15e604ef2f8b6826ff2afa5c1814cef00050a7d6adca7e346e9402ded070a"
+  },
+  {
+   "bytes": 109089,
+   "name": "sweep.png",
+   "sha256": "ac8fef117e7d700ec4a7237d8ae7ce194f87c54c865ea9549c5f42d2188c5829"
+  }
+ ],
+ "command": [
+  "C:\\Users\\Isaia\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "C:\\orion\\control-plane\\modeling\\jobs\\cad_freecad_fea.py",
+  "--params",
+  "C:\\orion\\control\\modeling\\jobs\\mdl_60ee65aca9294544\\params.json",
+  "--out",
+  "C:\\orion\\control\\modeling\\jobs\\mdl_60ee65aca9294544\\out"
+ ],
+ "completed_at": "2026-09-21T03:22:00.178368+00:00",
+ "duration_sec": 46.7,
+ "error": null,
+ "exit_code": 0,
+ "job_dir": "C:\\orion\\control\\modeling\\jobs\\mdl_60ee65aca9294544",
+ "job_id": "mdl_60ee65aca9294544",
+ "job_type": "cad.freecad_fea",
+ "params": {
+  "contours": true,
+  "load_case": "enclosure_rim_compression",
+  "material": "petg_fdm_screen",
+  "nproc": 4,
+  "overrides": {
+   "load_n": 250.0
+  },
+  "part": "uploaded_step",
+  "sweep_param": "mesh_mm",
+  "sweep_values": [
+   6.0,
+   4.0,
+   2.5
+  ],
+  "timeout_sec": 1800,
+  "upload_id": "e84119d4285ede12fa56ab8cf4b2404c2a76e70c07955359e06313563581c844",
+  "upload_path": "C:\\orion\\control\\modeling\\uploads\\e84119d4285ede12fa56ab8cf4b2404c2a76e70c07955359e06313563581c844.step"
+ },
+ "pid": 392496,
+ "started_at": "2026-09-21T03:21:13.479584+00:00",
+ "status": "succeeded",
+ "submitted_at": "2026-09-21T03:20:38.315916+00:00",
+ "updated_at": "2026-09-21T03:22:00.255079+00:00"
+}

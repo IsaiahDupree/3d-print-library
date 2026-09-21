@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "model": "Vehicle A/C Diagnostic Enclosure \u2014 Design Evolution V1\u2013V4",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "568eab0a0d17b8be14f2e30336f41a7f94de8474ab67128fe6c75a5f55e3530d",
+  "files": {
+    "files/ac-diagnostic-enclosure-design-evolution-v1-v4.zip": "568eab0a0d17b8be14f2e30336f41a7f94de8474ab67128fe6c75a5f55e3530d",
+    "files/ac-enclosure-v4-orion-ansys-screening-report.pdf": "eacebca1862300a69da462ec16d353d47731150e0e52c86d6ccbae5565776d9b",
+    "files/isaiah-dupree-github-qr-branding.stl": "2181b95577f94e60084a64eab2c18345b119afa7448527cd11a6e1ec828b5c2e",
+    "images/cover_design_evolution.png": "f9f894819f65a0f31bea0a6a5a0b4057230b4833da39bcfe0232781e7480e24f",
+    "images/v1_preview_closed.png": "b5f78e32e656a8aa2c99400d8a7dab56f53d4ec2fd8af0a8dca2e7fd774baf52",
+    "images/v1_preview_layout.png": "a514974aa9fd6e66be07ccabcddc112b782747e025fdda6678693c0d5210059a",
+    "images/v2_preview_service.png": "10f5ac84e53a7cae4a1979a4b70068166b161607733a6d609665d6eb8c5b4517",
+    "images/v2_preview_standing.png": "b17be5d0182c882b5fe8def526251f7680d92b83de439eca8d064d83be21d500",
+    "images/v3_preview_assembly.png": "c99d221db2acfe5f7f276a1f6a0b7b30f6958fcb9fb48a282a30986f92c701c1",
+    "images/v3_preview_fit_gauge.png": "7e726c5c6680fccd5efa034592cf22aa21c0d58fbd7fc7b6de2093f87157ec70",
+    "images/v4_preview_interior_lid_removed.png": "90d150a81c4748acf2c1b793a73795297a9f8384b923e99c3733f31e1cfc6fb4",
+    "images/v4_preview_mount_clearance.png": "17f8b66450cdcb04d60cfd183a0259f45019a6a9bb42c315cb2f18fc33182f50",
+    "images/v4_preview_service.png": "8dc6f7ae65b5ce5f3e1c422ab367d474234f880f378782e4dd2055a198d19286"
+  },
+  "engineering_files": {
+    "engineering/contour_00.png": "a4c9a93b50f00d93d35eac2c83106e359cfab249f7c92e60c0fcf9ab4bf933fb",
+    "engineering/contour_01.png": "d792df10941d9564525a30bfb241a9ce3b96605457cfc3eb9a1b8f0f613dfda7",
+    "engineering/contour_02.png": "fd95eee1e3f4e47f21d1a8f6255df195cd7bc8a125253c1c7873e019ec499acd",
+    "engineering/manifest.json": "10fd2292848180bc283d5227480c172cb7180125dddbc98ca5ed9f2602f37bd0",
+    "engineering/orion-job.json": "d1869ab5d2b0cddbb6c179e70562fec1af2c6df14873c23a9eea5a5db2074390",
+    "engineering/results.csv": "07c15e604ef2f8b6826ff2afa5c1814cef00050a7d6adca7e346e9402ded070a",
+    "engineering/sweep.png": "ac8fef117e7d700ec4a7237d8ae7ce194f87c54c865ea9549c5f42d2188c5829"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false
+  }
+}

@@ -15,7 +15,7 @@ There is deliberately no fifth cable hole. Power architecture remains outside th
 
 ## Download
 
-The ZIP in [`files/`](files/) contains 48 hash-audited members: printable STL exports, STEP sources, the FreeCAD assembly, the parametric generator, BOM, measurement worksheet, design notes, and printing guidance. The preview renders in [`images/`](images/) are the same public assets used for the Printables listing.
+The ZIP in [`files/`](files/) contains 48 hash-audited members: printable STL exports, STEP sources, the FreeCAD assembly, the parametric generator, BOM, measurement worksheet, design notes, and printing guidance. The five STL files shown individually on Printables are mirrored beside the ZIP for direct access. The preview renders in [`images/`](images/) are the same public assets used for the Printables listing.
 
 ## Prototype status
 
