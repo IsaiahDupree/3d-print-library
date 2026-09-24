@@ -10,7 +10,7 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory is the source-and-evidence mirror for my Printables releases. It currently contains the published [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/) plus six reviewed releases prepared in the September 2026 catalog wave:
+The [`models/`](models/) directory is the source-and-evidence mirror for my Printables releases. It currently contains seven reviewed releases: the published [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/) and [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5), plus five releases prepared for Printables:
 
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](models/vehicle-firewall-slot-tapered-fit-gauge-v5/) — a safe, low-material measurement sequence before committing to another enclosure;
 - [A/C Diagnostic Enclosure Design Evolution V1–V4](models/ac-diagnostic-enclosure-design-evolution-v1-v4/) — historical prototypes, lessons learned, and an Orion/ANSYS screening report;
@@ -31,7 +31,7 @@ Every model folder contains:
 
 Local drafts, private paths, credentials, printer configuration, paid/member-only content, and models without redistribution permission are excluded.
 
-The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The exact disposition of the 2026-09-20 release wave is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md).
+The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The release review is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md), with live publication receipts in [PUBLICATION-RECEIPTS-2026-09-23.md](PUBLICATION-RECEIPTS-2026-09-23.md).
 
 ## Physical GitHub QR branding
 

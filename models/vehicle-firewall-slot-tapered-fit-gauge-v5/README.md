@@ -1,6 +1,6 @@
 # Vehicle Firewall-Slot Tapered Fit Gauge V5
 
-Printables listing: added at publication · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
+[Printables listing](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5) · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 An original, AI-assisted measurement-tool set by Isaiah Dupree for checking the proposed firewall-slot envelope of a vehicle A/C diagnostic electronics enclosure before another full enclosure is printed.
 

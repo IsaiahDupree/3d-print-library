@@ -2,9 +2,9 @@
 
 This directory contains one folder per published or publication-ready model by Isaiah Dupree.
 
-Current mirrored model count: **7** — one published and six reviewed for the 2026-09-20 Printables wave.
+Current mirrored model count: **7** — two published and five prepared for Printables.
 
-Last checked: **2026-09-20**
+Last checked: **2026-09-23**
 
 Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre_1141044)
 

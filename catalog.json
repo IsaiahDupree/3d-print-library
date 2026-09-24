@@ -7,8 +7,8 @@
     "printables_profile": "https://www.printables.com/@Isaiah_Dupre_1141044",
     "printables_user_id": "1141044"
   },
-  "last_checked": "2026-09-20",
-  "published_model_count_reported_by_printables": 1,
+  "last_checked": "2026-09-23",
+  "published_model_count_reported_by_printables": 2,
   "mirrored_model_count": 7,
   "models": [
     {
@@ -23,15 +23,15 @@
       "status": "published"
     },
     {
-      "id": null,
+      "id": "1853082",
       "slug": "vehicle-firewall-slot-tapered-fit-gauge-v5",
       "title": "Vehicle Firewall-Slot Tapered Fit Gauge V5",
-      "printables_url": null,
+      "printables_url": "https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5",
       "repository_path": "models/vehicle-firewall-slot-tapered-fit-gauge-v5",
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "bac16e2e82652908b6f01026ea65f0c8e0cabf1ffd9c9e7aad473947c945f04e",
-      "status": "staged-for-printables"
+      "status": "published"
     },
     {
       "id": null,
