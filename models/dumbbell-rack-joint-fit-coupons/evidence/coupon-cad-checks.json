@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "job_id": "mdl_065753e6f4e2430a",
+  "scope": "actual exported coupon solid/mesh/dimension checks only",
+  "whole_development_audit_passed": 156,
+  "coupon_checks_passed": 14,
+  "checks": [
+    {
+      "check": "insert_coupon:single_valid_solid",
+      "ok": true,
+      "detail": {
+        "solid_count": 1,
+        "volume_mm3": 58194.99573103821
+      }
+    },
+    {
+      "check": "insert_coupon:step_roundtrip_valid",
+      "ok": true,
+      "detail": {}
+    },
+    {
+      "check": "insert_coupon:step_volume_roundtrip",
+      "ok": true,
+      "detail": {
+        "original_mm3": 58194.99573103821,
+        "reimported_mm3": 58194.9957310379
+      }
+    },
+    {
+      "check": "insert_coupon:stl_watertight_positive",
+      "ok": true,
+      "detail": {
+        "triangle_count": 1280,
+        "mesh_volume_mm3": 58198.03611687154
+      }
+    },
+    {
+      "check": "insert_coupon:stl_step_volume_agree",
+      "ok": true,
+      "detail": {
+        "relative_difference": 5.224479863677077e-05
+      }
+    },
+    {
+      "check": "insert_coupon:export_bounds",
+      "ok": true,
+      "detail": {}
+    },
+    {
+      "check": "insert_coupon:v400_corner_brim_fit",
+      "ok": true,
+      "detail": {
+        "passes": true,
+        "size_mm": [
+          120.0,
+          28.0,
+          18.0
+        ],
+        "corner_circle_with_brim_mm": 133.2233744059949,
+        "usable_diameter_mm": 280.0,
+        "brim_mm": 5.0,
+        "height_limit_mm": 410,
+        "scope": "centered bounding rectangle only; slicer/toolpath check still required"
+      }
+    },
+    {
+      "check": "bolt_coupon:single_valid_solid",
+      "ok": true,
+      "detail": {
+        "solid_count": 1,
+        "volume_mm3": 67420.92778848871
+      }
+    },
+    {
+      "check": "bolt_coupon:step_roundtrip_valid",
+      "ok": true,
+      "detail": {}
+    },
+    {
+      "check": "bolt_coupon:step_volume_roundtrip",
+      "ok": true,
+      "detail": {
+        "original_mm3": 67420.92778848871,
+        "reimported_mm3": 67420.9277884883
+      }
+    },
+    {
+      "check": "bolt_coupon:stl_watertight_positive",
+      "ok": true,
+      "detail": {
+        "triangle_count": 1556,
+        "mesh_volume_mm3": 67427.85225703154
+      }
+    },
+    {
+      "check": "bolt_coupon:stl_step_volume_agree",
+      "ok": true,
+      "detail": {
+        "relative_difference": 0.0001027050319591907
+      }
+    },
+    {
+      "check": "bolt_coupon:export_bounds",
+      "ok": true,
+      "detail": {}
+    },
+    {
+      "check": "bolt_coupon:v400_corner_brim_fit",
+      "ok": true,
+      "detail": {
+        "passes": true,
+        "size_mm": [
+          75.0,
+          60.0,
+          16.0
+        ],
+        "corner_circle_with_brim_mm": 106.04686356149273,
+        "usable_diameter_mm": 280.0,
+        "brim_mm": 5.0,
+        "height_limit_mm": 410,
+        "scope": "centered bounding rectangle only; slicer/toolpath check still required"
+      }
+    }
+  ],
+  "physical_validation": false,
+  "load_rating": null,
+  "generator_source_sha256": "c4d3738742cd8be3187afdf01aa24ca6b2aa53508364e2cc44fcf91d929c1446"
+}

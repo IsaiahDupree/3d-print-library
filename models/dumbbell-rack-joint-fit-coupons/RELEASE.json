@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "model": "Dumbbell Rack Joint Fit Coupons \u2014 Unloaded Prototypes",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": null,
+  "release_status": "staged-for-printables",
+  "archive_sha256": "ce8636561af09e82a5b8a5c09627e54db5efd0f01d8d7ba84476b74fcd3101e2",
+  "files": {
+    "LICENSE.md": "3bcfd13c73fa2ac5734a1960d94157d9d102bbfd836f672158ee2f57295b591b",
+    "README.md": "2187b79a08fbbe4e2a2cc000bf1136ea6386d9dbd91dda0381806b7c94f4c834",
+    "evidence/coupon-cad-checks.json": "a0704090c43c2c7db391b4d240f5bbf1d2d84c061ff2fc1752d5a02477e4a34f",
+    "files/bolt_coupon.step": "b379fd6a5e6cae719ec4f3c26510c2a11d35b313f0ff5964fa6cf8b3ba1538e5",
+    "files/bolt_coupon.stl": "46269b715085550c296afd01705f965b19eb0aeab1743f52554566f571599ae1",
+    "files/dumbbell-rack-fit-coupons.zip": "ce8636561af09e82a5b8a5c09627e54db5efd0f01d8d7ba84476b74fcd3101e2",
+    "files/insert_coupon.step": "e90f19bd599d59751228e4f98a17dc0a506127fff865b0eed399273b1ded8268",
+    "files/insert_coupon.stl": "563bba153da6a02004c8c6b35d5f1a6b87b19bf68cea4b7a3e3d3e30b522a52b",
+    "images/hardware_coupons.png": "0b441757eb5570f283b49571c79cbe4dfa58205efef7417d902654762adf6389"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  }
+}

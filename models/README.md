@@ -2,7 +2,7 @@
 
 This directory contains one folder per published or publication-ready model by Isaiah Dupree.
 
-Current mirrored model count: **7** — two published and five prepared for Printables.
+Current mirrored model count: **8** — two published and six prepared for Printables.
 
 Last checked: **2026-09-23**
 
@@ -19,3 +19,5 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Nanosaur Track Ring — Larger-Diameter Mod](nanosaur-tracks-mod/) — credited open-source robot track modification.
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.
+
+- [Dumbbell Rack Joint Fit Coupons](dumbbell-rack-joint-fit-coupons/) — original AI-assisted unloaded hardware-fit prototypes; physical fit unverified.

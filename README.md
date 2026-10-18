@@ -10,14 +10,15 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory is the source-and-evidence mirror for my Printables releases. It currently contains seven reviewed releases: the published [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/) and [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5), plus five releases prepared for Printables:
+The [`models/`](models/) directory is the source-and-evidence mirror for my Printables releases. It currently contains eight reviewed releases: the published [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/) and [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5), plus six releases prepared for Printables:
 
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](models/vehicle-firewall-slot-tapered-fit-gauge-v5/) — a safe, low-material measurement sequence before committing to another enclosure;
 - [A/C Diagnostic Enclosure Design Evolution V1–V4](models/ac-diagnostic-enclosure-design-evolution-v1-v4/) — historical prototypes, lessons learned, and an Orion/ANSYS screening report;
 - [WLED ESP32 Controller Enclosure](models/wled-esp32-enclosure/) — a vented tower, sliding board plate, and serviceable connector panel;
 - [Twin Flame Desk Sign](models/twin-flame-sign-remix/) — a credited, layered multi-part remix;
 - [Scrunchie Tree](models/scrunchie-holder-remix/) — a credited tall four-peg remix;
-- [Nanosaur Track Ring](models/nanosaur-tracks-mod/) — a credited larger-diameter track modification.
+- [Nanosaur Track Ring](models/nanosaur-tracks-mod/) — a credited larger-diameter track modification;
+- [Dumbbell Rack Joint Fit Coupons](models/dumbbell-rack-joint-fit-coupons/) — original unloaded insert/bolt diameter gauges, with verified CAD and no physical fit or load claim.
 
 Every model folder contains:
 
