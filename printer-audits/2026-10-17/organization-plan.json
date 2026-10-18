@@ -1,0 +1,26 @@
+{
+  "schema": "printer-organization-plan/1",
+  "status": "existing_organization_verified",
+  "basis": "All 328 live paths match the previously applied September 19 print-order catalog.",
+  "actual_queued_jobs": 0,
+  "planned_printer_mutations": [],
+  "applied_printer_mutations": [],
+  "preservation": {
+    "all_existing_files": "retain",
+    "20_alternate_files": "retain_in_existing_alternate_directory",
+    "6_review_files": "retain_until_identified",
+    "full_gcode_backup": "not_performed_by_this_metadata_and_hash_audit"
+  },
+  "dumbbell_project": {
+    "loaded_gcode_found": false,
+    "print_list_status": "awaiting_measured_design_and_reviewed_slicer_outputs",
+    "future_directory": "02_Dumbbell_Travel_Rack",
+    "future_stages": [
+      "01_Insert_And_Clearance_Coupons",
+      "02_Weight_Head_Fit_Coupons",
+      "03_Single_Module_Prototype",
+      "04_Production_After_Physical_Load_Test",
+      "90_Alternates_And_Previous_Revisions"
+    ]
+  }
+}

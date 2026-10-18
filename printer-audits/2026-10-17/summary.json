@@ -1,0 +1,46 @@
+{
+  "added_since_previous_catalog": [],
+  "exact_source_chain_file_count": 99,
+  "exported_at_utc": "2026-10-18T01:16:04.984286+00:00",
+  "file_bytes": 3239404389,
+  "file_count": 328,
+  "hashes_stable": true,
+  "heater_targets_c": {
+    "bed": 0.0,
+    "extruder": 0.0
+  },
+  "history_count": 593,
+  "history_status_counts": {
+    "cancelled": 172,
+    "completed": 352,
+    "error": 8,
+    "in_progress": 59,
+    "klippy_shutdown": 2
+  },
+  "history_time_policy": "Controller timestamps preserved; no backdating or clock-offset correction.",
+  "idle_timeout": "Idle",
+  "latest_completed_job": {
+    "current_path_evidence": "metadata_uuid",
+    "current_printer_path": "01_Current_CAD_Catalog/Plaques/Patterson_Laboratories/004_cad-catalog-b467cb4a7fb1-plaque-patterson-laboratories-gear-rounded-S-screw-20260918.gcode",
+    "current_source_evidence": "exact_gcode_sha256_and_build_receipt",
+    "end_time_utc": "2026-09-20T19:05:00.632201+00:00",
+    "filament_used_mm": 8617.344152857158,
+    "filename_at_print": "01_Current_CAD_Catalog/Plaques/Patterson_Laboratories/004_cad-catalog-b467cb4a7fb1-plaque-patterson-laboratories-gear-rounded-S-screw-20260918.gcode",
+    "job_id": "000250",
+    "moonraker_exists_field": true,
+    "physical_inspection": "not_established_by_controller_history",
+    "print_duration_s": 3710.6153331030073,
+    "start_time_utc": "2026-09-20T17:59:31.701606+00:00",
+    "status": "completed"
+  },
+  "missing_since_previous_catalog": [],
+  "name_candidate_file_count": 140,
+  "observed_at_utc": "2026-10-18T01:12:12.588614+00:00",
+  "previous_catalog_generated_at": "2026-09-19T18:12:14.261161+00:00",
+  "printer_mutations": [],
+  "printer_state": "standby",
+  "queue_state": "ready",
+  "queued_jobs": 0,
+  "schema": "flsun-v400-audit/1",
+  "unresolved_file_count": 89
+}

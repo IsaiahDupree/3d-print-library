@@ -33,6 +33,8 @@ Local drafts, private paths, credentials, printer configuration, paid/member-onl
 
 The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The release review is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md), with live publication receipts in [PUBLICATION-RECEIPTS-2026-09-23.md](PUBLICATION-RECEIPTS-2026-09-23.md).
 
+The [October 17 FLSUN V400 audit](printer-audits/2026-10-17/) records the 328 loaded G-code files, their hashes and source evidence, and 593 controller-history records. Controller completion is kept separate from physical inspection and fit verification.
+
 ## Physical GitHub QR branding
 
 Every release in this wave includes an optional, separately printable Isaiah Dupree brand and GitHub QR coupon. The common STL and editable STEP are also in [`branding/`](branding/). Keeping the mark separate avoids changing fit, load, sealing, or attribution-sensitive surfaces. Contrast-fill the recessed QR cells and verify the code scans before display.
