@@ -2,6 +2,8 @@
 
 Original, AI-assisted design by Isaiah Dupree. Two small gauges are the first physical fit step in a modular dumbbell carrier project. This release contains fit coupons only; the full rack remains an unmeasured, unqualified CAD study. No load or lifting capacity is claimed.
 
+[Published on Printables — model 1881340](https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype). The four STEP/STL files and CAD render are uploaded there. The complete ZIP and CAD evidence are hosted here on GitHub and linked from the listing. [Publication and downloaded-file verification](evidence/publication-verification.json).
+
 ## Files and orientation
 
 Print one of each STL at 100% scale with the flat base on the bed and holes upward. Editable STEP files are included. View the holed face with the unique clipped corner at bottom left; diameters increase from left to right.

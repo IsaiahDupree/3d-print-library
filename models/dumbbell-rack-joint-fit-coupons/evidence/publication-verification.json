@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "model_id": "1881340",
+  "printables_url": "https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype",
+  "verified_at_utc": "2026-10-18T01:51:32.186005+00:00",
+  "publication_method": "Authenticated Printables website operated through JetKVM",
+  "listing_verification": {
+    "title": "Dumbbell Rack Joint Fit Coupons \u2014 Unloaded Prototypes",
+    "author": "Isaiah Dupree",
+    "ai_assisted_badge": true,
+    "original_model": true,
+    "license": "CC-BY-NC-SA-4.0",
+    "files_count": 4,
+    "preview_type": "CAD render; not a physical print photograph"
+  },
+  "download_verification": {
+    "method": "All four CAD files downloaded through the Printables Files UI and independently rehashed against the reviewed public package.",
+    "files": [
+      {
+        "filename": "insert_coupon.stl",
+        "bytes": 64084,
+        "sha256": "563bba153da6a02004c8c6b35d5f1a6b87b19bf68cea4b7a3e3d3e30b522a52b",
+        "downloaded_bytes_sha256": "563bba153da6a02004c8c6b35d5f1a6b87b19bf68cea4b7a3e3d3e30b522a52b",
+        "match": true
+      },
+      {
+        "filename": "insert_coupon.step",
+        "bytes": 43960,
+        "sha256": "e90f19bd599d59751228e4f98a17dc0a506127fff865b0eed399273b1ded8268",
+        "downloaded_bytes_sha256": "e90f19bd599d59751228e4f98a17dc0a506127fff865b0eed399273b1ded8268",
+        "match": true
+      },
+      {
+        "filename": "bolt_coupon.stl",
+        "bytes": 77884,
+        "sha256": "46269b715085550c296afd01705f965b19eb0aeab1743f52554566f571599ae1",
+        "downloaded_bytes_sha256": "46269b715085550c296afd01705f965b19eb0aeab1743f52554566f571599ae1",
+        "match": true
+      },
+      {
+        "filename": "bolt_coupon.step",
+        "bytes": 46393,
+        "sha256": "b379fd6a5e6cae719ec4f3c26510c2a11d35b313f0ff5964fa6cf8b3ba1538e5",
+        "downloaded_bytes_sha256": "b379fd6a5e6cae719ec4f3c26510c2a11d35b313f0ff5964fa6cf8b3ba1538e5",
+        "match": true
+      }
+    ]
+  },
+  "uploaded_to_printables": {
+    "cad_files": [
+      "insert_coupon.stl",
+      "insert_coupon.step",
+      "bolt_coupon.stl",
+      "bolt_coupon.step"
+    ],
+    "preview": "hardware_coupons.png",
+    "preview_sha256": "0b441757eb5570f283b49571c79cbe4dfa58205efef7417d902654762adf6389"
+  },
+  "github_only_supplement": {
+    "archive": "files/dumbbell-rack-fit-coupons.zip",
+    "archive_sha256": "c5a9a860c97b2a5ffab30a045ec7400169e8f3024a8e547ad58fe10da0f55ed8",
+    "coupon_checks": "evidence/coupon-cad-checks.json",
+    "note": "Complete ZIP and evidence are linked from the Printables description and hosted on GitHub; they were not uploaded as Printables design files."
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "slicer_prepared": false,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "gcode_published": false
+}

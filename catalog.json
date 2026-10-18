@@ -8,7 +8,7 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-10-17",
-  "published_model_count_reported_by_printables": 2,
+  "published_model_count_reported_by_printables": 3,
   "mirrored_model_count": 8,
   "models": [
     {
@@ -89,15 +89,16 @@
       "status": "staged-for-printables"
     },
     {
-      "id": null,
+      "id": "1881340",
       "slug": "dumbbell-rack-joint-fit-coupons",
       "title": "Dumbbell Rack Joint Fit Coupons \u2014 Unloaded Prototypes",
-      "printables_url": null,
+      "printables_url": "https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype",
       "repository_path": "models/dumbbell-rack-joint-fit-coupons",
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "c5a9a860c97b2a5ffab30a045ec7400169e8f3024a8e547ad58fe10da0f55ed8",
-      "status": "staged-for-printables"
+      "status": "published",
+      "publication_receipt": "models/dumbbell-rack-joint-fit-coupons/evidence/publication-verification.json"
     }
   ]
 }

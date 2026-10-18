@@ -10,7 +10,9 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory is the source-and-evidence mirror for my Printables releases. It currently contains eight reviewed releases: the published [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/) and [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5), plus six releases prepared for Printables:
+The [`models/`](models/) directory contains eight reviewed releases: three published on Printables and five prepared for publication. The published models are [Vehicle A/C Diagnostic Sensor Enclosure V4](models/vehicle-ac-diagnostic-sensor-enclosure-v4/), [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5), and [Dumbbell Rack Joint Fit Coupons](https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype).
+
+The collection includes:
 
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](models/vehicle-firewall-slot-tapered-fit-gauge-v5/) — a safe, low-material measurement sequence before committing to another enclosure;
 - [A/C Diagnostic Enclosure Design Evolution V1–V4](models/ac-diagnostic-enclosure-design-evolution-v1-v4/) — historical prototypes, lessons learned, and an Orion/ANSYS screening report;
@@ -18,12 +20,12 @@ The [`models/`](models/) directory is the source-and-evidence mirror for my Prin
 - [Twin Flame Desk Sign](models/twin-flame-sign-remix/) — a credited, layered multi-part remix;
 - [Scrunchie Tree](models/scrunchie-holder-remix/) — a credited tall four-peg remix;
 - [Nanosaur Track Ring](models/nanosaur-tracks-mod/) — a credited larger-diameter track modification;
-- [Dumbbell Rack Joint Fit Coupons](models/dumbbell-rack-joint-fit-coupons/) — original unloaded insert/bolt diameter gauges, with verified CAD and no physical fit or load claim.
+- [Dumbbell Rack Joint Fit Coupons](models/dumbbell-rack-joint-fit-coupons/) — published unloaded insert/bolt diameter gauges, with verified CAD and no physical fit or load claim. The four CAD downloads are on Printables; the complete ZIP and evidence are on GitHub.
 
 Every model folder contains:
 
-- the same downloadable design files offered on Printables;
-- a direct Printables listing link;
+- reviewed downloadable design files;
+- a direct listing link when published on Printables;
 - version and SHA-256 information;
 - printing and assembly guidance;
 - testing and fitment status;
@@ -32,7 +34,7 @@ Every model folder contains:
 
 Local drafts, private paths, credentials, printer configuration, paid/member-only content, and models without redistribution permission are excluded.
 
-The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The release review is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md), with live publication receipts in [PUBLICATION-RECEIPTS-2026-09-23.md](PUBLICATION-RECEIPTS-2026-09-23.md).
+The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The release review is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md), with live publication receipts from [September 23](PUBLICATION-RECEIPTS-2026-09-23.md) and [October 17](PUBLICATION-RECEIPTS-2026-10-17.md).
 
 The [October 17 FLSUN V400 audit](printer-audits/2026-10-17/) records the 328 loaded G-code files, their hashes and source evidence, and 593 controller-history records. Controller completion is kept separate from physical inspection and fit verification.
 

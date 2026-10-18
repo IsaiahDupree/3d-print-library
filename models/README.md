@@ -2,9 +2,9 @@
 
 This directory contains one folder per published or publication-ready model by Isaiah Dupree.
 
-Current mirrored model count: **8** — two published and six prepared for Printables.
+Current mirrored model count: **8** — three published and five prepared for Printables.
 
-Last checked: **2026-09-23**
+Last checked: **2026-10-17**
 
 Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre_1141044)
 
@@ -17,7 +17,6 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Twin Flame Desk Sign — Remix](twin-flame-sign-remix/) — credited remix from two compatible sources.
 - [Scrunchie Tree — Tall Four-Peg Remix](scrunchie-holder-remix/) — credited remix.
 - [Nanosaur Track Ring — Larger-Diameter Mod](nanosaur-tracks-mod/) — credited open-source robot track modification.
+- [Dumbbell Rack Joint Fit Coupons](dumbbell-rack-joint-fit-coupons/) — published [Printables model 1881340](https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype); original AI-assisted unloaded hardware-fit prototypes, physical fit unverified.
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.
-
-- [Dumbbell Rack Joint Fit Coupons](dumbbell-rack-joint-fit-coupons/) — original AI-assisted unloaded hardware-fit prototypes; physical fit unverified.
