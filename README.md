@@ -68,3 +68,31 @@ Use any physical part at your own risk. Re-check dimensions, material suitabilit
 There is intentionally no repository-wide CAD licence. Each model folder carries its own `LICENSE` or `LICENSE.md`, matching the applicable Printables listing and preserving required attribution. See [LICENSE-POLICY.md](LICENSE-POLICY.md).
 
 The controlled mirror procedure is documented in [SYNCING.md](SYNCING.md).
+
+## Orion working library
+
+The Orion desktop shortcut **3D Print Library** opens the local searchable index
+at `E:\3D Printing\Organized Print Library\START_HERE.html`. It groups design,
+archive, and legacy print assets from Projects, For Friends, Print List, and
+FLSunV400, plus the manufacturing output folders for enclosure, dumbbell,
+plant, modeling, and V400 work under Orion’s control plane. Large generated
+collections are split into project/job pages and retain their revisions. Folder shortcuts lead to the existing source projects; source files
+are not relocated. This working library is separate from the reviewed public
+model releases above.
+
+The `01_V400_Printer_Backup` subtree mirrors the controller's existing numbered
+project folders. The index reports verified versus pending backup files and
+opens the controller copy where a backup is still pending. Verification uses
+the exact SHA-256 baseline from the October 17 audit. Unidentified files and
+alternates remain retained. These categories and backups do not establish
+physical print completion, fit, authorship, or publication permission.
+
+[`scripts/organize_orion_prints.py`](scripts/organize_orion_prints.py) runs on
+Orion with explicit `--library`, `--baseline`, `--printer-url`, and repeated
+`--source-root` arguments. Use `--index-only` to refresh the index without
+downloading missing backup files. A normal run downloads missing files
+sequentially, checks hashes before accepting them, and retains JSONL receipts.
+A changed controller path inventory requires review of a refreshed baseline.
+The script issues only GET requests to the controller. Orion also retains the
+deployed refresh entry point under the library’s `Tools` folder and the
+reviewed baseline under `Records`.
