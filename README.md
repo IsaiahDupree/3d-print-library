@@ -96,3 +96,24 @@ A changed controller path inventory requires review of a refreshed baseline.
 The script issues only GET requests to the controller. Orion also retains the
 deployed refresh entry point under the library’s `Tools` folder and the
 reviewed baseline under `Records`.
+
+### Model pictures
+
+Orion's **CAD Model Pictures** desktop shortcut opens `PICTURES.html` in the
+working library. The picture gallery searches filenames and paths, enlarges
+images on click, and groups byte-identical file locations. Project file pages
+also show thumbnails and explicit pending/unavailable states.
+
+Pictures carry source and image hashes. Their labels distinguish real geometry
+projections, verified existing renders, embedded thumbnails, archive-member
+geometry, sampled XY toolpaths (including travel), and associated sibling STL
+previews whose conversion relationship has not been verified. Git LFS
+references without resident geometry and unsupported formats retain explicit
+failure states. No generated illustration is substituted for missing CAD.
+
+The fixed serial Orion job is implemented in
+`orion-control-plane/scripts/run_print_library_previews.py`; it accepts a
+request ID whose staged request binds the local inventory hash and a 512-pixel
+output size. It resumes verified image results, publishes progress and a
+searchable gallery during the batch, and refreshes the complete index on
+completion. All conversion and image processing run on Orion.

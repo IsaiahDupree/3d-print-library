@@ -10,6 +10,7 @@ import os
 from pathlib import Path
 import urllib.parse
 import urllib.request
+from library_picture_pages import load_pictures,picture_html,gallery,file_picture
 
 EXTENSIONS = {'.stl', '.step', '.stp', '.3mf', '.obj', '.fcstd', '.gcode', '.scad', '.blend', '.f3d', '.iges', '.igs', '.ply', '.amf', '.sldprt', '.sldasm', '.ipt', '.iam', '.dxf', '.dwg', '.skp', '.zip', '.7z'}
 SKIP = {'.git', 'node_modules', '__pycache__', '.venv', 'venv', '.ac_files.backup'}
@@ -83,9 +84,12 @@ def run(args):
                 project='/'.join(rel.parts[:depth]) if len(rel.parts)>1 else 'Loose_Files_To_Review'
                 category=origin.name+'/'+project
                 assets.append(dict(path=str(p), category=category, size=p.stat().st_size, format=p.suffix.lower(), evidence='source_location_only', project_folder=str(origin.joinpath(*rel.parts[:depth])) if len(rel.parts)>1 else str(origin)))
+    pictures,picture_state=load_pictures(root)
+    gallery(root,pictures,picture_state)
     groups=collections.defaultdict(list)
     for item in assets: groups[item['category']].append(item)
     out=['<!doctype html><meta charset="utf-8"><title>Orion Print Library</title><style>body{font:16px system-ui;max-width:1100px;margin:40px auto;padding:20px}li{margin:7px}summary{cursor:pointer;font-weight:bold}input{padding:12px;width:90%}details{margin:20px 0}</style><h1>Orion Print Library</h1>', '<p>V400 print files and original design files. Original project paths are preserved. Folder grouping does not establish authorship, print readiness, or physical fit.</p>', '<input placeholder="Filter files by name or path" oninput="document.querySelectorAll(\'li\').forEach(x=>x.hidden=!(x.dataset.search||x.textContent).toLowerCase().includes(this.value.toLowerCase()))">', '<h2>V400: project folders and numbered files</h2>']
+    out.append('<p><a href="PICTURES.html">Browse and search model pictures</a></p>')
     out.append('<p>Backup verified: '+str(sum(x['verified'] for x in rows))+' / '+str(len(rows))+' files. Pending links open the printer copy.</p>')
     printer_groups=collections.defaultdict(list)
     for item in rows: printer_groups[item['path'].split('/')[0]].append(item)
@@ -93,7 +97,7 @@ def run(args):
         out.append('<details><summary>'+html.escape(group)+' ('+str(len(files))+')</summary><ul>')
         for item in sorted(files,key=lambda x:x['path']):
             url=(backup/Path(item['path'])).as_uri() if item['verified'] else args.printer_url+'/server/files/gcodes/'+urllib.parse.quote(item['path'])
-            out.append('<li><a href="'+html.escape(url,quote=True)+'">'+html.escape(item['path'])+'</a>'+(' — backup verified' if item['verified'] else ' — backup pending; printer copy')+'</li>')
+            out.append('<li>'+file_picture(backup/Path(item['path']),pictures,picture_state)+'<a href="'+html.escape(url,quote=True)+'">'+html.escape(item['path'])+'</a>'+(' — backup verified' if item['verified'] else ' — backup pending; printer copy')+'</li>')
         out.append('</ul></details>')
     out.append('<h2>Orion original design and legacy print files</h2>')
     links=root/'02_Source_Project_Links'; links.mkdir(exist_ok=True)
@@ -105,7 +109,7 @@ def run(args):
         out.append('<li data-search="'+html.escape(group+' '+' '.join(Path(x['path']).name for x in files),quote=True)+'"><a href="'+html.escape(page.as_uri(),quote=True)+'">'+html.escape(group)+'</a> ('+str(len(files))+' files)</li>')
         page_lines=[out[0].split('<h1>')[0], '<p><a href="../START_HERE.html">Back to library</a></p>', '<h1>'+html.escape(group)+'</h1>', '<p>Source inventory; generated revisions and archives are retained. Inclusion does not establish print readiness.</p>', out[2], '<ul>']
         for item in files:
-            p=Path(item['path']); page_lines.append('<li><a href="'+html.escape(p.as_uri(),quote=True)+'">'+html.escape(str(p))+'</a></li>')
+            p=Path(item['path']); page_lines.append('<li>'+file_picture(p,pictures,picture_state)+'<a href="'+html.escape(p.as_uri(),quote=True)+'">'+html.escape(str(p))+'</a></li>')
         page_lines.append('</ul>')
         page.write_text('\n'.join(page_lines),encoding='utf-8')
         target=Path(files[0]['project_folder'])
