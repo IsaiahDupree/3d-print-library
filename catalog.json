@@ -8,8 +8,8 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-11-13",
-  "published_model_count_reported_by_printables": 13,
-  "mirrored_model_count": 14,
+  "published_model_count_reported_by_printables": 14,
+  "mirrored_model_count": 15,
   "models": [
     {
       "id": "1840792",
@@ -164,6 +164,17 @@
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "a3e7b641d393f44c2f669fb8429814d75a6ba6f29ed1309ce91a5c9fdf7d5690",
+      "status": "published"
+    },
+    {
+      "id": "1912753",
+      "slug": "m3-m4-heat-set-insert-fit-coupons",
+      "title": "M3 and M4 Heat-Set Insert Fit Coupons",
+      "printables_url": "https://www.printables.com/model/1912753-m3-and-m4-heat-set-insert-fit-coupons",
+      "repository_path": "models/m3-m4-heat-set-insert-fit-coupons",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "187882a012d5fff6141c8145dd79a56d58b8adbef88093c9cfe649521c3bacb3",
       "status": "published"
     }
   ]

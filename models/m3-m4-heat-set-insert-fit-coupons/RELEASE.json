@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "model": "M3 and M4 Heat-Set Insert Fit Coupons",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912753-m3-and-m4-heat-set-insert-fit-coupons",
+  "release_status": "published",
+  "archive_sha256": "187882a012d5fff6141c8145dd79a56d58b8adbef88093c9cfe649521c3bacb3",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "a9e489ff20915db82033a1d50c7546de36bff5ce36c312a6513b346aef373d21",
+    "evidence/publication-verification.json": "6e73f32bfde5518c8b80c5d5c52ee8fca4b89e6d845832a6fa1c6c1b08d6102e",
+    "files/coupon_M3_pilot_4p0_vertical.stl": "4d747b61ef928fc2e58db0513d92d94132cc6d57b3fd3662a15002e3cb922daa",
+    "files/coupon_M4_pilot_5p6_vertical.stl": "0b9d9ab93479de37abbe69f677c580ef87ed92fb380fc75a092ae2c0ad909942",
+    "files/m3-m4-heat-set-insert-fit-coupons.zip": "187882a012d5fff6141c8145dd79a56d58b8adbef88093c9cfe649521c3bacb3",
+    "images/coupon_contact_sheet.png": "696cb7897f8172caaa6f012b08fbea17a3b56614eaaf4dae0b4694a3e3a91ec9"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 3
+}

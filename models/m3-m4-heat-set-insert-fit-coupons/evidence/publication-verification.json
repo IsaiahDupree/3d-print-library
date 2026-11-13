@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-13T09:26:27.136486+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912753-m3-and-m4-heat-set-insert-fit-coupons",
+  "files_url": "https://www.printables.com/model/1912753-m3-and-m4-heat-set-insert-fit-coupons/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Mechanical Parts",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "m3-m4-heat-set-insert-fit-coupons.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 43,
+      "staged_sha256": "187882a012d5fff6141c8145dd79a56d58b8adbef88093c9cfe649521c3bacb3"
+    },
+    {
+      "filename": "coupon_M3_pilot_4p0_vertical.stl",
+      "bytes": 50284,
+      "sha256": "4d747b61ef928fc2e58db0513d92d94132cc6d57b3fd3662a15002e3cb922daa",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "coupon_M4_pilot_5p6_vertical.stl",
+      "bytes": 50284,
+      "sha256": "0b9d9ab93479de37abbe69f677c580ef87ed92fb380fc75a092ae2c0ad909942",
+      "verification": "download_sha256_match"
+    }
+  ]
+}
