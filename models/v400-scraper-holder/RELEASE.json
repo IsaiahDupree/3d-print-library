@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "model": "Scraper Holder for FLSUN V400",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912976-scraper-holder-for-flsun-v400",
+  "release_status": "published",
+  "archive_sha256": "cec1c715c43a8601e43b438979218d7215138389cce561c587ecbc6156e10e14",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "29101ae0afdc594d05cbfb90bc0f262416498aeaa297cb55656e7674b3050779",
+    "evidence/publication-verification.json": "a915039a7520b027f2796f8544f19b010048ec281968aa396199f7347887379e",
+    "files/scraper-v1.stl": "2f9c4522f4eba9e77aac8a56b16d894407e6ab430263ad2f8433e25aa05675fe",
+    "files/scraper-v2.stl": "3303da35271b492ae55c347bad0bf8b3006374cf69a10361cf9f0323f189960b",
+    "files/v400-scraper-holder.zip": "cec1c715c43a8601e43b438979218d7215138389cce561c587ecbc6156e10e14",
+    "images/scraper-v1.png": "43731e900825964ab9df50b9c38e11d300019fc97e8947de96f5e01081e5c56e",
+    "images/scraper-v2.png": "eb86456c0cc0d14d2d6c7768c6110da6717904b8e53817b0295417e4204de4aa"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 3
+}

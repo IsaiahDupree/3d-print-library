@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "model": "Media Travel Case for T7 Shield, USB and microSD",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912974-media-travel-case-for-t7-shield-usb-and-microsd",
+  "release_status": "published",
+  "archive_sha256": "80bf5bfe039e51e348b7f34207af0b0a08f157d549712b6ef6c0970eae03f0b6",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "13576332ac20b96cc80fa0891b688004440484fa681fe91356125e09fe14480f",
+    "evidence/publication-verification.json": "d0214ed4dd5787380d40c5763d799e586fbce2047e1586e3df8fc3a17a8359ec",
+    "files/media-case-base.stl": "43d986e8f4c7b301f0e4c08c2ebd5f71252583c7288b8d0d104ccd5b26da4c8b",
+    "files/media-case-lid.stl": "ebca3045a0ece358978e60a9e1c4ad205a75787d33de17f4ec871e2a6e699538",
+    "files/media-case-rear-sleeves.stl": "1f0397b9a91e4de9443f2bd4125b6c25ba231344d4d9c0f1aedd00b34bf8b97d",
+    "files/media-travel-case-r17-r21.zip": "80bf5bfe039e51e348b7f34207af0b0a08f157d549712b6ef6c0970eae03f0b6",
+    "images/preview.png": "5e04c9707e7ee421b47fc73d97a06c7055386bbf59f29d7fde6b4a3898fdd4aa"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 4
+}

@@ -1,0 +1,77 @@
+{
+  "verified_at": "2026-11-13T14:03:07.682193+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912774-ordered-38-inch-metric-socket-organizer",
+  "files_url": "https://www.printables.com/model/1912774-ordered-38-inch-metric-socket-organizer/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "ordered-metric-socket-organizer.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 44,
+      "staged_sha256": "faaeea62218d454056bfdc548ec2da744ca556e84b8dfc977877459018ba5c68"
+    },
+    {
+      "filename": "dwst17805-ordered-01-8-10.stl",
+      "bytes": 228684,
+      "sha256": "83b6319b61629c1edde69617341ed1aca28907df79dab5598debdd14ae292392",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-ordered-02-11-13.stl",
+      "bytes": 231884,
+      "sha256": "83f2c8f3b68e54c5bec4d76d18582294e59e323faf5e5a8e6b892325961439d4",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-ordered-03-14-16.stl",
+      "bytes": 231084,
+      "sha256": "2f1baa658e21e250eddc869fc2879b93e35b9613a129ea36e947e0b5f7a51749",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-ordered-04-17-18.stl",
+      "bytes": 164684,
+      "sha256": "98f26f591c8e62ef52922c08e6126d6348974e587ef1b0afba7e0e446dd3ede4",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-ordered-05-19-19.stl",
+      "bytes": 92684,
+      "sha256": "41087f2d220706cc842d653cf03780db3cb30b9e68c638e5813487deb549879f",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-accessory-01.stl",
+      "bytes": 23884,
+      "sha256": "f5760da7d233ab0de5ab7448ce99f44fdf1a89a69cb0ad4310d0a8bf352d8c87",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-accessory-02.stl",
+      "bytes": 22684,
+      "sha256": "fdda57f08df85cde607e518c7325dcafb89a88310e69c4e3bc8e6082283bba42",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-coupon-r025.stl",
+      "bytes": 25884,
+      "sha256": "34a6bc9921ae40d2b4bd2a2cd4be3d344c9b1e786810726e860c7f082e574360",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-coupon-r050.stl",
+      "bytes": 25884,
+      "sha256": "b1b032080ab26e41c8c258218bcd86f95bd1f95eecfec1643ccff985005d018e",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "dwst17805-coupon-r075.stl",
+      "bytes": 25884,
+      "sha256": "a246bf93e230caf9b83374339de0cee8dc168781a53a334ebc60151d4ef14b1f",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-13T14:03:54.892156+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912976-scraper-holder-for-flsun-v400",
+  "files_url": "https://www.printables.com/model/1912976-scraper-holder-for-flsun-v400/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "v400-scraper-holder.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 7,
+      "staged_sha256": "cec1c715c43a8601e43b438979218d7215138389cce561c587ecbc6156e10e14"
+    },
+    {
+      "filename": "scraper-v2.stl",
+      "bytes": 22484,
+      "sha256": "3303da35271b492ae55c347bad0bf8b3006374cf69a10361cf9f0323f189960b",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "scraper-v1.stl",
+      "bytes": 21284,
+      "sha256": "2f9c4522f4eba9e77aac8a56b16d894407e6ab430263ad2f8433e25aa05675fe",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

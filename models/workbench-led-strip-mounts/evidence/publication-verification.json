@@ -1,0 +1,35 @@
+{
+  "verified_at": "2026-11-13T14:04:13.773194+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts",
+  "files_url": "https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Electronics",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "workbench-led-strip-mounts.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 9,
+      "staged_sha256": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de"
+    },
+    {
+      "filename": "led-strip-connector-v2.stl",
+      "bytes": 87284,
+      "sha256": "f475dc3b075509a2c629fe71da003bf48d56047c6105d0679c20d57adad31b99",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "led-strip-block-v2.stl",
+      "bytes": 23084,
+      "sha256": "109715f265634bb132664f086632202163f8ff052435b0f722a40c05052846b2",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "led-strip-corner.stl",
+      "bytes": 39284,
+      "sha256": "61471c7bf4cba505d461b9e26d8d3aa31faae198c337cee66fb7ab140b25c890",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

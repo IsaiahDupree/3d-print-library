@@ -1,0 +1,35 @@
+{
+  "verified_at": "2026-11-13T14:03:49.962933+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912974-media-travel-case-for-t7-shield-usb-and-microsd",
+  "files_url": "https://www.printables.com/model/1912974-media-travel-case-for-t7-shield-usb-and-microsd/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "media-travel-case-r17-r21.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 12,
+      "staged_sha256": "80bf5bfe039e51e348b7f34207af0b0a08f157d549712b6ef6c0970eae03f0b6"
+    },
+    {
+      "filename": "media-case-base.stl",
+      "bytes": 48577384,
+      "sha256": "43d986e8f4c7b301f0e4c08c2ebd5f71252583c7288b8d0d104ccd5b26da4c8b",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "media-case-lid.stl",
+      "bytes": 36656884,
+      "sha256": "ebca3045a0ece358978e60a9e1c4ad205a75787d33de17f4ec871e2a6e699538",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "media-case-rear-sleeves.stl",
+      "bytes": 100884,
+      "sha256": "1f0397b9a91e4de9443f2bd4125b6c25ba231344d4d9c0f1aedd00b34bf8b97d",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

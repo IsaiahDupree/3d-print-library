@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "model": "Ordered 3/8-Inch Metric Socket Organizer",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912774-ordered-38-inch-metric-socket-organizer",
+  "release_status": "published",
+  "archive_sha256": "faaeea62218d454056bfdc548ec2da744ca556e84b8dfc977877459018ba5c68",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "430be6f11bb9aeb6c7f41320489a3fd2fa62abb8b72fd92d3707e2f4c48da247",
+    "evidence/publication-verification.json": "bf5da2f60a25a4b5f68e8a69d7287771cb5a911b6076db20365d6f8ab06f2d13",
+    "files/dwst17805-accessory-01.stl": "f5760da7d233ab0de5ab7448ce99f44fdf1a89a69cb0ad4310d0a8bf352d8c87",
+    "files/dwst17805-accessory-02.stl": "fdda57f08df85cde607e518c7325dcafb89a88310e69c4e3bc8e6082283bba42",
+    "files/dwst17805-coupon-r025.stl": "34a6bc9921ae40d2b4bd2a2cd4be3d344c9b1e786810726e860c7f082e574360",
+    "files/dwst17805-coupon-r050.stl": "b1b032080ab26e41c8c258218bcd86f95bd1f95eecfec1643ccff985005d018e",
+    "files/dwst17805-coupon-r075.stl": "a246bf93e230caf9b83374339de0cee8dc168781a53a334ebc60151d4ef14b1f",
+    "files/dwst17805-ordered-01-8-10.stl": "83b6319b61629c1edde69617341ed1aca28907df79dab5598debdd14ae292392",
+    "files/dwst17805-ordered-02-11-13.stl": "83f2c8f3b68e54c5bec4d76d18582294e59e323faf5e5a8e6b892325961439d4",
+    "files/dwst17805-ordered-03-14-16.stl": "2f1baa658e21e250eddc869fc2879b93e35b9613a129ea36e947e0b5f7a51749",
+    "files/dwst17805-ordered-04-17-18.stl": "98f26f591c8e62ef52922c08e6126d6348974e587ef1b0afba7e0e446dd3ede4",
+    "files/dwst17805-ordered-05-19-19.stl": "41087f2d220706cc842d653cf03780db3cb30b9e68c638e5813487deb549879f",
+    "files/ordered-metric-socket-organizer.zip": "faaeea62218d454056bfdc548ec2da744ca556e84b8dfc977877459018ba5c68",
+    "images/dwst08165-layout.png": "c86f55ce647396c61291ec7a38759b2087938fc0ea99f2a67c534d6f42824f79",
+    "images/dwst17805-layout.png": "d7abe63f9b9f5f9e661b7c2f422d6e3fdb0d5581cb144d9dba6a7f1e1aa83c04"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 11
+}

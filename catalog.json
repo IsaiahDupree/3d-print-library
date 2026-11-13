@@ -8,8 +8,8 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-11-13",
-  "published_model_count_reported_by_printables": 15,
-  "mirrored_model_count": 16,
+  "published_model_count_reported_by_printables": 25,
+  "mirrored_model_count": 26,
   "models": [
     {
       "id": "1840792",
@@ -186,6 +186,116 @@
       "authorship": "original",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "f32aaf2a0bdefed123391dca12365933411852933a1a57b9d25c02c7d68525b4",
+      "status": "published"
+    },
+    {
+      "id": "1912774",
+      "slug": "ordered-metric-socket-organizer",
+      "title": "Ordered 3/8-Inch Metric Socket Organizer",
+      "printables_url": "https://www.printables.com/model/1912774-ordered-38-inch-metric-socket-organizer",
+      "repository_path": "models/ordered-metric-socket-organizer",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "faaeea62218d454056bfdc548ec2da744ca556e84b8dfc977877459018ba5c68",
+      "status": "published"
+    },
+    {
+      "id": "1912776",
+      "slug": "tstak-deep-box-layered-tool-cassettes",
+      "title": "Layered Tool Cassettes for TSTAK DWST17806",
+      "printables_url": "https://www.printables.com/model/1912776-layered-tool-cassettes-for-tstak-dwst17806",
+      "repository_path": "models/tstak-deep-box-layered-tool-cassettes",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "5f97b9d86f61eca4bc653db7c75430e68ec80134ddce953f1356d78d428dabc1",
+      "status": "published"
+    },
+    {
+      "id": "1912972",
+      "slug": "screw-on-led-diffuser-casting-coupon",
+      "title": "Screw-On LED Diffuser and Silicone Mold Test Kit",
+      "printables_url": "https://www.printables.com/model/1912972-screw-on-led-diffuser-and-silicone-mold-test-kit",
+      "repository_path": "models/screw-on-led-diffuser-casting-coupon",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "93e5e64ccb8d075e75230d05c16fed0fff11fa40bd7f9a5b6c58edf290f4dca6",
+      "status": "published"
+    },
+    {
+      "id": "1912974",
+      "slug": "media-travel-case-r17-r21",
+      "title": "Media Travel Case for T7 Shield, USB and microSD",
+      "printables_url": "https://www.printables.com/model/1912974-media-travel-case-for-t7-shield-usb-and-microsd",
+      "repository_path": "models/media-travel-case-r17-r21",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "80bf5bfe039e51e348b7f34207af0b0a08f157d549712b6ef6c0970eae03f0b6",
+      "status": "published"
+    },
+    {
+      "id": "1912976",
+      "slug": "v400-scraper-holder",
+      "title": "Scraper Holder for FLSUN V400",
+      "printables_url": "https://www.printables.com/model/1912976-scraper-holder-for-flsun-v400",
+      "repository_path": "models/v400-scraper-holder",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "cec1c715c43a8601e43b438979218d7215138389cce561c587ecbc6156e10e14",
+      "status": "published"
+    },
+    {
+      "id": "1912977",
+      "slug": "power-adapter-cradle-v2",
+      "title": "Vented Power Adapter Cradle V2",
+      "printables_url": "https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2",
+      "repository_path": "models/power-adapter-cradle-v2",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2",
+      "status": "published"
+    },
+    {
+      "id": "1912978",
+      "slug": "esp32-display-fit-bezel-v3",
+      "title": "ESP32 Display Fit Bezel V3",
+      "printables_url": "https://www.printables.com/model/1912978-esp32-display-fit-bezel-v3",
+      "repository_path": "models/esp32-display-fit-bezel-v3",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949",
+      "status": "published"
+    },
+    {
+      "id": "1912980",
+      "slug": "curved-wall-bracket-v2",
+      "title": "Curved Wall Bracket V2",
+      "printables_url": "https://www.printables.com/model/1912980-curved-wall-bracket-v2",
+      "repository_path": "models/curved-wall-bracket-v2",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "5c3fd9b9efb4de695f135fef8d278e2572f2fc072b93262e38365e8c02d678cd",
+      "status": "published"
+    },
+    {
+      "id": "1912981",
+      "slug": "workbench-led-strip-mounts",
+      "title": "Workbench LED Strip Mounting Parts",
+      "printables_url": "https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts",
+      "repository_path": "models/workbench-led-strip-mounts",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de",
+      "status": "published"
+    },
+    {
+      "id": "1912984",
+      "slug": "front-service-watering-enclosure-v2",
+      "title": "Front-Service Plant Watering Enclosure V2",
+      "printables_url": "https://www.printables.com/model/1912984-front-service-plant-watering-enclosure-v2",
+      "repository_path": "models/front-service-watering-enclosure-v2",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "3d1ab1df0896b33935435b710935823bc268bd730bcac10c3881c8f27ce9fd5e",
       "status": "published"
     }
   ]

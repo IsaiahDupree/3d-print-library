@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-13T14:03:31.351310+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912972-screw-on-led-diffuser-and-silicone-mold-test-kit",
+  "files_url": "https://www.printables.com/model/1912972-screw-on-led-diffuser-and-silicone-mold-test-kit/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Mechanical Parts",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "screw-on-led-diffuser-casting-coupon.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 13,
+      "staged_sha256": "93e5e64ccb8d075e75230d05c16fed0fff11fa40bd7f9a5b6c58edf290f4dca6"
+    },
+    {
+      "filename": "screw-pattern-coupon-backing.stl",
+      "bytes": 94284,
+      "sha256": "ebd6f70976f29f28e81ee846bd1ed12876183f738f958ed256bb033ae8bea3b7",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "screw-pattern-coupon-silicone-mold.stl",
+      "bytes": 24684,
+      "sha256": "c6c90134ca5f7be80f296df59254c8bcbe6ef6399f9d7f5f8fd0fce39b344815",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

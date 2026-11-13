@@ -1,0 +1,35 @@
+{
+  "verified_at": "2026-11-13T14:06:28.416774+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912984-front-service-plant-watering-enclosure-v2",
+  "files_url": "https://www.printables.com/model/1912984-front-service-plant-watering-enclosure-v2/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Mechanical Parts",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "front-service-watering-enclosure-v2.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 65,
+      "staged_sha256": "3d1ab1df0896b33935435b710935823bc268bd730bcac10c3881c8f27ce9fd5e"
+    },
+    {
+      "filename": "dry_front_body_print.stl",
+      "bytes": 855484,
+      "sha256": "b53ac06681e361422431263b8958ea2b9d7e8541f9c1abd3dd48c7687f1ccf7b",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "front_battery_drawer_print.stl",
+      "bytes": 94684,
+      "sha256": "6d52b50a98e044f83707d6f94fac4c15ceb9ea26a68304f2426629c0643d6428",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "front_valve_tray_left_1_print.stl",
+      "bytes": 91484,
+      "sha256": "0ccc0bb36c41b8b27ac21ba64a3105c9a3865cb4299594b15606977728dc70e3",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

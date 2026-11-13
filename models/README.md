@@ -2,7 +2,7 @@
 
 This directory records the public Printables releases and their release reviews.
 
-Current mirrored model count: **16**. 15 are published on Printables and one is under rights review.
+Current mirrored model count: **26**. 25 are published on Printables and one is under rights review.
 
 Last checked: **2026-11-13**
 
@@ -26,5 +26,15 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Modular Open Toolbox Trays — 42 mm Pitch](https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch)
 - [M3 and M4 Heat-Set Insert Fit Coupons](https://www.printables.com/model/1912753-m3-and-m4-heat-set-insert-fit-coupons)
 - [Muffin Cup Dispenser — Rack Body Prototype](https://www.printables.com/model/1912762-muffin-cup-dispenser-rack-body-prototype)
+- [Ordered 3/8-Inch Metric Socket Organizer](https://www.printables.com/model/1912774-ordered-38-inch-metric-socket-organizer)
+- [Layered Tool Cassettes for TSTAK DWST17806](https://www.printables.com/model/1912776-layered-tool-cassettes-for-tstak-dwst17806)
+- [Screw-On LED Diffuser and Silicone Mold Test Kit](https://www.printables.com/model/1912972-screw-on-led-diffuser-and-silicone-mold-test-kit)
+- [Media Travel Case for T7 Shield, USB and microSD](https://www.printables.com/model/1912974-media-travel-case-for-t7-shield-usb-and-microsd)
+- [Scraper Holder for FLSUN V400](https://www.printables.com/model/1912976-scraper-holder-for-flsun-v400)
+- [Vented Power Adapter Cradle V2](https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2)
+- [ESP32 Display Fit Bezel V3](https://www.printables.com/model/1912978-esp32-display-fit-bezel-v3)
+- [Curved Wall Bracket V2](https://www.printables.com/model/1912980-curved-wall-bracket-v2)
+- [Workbench LED Strip Mounting Parts](https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts)
+- [Front-Service Plant Watering Enclosure V2](https://www.printables.com/model/1912984-front-service-plant-watering-enclosure-v2)
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.

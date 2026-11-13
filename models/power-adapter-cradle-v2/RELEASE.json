@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "model": "Vented Power Adapter Cradle V2",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2",
+  "release_status": "published",
+  "archive_sha256": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "0e33feb0513040422d9a34662d989fed70db291a6843d5148faa9b859a1872bd",
+    "evidence/publication-verification.json": "5296c52738079af6cea122fce2f8d1391674c6c93e65914bf204ab081eb45f5b",
+    "files/charger-cradle-v2.stl": "44b72af9ecc124586e9debc9506205f31e515955f72a298b9c6fefd6422a37c4",
+    "files/power-adapter-cradle-v2.zip": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2",
+    "images/charger-cradle-v2.png": "c8e98fa8e600a79c0b38ebf950e4d15137cf63226288cb190274f5e75a727e4d"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 2
+}

@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-11-13T14:03:58.705522+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2",
+  "files_url": "https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "power-adapter-cradle-v2.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 5,
+      "staged_sha256": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2"
+    },
+    {
+      "filename": "charger-cradle-v2.stl",
+      "bytes": 85584,
+      "sha256": "44b72af9ecc124586e9debc9506205f31e515955f72a298b9c6fefd6422a37c4",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

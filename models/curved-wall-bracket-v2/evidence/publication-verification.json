@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-11-13T14:04:06.432272+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912980-curved-wall-bracket-v2",
+  "files_url": "https://www.printables.com/model/1912980-curved-wall-bracket-v2/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "curved-wall-bracket-v2.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 5,
+      "staged_sha256": "5c3fd9b9efb4de695f135fef8d278e2572f2fc072b93262e38365e8c02d678cd"
+    },
+    {
+      "filename": "dust-mount-v2.stl",
+      "bytes": 107084,
+      "sha256": "355f294eb8662133fc1023d081126b3d88cf308af5757e56a9b31b0ca7f90331",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

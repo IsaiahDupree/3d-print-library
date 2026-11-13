@@ -1,0 +1,59 @@
+{
+  "verified_at": "2026-11-13T14:03:26.215898+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912776-layered-tool-cassettes-for-tstak-dwst17806",
+  "files_url": "https://www.printables.com/model/1912776-layered-tool-cassettes-for-tstak-dwst17806/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "tstak-deep-box-layered-tool-cassettes.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 42,
+      "staged_sha256": "5f97b9d86f61eca4bc653db7c75430e68ec80134ddce953f1356d78d428dabc1"
+    },
+    {
+      "filename": "registration-male.stl",
+      "bytes": 25884,
+      "sha256": "2afc9952ec16c4311c521132ed3668f37ff628716104eef9942d40b92e5df7a4",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "registration-female.stl",
+      "bytes": 25884,
+      "sha256": "001f92b919524d73e6cfe8374937cdf32ca999f8c62e705ab8a163bff0c9e4eb",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "footprint-male.stl",
+      "bytes": 104484,
+      "sha256": "160483da0c7169faeb9cc18cfb958445bf28b014e30244d82b4389502f78dbc0",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "footprint-female.stl",
+      "bytes": 104484,
+      "sha256": "67f4f12c141877648e0420af5b4e27cf61cb42ad94259218911f37e45cac0cc8",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "tier-01.stl",
+      "bytes": 206684,
+      "sha256": "935568319be153e1f6df898f1b0df91d03c23e0c0373681f35d70898b2525a6a",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "tier-02.stl",
+      "bytes": 206684,
+      "sha256": "a5666063ff88fce8cb7343f964d0dc5859bc75378c962dcab0738de223d70218",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "tier-03.stl",
+      "bytes": 206684,
+      "sha256": "bd0810874ff15302c2bc72bfc984ea6b8cf05e21f748aae7a0241f85a0797aa7",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

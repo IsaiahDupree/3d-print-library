@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "model": "Curved Wall Bracket V2",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912980-curved-wall-bracket-v2",
+  "release_status": "published",
+  "archive_sha256": "5c3fd9b9efb4de695f135fef8d278e2572f2fc072b93262e38365e8c02d678cd",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "18013fa812e2362dc7e6e52914153840d9066e680e4cbc3e7c2a2ef1bc5ed099",
+    "evidence/publication-verification.json": "0cfcad6d43f71abe07331f3ccb3d8ee89e311a24d334b86d981be1c95f062dea",
+    "files/curved-wall-bracket-v2.zip": "5c3fd9b9efb4de695f135fef8d278e2572f2fc072b93262e38365e8c02d678cd",
+    "files/dust-mount-v2.stl": "355f294eb8662133fc1023d081126b3d88cf308af5757e56a9b31b0ca7f90331",
+    "images/dust-mount-v2.png": "16c6ef3560b7bd6f7dbe924e26c0cde46c7a78314e22651e2e9b6892d9793826"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 2
+}

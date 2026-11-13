@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "model": "Screw-On LED Diffuser and Silicone Mold Test Kit",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912972-screw-on-led-diffuser-and-silicone-mold-test-kit",
+  "release_status": "published",
+  "archive_sha256": "93e5e64ccb8d075e75230d05c16fed0fff11fa40bd7f9a5b6c58edf290f4dca6",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "704a8ab259d06f33e0de1d47b5261c57bcd23621eba65fc10e2ca14ce24c516b",
+    "evidence/publication-verification.json": "6de30f04c842bd251f32eaf27b42f3c4282f426a819575756fe98520ce627297",
+    "files/screw-on-led-diffuser-casting-coupon.zip": "93e5e64ccb8d075e75230d05c16fed0fff11fa40bd7f9a5b6c58edf290f4dca6",
+    "files/screw-pattern-coupon-backing.stl": "ebd6f70976f29f28e81ee846bd1ed12876183f738f958ed256bb033ae8bea3b7",
+    "files/screw-pattern-coupon-silicone-mold.stl": "c6c90134ca5f7be80f296df59254c8bcbe6ef6399f9d7f5f8fd0fce39b344815",
+    "images/04-screw-on-exploded-coupon.png": "991243a642da7e77ab14742875b839b7474bf48d41544443a57c34b581bf2321"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 3
+}

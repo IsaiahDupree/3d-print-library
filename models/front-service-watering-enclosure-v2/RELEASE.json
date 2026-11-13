@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "model": "Front-Service Plant Watering Enclosure V2",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912984-front-service-plant-watering-enclosure-v2",
+  "release_status": "published",
+  "archive_sha256": "3d1ab1df0896b33935435b710935823bc268bd730bcac10c3881c8f27ce9fd5e",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "55c444119aed76dee3638953ae2788643fbc1c05bdac790c6deea01775aa8926",
+    "evidence/publication-verification.json": "8e462d29759afb9931bfbd5e6758377e492b079154ebd38caf45246a646fe536",
+    "files/dry_front_body_print.stl": "b53ac06681e361422431263b8958ea2b9d7e8541f9c1abd3dd48c7687f1ccf7b",
+    "files/front-service-watering-enclosure-v2.zip": "3d1ab1df0896b33935435b710935823bc268bd730bcac10c3881c8f27ce9fd5e",
+    "files/front_battery_drawer_print.stl": "6d52b50a98e044f83707d6f94fac4c15ceb9ea26a68304f2426629c0643d6428",
+    "files/front_valve_tray_left_1_print.stl": "0ccc0bb36c41b8b27ac21ba64a3105c9a3865cb4299594b15606977728dc70e3",
+    "images/front_exploded.png": "1256d65b6e5ea2b75aee26de56ce7eec1b01764d907582fa76111e78f4884cd1",
+    "images/front_installed.png": "732fa90445bcc427528bcdd89f18ef2e25c3abf59ec57f6111cbf81d38111bf0",
+    "images/front_service_open.png": "b1f767c9c3546c4a90d6475ca6ba74bdc39f0679ba228ecd6ad84e9d1daf00ec"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 4
+}

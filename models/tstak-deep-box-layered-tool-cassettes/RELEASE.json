@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "model": "Layered Tool Cassettes for TSTAK DWST17806",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912776-layered-tool-cassettes-for-tstak-dwst17806",
+  "release_status": "published",
+  "archive_sha256": "5f97b9d86f61eca4bc653db7c75430e68ec80134ddce953f1356d78d428dabc1",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "b8f3c754b5f47965e6f6256c8501dcbdc32743d439d1ca10d8d0d18e3b724180",
+    "evidence/publication-verification.json": "7d9bec51982265d59c5de181444cbafb01e5831fc94a45faddc662f601c606f1",
+    "files/footprint-female.stl": "67f4f12c141877648e0420af5b4e27cf61cb42ad94259218911f37e45cac0cc8",
+    "files/footprint-male.stl": "160483da0c7169faeb9cc18cfb958445bf28b014e30244d82b4389502f78dbc0",
+    "files/registration-female.stl": "001f92b919524d73e6cfe8374937cdf32ca999f8c62e705ab8a163bff0c9e4eb",
+    "files/registration-male.stl": "2afc9952ec16c4311c521132ed3668f37ff628716104eef9942d40b92e5df7a4",
+    "files/tier-01.stl": "935568319be153e1f6df898f1b0df91d03c23e0c0373681f35d70898b2525a6a",
+    "files/tier-02.stl": "a5666063ff88fce8cb7343f964d0dc5859bc75378c962dcab0738de223d70218",
+    "files/tier-03.stl": "bd0810874ff15302c2bc72bfc984ea6b8cf05e21f748aae7a0241f85a0797aa7",
+    "files/tstak-deep-box-layered-tool-cassettes.zip": "5f97b9d86f61eca4bc653db7c75430e68ec80134ddce953f1356d78d428dabc1",
+    "images/compact-detail.png": "00e50cf762354c14acaa73347a83e44e6d0d153bb2e127fa887d05c84e9577a6",
+    "images/exploded.png": "71a1b581205eb22a88f7229d27d54efa91645c5e742f0c904b6e50b8fcb11a46",
+    "images/fit-gauges.png": "d489e62848ee16eb9547dcd60b299d6b4980d8159a7be2e792a0f23745428c65",
+    "images/stacked.png": "0e1a430931996dac3cd703f317a852c60f483e6b7a6482d25c56a9b6674e2ddc"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 8
+}

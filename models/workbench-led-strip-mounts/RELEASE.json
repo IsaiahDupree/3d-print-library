@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "model": "Workbench LED Strip Mounting Parts",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts",
+  "release_status": "published",
+  "archive_sha256": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "6fb1d24f6127ef84709de296b74d262af2198b6c51519f09cd9aef4beecc2aee",
+    "evidence/publication-verification.json": "0972a4ff8953528ce0d0e9912cbfc51bd8f637ac68d8e063d14e582aaf8b82ef",
+    "files/led-strip-block-v2.stl": "109715f265634bb132664f086632202163f8ff052435b0f722a40c05052846b2",
+    "files/led-strip-connector-v2.stl": "f475dc3b075509a2c629fe71da003bf48d56047c6105d0679c20d57adad31b99",
+    "files/led-strip-corner.stl": "61471c7bf4cba505d461b9e26d8d3aa31faae198c337cee66fb7ab140b25c890",
+    "files/workbench-led-strip-mounts.zip": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de",
+    "images/led-strip-block-v2.png": "79a05b0dd93498236cac950b655152400dcf059201be2ec358a7143a01b96d95",
+    "images/led-strip-connector-v2.png": "dd19ccaa255d7c6ff98370d4eebb1badf7fa8cf6778df0931131011f05cd566e",
+    "images/led-strip-corner.png": "ac3a8872a129739936c60de504df26424798bbbfdb476436054b4c2ce533efa0"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 4
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "model": "ESP32 Display Fit Bezel V3",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912978-esp32-display-fit-bezel-v3",
+  "release_status": "published",
+  "archive_sha256": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "c2c2b190dafeb2e9184d2af997de8650e884bb7f5b78efaa4028e417ab1b71aa",
+    "evidence/publication-verification.json": "306bd27fa39d1a5608cfc3372c3a2459410d7888318131e4ba986a3da318815f",
+    "files/display-template-v3.stl": "eae7679646e42ff5f4c600203be1d8dd3077a3ebb32e21c45d40a8c1299093e6",
+    "files/esp32-display-fit-bezel-v3.zip": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949",
+    "images/display-template-v3.png": "0dd2ffc147f59822ba351bb46e5a1991dc8913ae772d1e8e3455ff72fb53699c"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 2
+}
