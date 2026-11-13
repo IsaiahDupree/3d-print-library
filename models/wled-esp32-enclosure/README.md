@@ -1,5 +1,7 @@
 # WLED ESP32 Controller Enclosure — Vented Tower
 
+[Download on Printables](https://www.printables.com/model/1912672-wled-esp32-controller-enclosure-vented-tower)
+
 Printables listing: added at publication · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 An original three-part enclosure by Isaiah Dupree for a small ESP32 board running [WLED](https://kno.wled.ge/), the open-source LED-strip controller firmware. The board mounts on a plate that slides into a vented tower, and a screw-on front panel carries the external connectors.

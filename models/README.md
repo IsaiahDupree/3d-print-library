@@ -1,10 +1,10 @@
 # Model mirror
 
-This directory contains one folder per published or publication-ready model by Isaiah Dupree.
+This directory records the public Printables releases and their release reviews.
 
-Current mirrored model count: **8** — three published and five prepared for Printables.
+Current mirrored model count: **8**. Seven are published on Printables and one is under rights review.
 
-Last checked: **2026-10-17**
+Last checked: **2026-11-13**
 
 Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre_1141044)
 
@@ -16,7 +16,7 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [WLED ESP32 Controller Enclosure — Vented Tower](wled-esp32-enclosure/) — original electronics enclosure.
 - [Twin Flame Desk Sign — Remix](twin-flame-sign-remix/) — credited remix from two compatible sources.
 - [Scrunchie Tree — Tall Four-Peg Remix](scrunchie-holder-remix/) — credited remix.
-- [Nanosaur Track Ring — Larger-Diameter Mod](nanosaur-tracks-mod/) — credited open-source robot track modification.
+- [Nanosaur Track Ring — Larger-Diameter Mod](nanosaur-tracks-mod/) — attribution and redistribution rights under review.
 - [Dumbbell Rack Joint Fit Coupons](dumbbell-rack-joint-fit-coupons/) — published [Printables model 1881340](https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype); original AI-assisted unloaded hardware-fit prototypes, physical fit unverified.
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.

@@ -1,5 +1,7 @@
 # Vehicle A/C Diagnostic Enclosure — Design Evolution V1–V4 (Historical Prototypes)
 
+[Download on Printables](https://www.printables.com/model/1912674-vehicle-ac-diagnostic-enclosure-design-evolution-v)
+
 Printables listing: added at publication · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 Four superseded, original, AI-assisted design studies by Isaiah Dupree that led to the published [Vehicle A/C Diagnostic Sensor Enclosure V4](https://www.printables.com/model/1840792-vehicle-ac-diagnostic-sensor-enclosure-v4-prototyp) and the Tapered Fit Gauge V5.

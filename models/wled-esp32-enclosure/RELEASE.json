@@ -4,8 +4,8 @@
   "author": "Isaiah Dupree",
   "authorship": "original",
   "license": "CC-BY-NC-SA-4.0",
-  "printables_url": null,
-  "release_status": "staged-for-printables",
+  "printables_url": "https://www.printables.com/model/1912672-wled-esp32-controller-enclosure-vented-tower",
+  "release_status": "published",
   "archive_sha256": "cf87754d43628f260ce88675e1184fb4a82ca17ed96cf5e8f2bc6a892df3553d",
   "files": {
     "files/Slide4.stl": "ccb5962588e1550a7ca729137ae252efb7fcb976f0773a9d2a8b0c36a303e313",
@@ -24,5 +24,7 @@
     "slicer_prepared": false,
     "physically_printed": false,
     "fit_verified": false
-  }
+  },
+  "printables_uploaded_file_count": 5,
+  "publication_receipt": "../../PUBLICATION-RECEIPTS-2026-11-13.md"
 }

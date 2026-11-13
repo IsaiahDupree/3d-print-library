@@ -1,12 +1,12 @@
 # Nanosaur Track Ring — Larger-Diameter Mod
 
-Printables listing: added at publication · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
+Printables release held for attribution and rights review · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 A modified printable track ring for [nanosaur](https://nanosaur.ai/), the open-source NVIDIA Jetson robot by Raffaello Bonghi. It keeps the stock inner-tooth and outer-tread pattern but increases the ring's outer diameter.
 
 ## Credits
 
-Modified from nanosaur's `track_print.stl` in the [nanosaur repository](https://github.com/rnanosaur/nanosaur) by **Raffaello Bonghi** — the STL meshes are CC BY-NC-SA 4.0. This mod uses the same license.
+Modified from nanosaur's `track_print.stl` in the [nanosaur repository](https://github.com/rnanosaur/nanosaur) by **Raffaello Bonghi** — the STL meshes are CC BY-NC-SA 4.0. The attribution and licence for this particular modified file are under review.
 
 ## Part
 

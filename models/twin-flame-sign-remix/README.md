@@ -1,5 +1,7 @@
 # Twin Flame Desk Sign — Remix
 
+[Download on Printables](https://www.printables.com/model/1912688-twin-flame-desk-sign-remix)
+
 Printables listing: added at publication · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 A four-part standing flame sign by Isaiah Dupree, remixed from two flame designs on Printables. The flame artwork is theirs; the layered frame-and-insert construction, round base, and upright connector are new.

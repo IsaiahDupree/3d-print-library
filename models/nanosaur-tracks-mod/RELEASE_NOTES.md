@@ -1,6 +1,10 @@
 # Release notes — Nanosaur Track Ring — Larger-Diameter Mod
 
-## 1.0.0 — 2026-09-20 (staged, not yet published)
+## 2026-11-13 — Publication held for attribution and rights review
+
+The earlier package attributed the modification to Isaiah. The file provenance requires further verification before a new release.
+
+## 1.0.0 — 2026-09-20 (historical staging record)
 
 Printable nanosaur track ring with the stock tooth and tread pattern at a 95.7 mm outer diameter.
 
@@ -16,5 +20,5 @@ Printable nanosaur track ring with the stock tooth and tread pattern at a 95.7 m
 
 ## Next
 
-1. Publish the listing on Printables and record its URL in `RELEASE.json` and the repository `catalog.json`.
+1. Verify attribution and redistribution rights for the exact modified file before creating a Printables listing.
 2. Add real print photos and measured results as a 1.1.0 entry.

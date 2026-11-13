@@ -7,8 +7,8 @@
     "printables_profile": "https://www.printables.com/@Isaiah_Dupre_1141044",
     "printables_user_id": "1141044"
   },
-  "last_checked": "2026-10-17",
-  "published_model_count_reported_by_printables": 3,
+  "last_checked": "2026-11-13",
+  "published_model_count_reported_by_printables": 7,
   "mirrored_model_count": 8,
   "models": [
     {
@@ -34,48 +34,48 @@
       "status": "published"
     },
     {
-      "id": null,
+      "id": "1912674",
       "slug": "ac-diagnostic-enclosure-design-evolution-v1-v4",
       "title": "Vehicle A/C Diagnostic Enclosure \u2014 Design Evolution V1\u2013V4",
-      "printables_url": null,
+      "printables_url": "https://www.printables.com/model/1912674-vehicle-ac-diagnostic-enclosure-design-evolution-v",
       "repository_path": "models/ac-diagnostic-enclosure-design-evolution-v1-v4",
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "568eab0a0d17b8be14f2e30336f41a7f94de8474ab67128fe6c75a5f55e3530d",
-      "status": "staged-for-printables"
+      "status": "published"
     },
     {
-      "id": null,
+      "id": "1912672",
       "slug": "wled-esp32-enclosure",
       "title": "WLED ESP32 Controller Enclosure \u2014 Vented Tower",
-      "printables_url": null,
+      "printables_url": "https://www.printables.com/model/1912672-wled-esp32-controller-enclosure-vented-tower",
       "repository_path": "models/wled-esp32-enclosure",
       "authorship": "original",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "cf87754d43628f260ce88675e1184fb4a82ca17ed96cf5e8f2bc6a892df3553d",
-      "status": "staged-for-printables"
+      "status": "published"
     },
     {
-      "id": null,
+      "id": "1912688",
       "slug": "twin-flame-sign-remix",
       "title": "Twin Flame Desk Sign \u2014 Remix",
-      "printables_url": null,
+      "printables_url": "https://www.printables.com/model/1912688-twin-flame-desk-sign-remix",
       "repository_path": "models/twin-flame-sign-remix",
       "authorship": "remix",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "96c8fc805b981a352cb5715b2779b9f3b12cf224955dda4ecbe3e444f89a319c",
-      "status": "staged-for-printables"
+      "status": "published"
     },
     {
-      "id": null,
+      "id": "1912685",
       "slug": "scrunchie-holder-remix",
       "title": "Scrunchie Tree \u2014 Tall Four-Peg Remix",
-      "printables_url": null,
+      "printables_url": "https://www.printables.com/model/1912685-scrunchie-tree-tall-four-peg-remix",
       "repository_path": "models/scrunchie-holder-remix",
       "authorship": "remix",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "f66ccd80076fcc0d3a005b13efefb6f67f54f74a1ba511663a2ac49fb95e7b7f",
-      "status": "staged-for-printables"
+      "status": "published"
     },
     {
       "id": null,
@@ -83,10 +83,10 @@
       "title": "Nanosaur Track Ring \u2014 Larger-Diameter Mod",
       "printables_url": null,
       "repository_path": "models/nanosaur-tracks-mod",
-      "authorship": "remix",
+      "authorship": "remix-authorship-unverified",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "67554b15397e03bfb183a18bf9fd9fd981be983933ce0b0a67c5168ef7616089",
-      "status": "staged-for-printables"
+      "status": "held-for-rights-review"
     },
     {
       "id": "1881340",

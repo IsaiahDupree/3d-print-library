@@ -4,8 +4,8 @@
   "author": "Isaiah Dupree",
   "authorship": "original-ai-assisted",
   "license": "CC-BY-NC-SA-4.0",
-  "printables_url": null,
-  "release_status": "staged-for-printables",
+  "printables_url": "https://www.printables.com/model/1912674-vehicle-ac-diagnostic-enclosure-design-evolution-v",
+  "release_status": "published",
   "archive_sha256": "568eab0a0d17b8be14f2e30336f41a7f94de8474ab67128fe6c75a5f55e3530d",
   "files": {
     "files/ac-diagnostic-enclosure-design-evolution-v1-v4.zip": "568eab0a0d17b8be14f2e30336f41a7f94de8474ab67128fe6c75a5f55e3530d",
@@ -36,5 +36,7 @@
     "slicer_prepared": false,
     "physically_printed": false,
     "fit_verified": false
-  }
+  },
+  "printables_uploaded_file_count": 3,
+  "publication_receipt": "../../PUBLICATION-RECEIPTS-2026-11-13.md"
 }

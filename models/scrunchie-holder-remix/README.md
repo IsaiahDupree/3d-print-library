@@ -1,5 +1,7 @@
 # Scrunchie Tree — Tall Four-Peg Remix
 
+[Download on Printables](https://www.printables.com/model/1912685-scrunchie-tree-tall-four-peg-remix)
+
 Printables listing: added at publication · [Request a design](https://github.com/IsaiahDupree/3d-print-library/issues/new/choose) · [More printable designs](https://github.com/IsaiahDupree/3d-print-library)
 
 A tall scrunchie and hair-tie tree by Isaiah Dupree, remixed from MattMo3D's twisted-post scrunchie holder. The original holds scrunchies on a single twisted post; this version uses a round base, a central post, and four angled twisted pegs so more scrunchies stay visible and easy to grab.

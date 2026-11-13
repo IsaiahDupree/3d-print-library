@@ -4,8 +4,8 @@
   "author": "Isaiah Dupree",
   "authorship": "remix",
   "license": "CC-BY-NC-SA-4.0",
-  "printables_url": null,
-  "release_status": "staged-for-printables",
+  "printables_url": "https://www.printables.com/model/1912688-twin-flame-desk-sign-remix",
+  "release_status": "published",
   "archive_sha256": "96c8fc805b981a352cb5715b2779b9f3b12cf224955dda4ecbe3e444f89a319c",
   "files": {
     "files/base.stl": "9d34043a657110db4dcc2a555f4ab31e97d9ae93659cab710bee353512e29bb0",
@@ -41,5 +41,8 @@
       "url": "https://www.printables.com/model/760426"
     }
   ],
-  "remix_differences": "Combined the credited flame artwork into a freestanding multi-part desk sign with separate frame and insert, a round base, a removable upright connector, and an optional screw-hole connector."
+  "remix_differences": "Combined the credited flame artwork into a freestanding multi-part desk sign with separate frame and insert, a round base, a removable upright connector, and an optional screw-hole connector.",
+  "printables_uploaded_file_count": 7,
+  "publication_receipt": "../../PUBLICATION-RECEIPTS-2026-11-13.md",
+  "printables_category": "Home Decor"
 }
