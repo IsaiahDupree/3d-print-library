@@ -2,7 +2,7 @@
 
 This directory records the public Printables releases and their release reviews.
 
-Current mirrored model count: **8**. Seven are published on Printables and one is under rights review.
+Current mirrored model count: **12**. Eleven are published on Printables and one is under rights review.
 
 Last checked: **2026-11-13**
 
@@ -18,5 +18,9 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Scrunchie Tree — Tall Four-Peg Remix](scrunchie-holder-remix/) — credited remix.
 - [Nanosaur Track Ring — Larger-Diameter Mod](nanosaur-tracks-mod/) — attribution and redistribution rights under review.
 - [Dumbbell Rack Joint Fit Coupons](dumbbell-rack-joint-fit-coupons/) — published [Printables model 1881340](https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype); original AI-assisted unloaded hardware-fit prototypes, physical fit unverified.
+- [Wall-Mounted Key and Mail Organizer](https://www.printables.com/model/1912698-wall-mounted-key-and-mail-organizer)
+- [Bubble Speaker Housing V2 — Fit Prototype](https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype)
+- [Media Travel Case R21 Spring Latch — Fit Prototype](https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype)
+- [M5 Bridge Joint and Hole Gauge — Bench Fit Kit](https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit)
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.

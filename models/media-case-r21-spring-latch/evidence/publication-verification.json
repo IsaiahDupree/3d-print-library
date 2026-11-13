@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-13T08:48:31.669816+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype",
+  "files_url": "https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Mechanical Parts",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "media-case-r21-spring-latch.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 5,
+      "staged_sha256": "76e8a1fd2bbd5128f9a8cdeb0b49eced56b25f581f830e7716c5998bebbc9bdb"
+    },
+    {
+      "filename": "R21-direct-M3-clip.stl",
+      "bytes": 187284,
+      "sha256": "4ce8261f7f7aa5951f44f9e1ea7969b9db2086024678f7cd1fd36a586284683f",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "R21-PLA-front-clip-pair.stl",
+      "bytes": 374484,
+      "sha256": "d51d09e65bdaf60959b4bca599c97ce2a8f7d508bdd8b28e32a8e0ad939ba686",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

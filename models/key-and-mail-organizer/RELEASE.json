@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "model": "Wall-Mounted Key and Mail Organizer",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912698-wall-mounted-key-and-mail-organizer",
+  "release_status": "published",
+  "archive_sha256": "377beb0ae1f80abc4573228788068e853645e429a5b9cfdf514c5854ccf59289",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "37ced4a8d76f583078df265c689c57e39e7547f34fa2fa9a9c91fb3a1eddc7ad",
+    "evidence/publication-verification.json": "da82d07b011a254a8f940aa93ef1216abfb82f39ed393bd7ff729f08e8eae038",
+    "files/key-and-mail-organizer.stl": "de339dbf24502f42801b07b4c3444a97fdd83aa02fb2d96b9fa5394133e3658d",
+    "files/key-and-mail-organizer.zip": "377beb0ae1f80abc4573228788068e853645e429a5b9cfdf514c5854ccf59289",
+    "images/key-and-mail-organizer.png": "58650c67f268027ee7fbb355f154239ca9ac8a8e40429438eaef193bba7dad02"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 2
+}

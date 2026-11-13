@@ -8,8 +8,8 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-11-13",
-  "published_model_count_reported_by_printables": 7,
-  "mirrored_model_count": 8,
+  "published_model_count_reported_by_printables": 11,
+  "mirrored_model_count": 12,
   "models": [
     {
       "id": "1840792",
@@ -99,6 +99,50 @@
       "archive_sha256": "c5a9a860c97b2a5ffab30a045ec7400169e8f3024a8e547ad58fe10da0f55ed8",
       "status": "published",
       "publication_receipt": "models/dumbbell-rack-joint-fit-coupons/evidence/publication-verification.json"
+    },
+    {
+      "id": "1912698",
+      "slug": "key-and-mail-organizer",
+      "title": "Wall-Mounted Key and Mail Organizer",
+      "printables_url": "https://www.printables.com/model/1912698-wall-mounted-key-and-mail-organizer",
+      "repository_path": "models/key-and-mail-organizer",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "377beb0ae1f80abc4573228788068e853645e429a5b9cfdf514c5854ccf59289",
+      "status": "published"
+    },
+    {
+      "id": "1912700",
+      "slug": "bubble-speaker-housing-v2",
+      "title": "Bubble Speaker Housing V2 \u2014 Fit Prototype",
+      "printables_url": "https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype",
+      "repository_path": "models/bubble-speaker-housing-v2",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "cdbd5b396eae71b22f235787ab5e10473aead23b456eca75d2340302eb363324",
+      "status": "published"
+    },
+    {
+      "id": "1912703",
+      "slug": "media-case-r21-spring-latch",
+      "title": "Media Travel Case R21 Spring Latch \u2014 Fit Prototype",
+      "printables_url": "https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype",
+      "repository_path": "models/media-case-r21-spring-latch",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "76e8a1fd2bbd5128f9a8cdeb0b49eced56b25f581f830e7716c5998bebbc9bdb",
+      "status": "published"
+    },
+    {
+      "id": "1912705",
+      "slug": "m5-bridge-joint-fit-kit",
+      "title": "M5 Bridge Joint and Hole Gauge \u2014 Bench Fit Kit",
+      "printables_url": "https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit",
+      "repository_path": "models/m5-bridge-joint-fit-kit",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "5a7a92bd30ab28ca1c56ab839cb13276aa9b078ba8e31aa513c19b48a952e217",
+      "status": "published"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "model": "M5 Bridge Joint and Hole Gauge \u2014 Bench Fit Kit",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit",
+  "release_status": "published",
+  "archive_sha256": "5a7a92bd30ab28ca1c56ab839cb13276aa9b078ba8e31aa513c19b48a952e217",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "c92678e622e977d40a11030a1bc27c729e68fe677ec0c0f8264c8ae0ea644d4f",
+    "evidence/publication-verification.json": "f03f1cacf18d8b9c1ae1631b319f27f66caf9ac87bd1f06295c3da30facdbeb6",
+    "files/joint_left.stl": "84dbc1497fd42a0b8fd245454f2e3f620fda3f427407362dba9b05fbbaeae5a5",
+    "files/joint_right.stl": "b6bbf39cfa57376bafaf0af713e6bcfe34b30b3afda672b28c27b382b200ec8a",
+    "files/joint_splice.stl": "423b85e0d30c994e2a6a4e7d8854fa66a81661602bf293efb9b58666f8db9d3c",
+    "files/m5-bridge-joint-fit-kit.zip": "5a7a92bd30ab28ca1c56ab839cb13276aa9b078ba8e31aa513c19b48a952e217",
+    "files/m5_hole_ladder.stl": "a2178643e9c9314c7a2ebb2fe380bbe64d0145c162076a0f92e342c3f3a05b8d",
+    "images/preview.png": "d4c63cf70c3e1b992f34895ca88159c2f9b365fbed118898e9df0cc1a51f2f2f"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 5
+}

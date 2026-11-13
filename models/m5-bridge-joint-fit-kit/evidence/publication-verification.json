@@ -1,0 +1,41 @@
+{
+  "verified_at": "2026-11-13T08:48:38.752278+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit",
+  "files_url": "https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Mechanical Parts",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "m5-bridge-joint-fit-kit.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 10,
+      "staged_sha256": "5a7a92bd30ab28ca1c56ab839cb13276aa9b078ba8e31aa513c19b48a952e217"
+    },
+    {
+      "filename": "joint_left.stl",
+      "bytes": 26284,
+      "sha256": "84dbc1497fd42a0b8fd245454f2e3f620fda3f427407362dba9b05fbbaeae5a5",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "joint_right.stl",
+      "bytes": 26284,
+      "sha256": "b6bbf39cfa57376bafaf0af713e6bcfe34b30b3afda672b28c27b382b200ec8a",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "joint_splice.stl",
+      "bytes": 51884,
+      "sha256": "423b85e0d30c994e2a6a4e7d8854fa66a81661602bf293efb9b58666f8db9d3c",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "m5_hole_ladder.stl",
+      "bytes": 64684,
+      "sha256": "a2178643e9c9314c7a2ebb2fe380bbe64d0145c162076a0f92e342c3f3a05b8d",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

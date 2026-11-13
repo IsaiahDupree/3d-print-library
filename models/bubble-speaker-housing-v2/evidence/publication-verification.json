@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-11-13T08:48:26.450889+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype",
+  "files_url": "https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Electronics",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "bubble-speaker-housing-v2.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 3,
+      "staged_sha256": "cdbd5b396eae71b22f235787ab5e10473aead23b456eca75d2340302eb363324"
+    },
+    {
+      "filename": "bubble-speaker-housing-v2.stl",
+      "bytes": 168284,
+      "sha256": "a4dd346b510e600fd799cd5db7e4a0fecf2fe53675f48ddfb7c4cb8919b8d1d5",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

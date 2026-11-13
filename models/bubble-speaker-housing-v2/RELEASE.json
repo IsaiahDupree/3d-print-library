@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "model": "Bubble Speaker Housing V2 \u2014 Fit Prototype",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype",
+  "release_status": "published",
+  "archive_sha256": "cdbd5b396eae71b22f235787ab5e10473aead23b456eca75d2340302eb363324",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "bc2168ca0c87cf426dd545ea12ad72d9c1a0a8472c06b8108857656cdb89b687",
+    "evidence/publication-verification.json": "8bb45e53ead5c70b68d9e93c0bf46f48440fd4d0d15a00a002bda42523647892",
+    "files/bubble-speaker-housing-v2.stl": "a4dd346b510e600fd799cd5db7e4a0fecf2fe53675f48ddfb7c4cb8919b8d1d5",
+    "files/bubble-speaker-housing-v2.zip": "cdbd5b396eae71b22f235787ab5e10473aead23b456eca75d2340302eb363324",
+    "images/bubble-speaker-housing-v2.png": "a1e77e8cd7f95c4235b812f4a552e863af44865823658a3c5580e751871519e1"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 2
+}

@@ -10,7 +10,7 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory records eight releases. Seven have public Printables listings.
+The [`models/`](models/) directory records twelve releases. Eleven have public Printables listings.
 
 - [Vehicle A/C Diagnostic Sensor Enclosure V4](https://www.printables.com/model/1840792-vehicle-ac-diagnostic-sensor-enclosure-v4-prototyp)
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5)
@@ -19,6 +19,10 @@ The [`models/`](models/) directory records eight releases. Seven have public Pri
 - [WLED ESP32 Controller Enclosure](https://www.printables.com/model/1912672-wled-esp32-controller-enclosure-vented-tower)
 - [Scrunchie Tree](https://www.printables.com/model/1912685-scrunchie-tree-tall-four-peg-remix)
 - [Twin Flame Desk Sign](https://www.printables.com/model/1912688-twin-flame-desk-sign-remix)
+- [Wall-Mounted Key and Mail Organizer](https://www.printables.com/model/1912698-wall-mounted-key-and-mail-organizer)
+- [Bubble Speaker Housing V2 — Fit Prototype](https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype)
+- [Media Travel Case R21 Spring Latch — Fit Prototype](https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype)
+- [M5 Bridge Joint and Hole Gauge — Bench Fit Kit](https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit)
 
 The Nanosaur Track Ring is under review for attribution and redistribution rights.
 

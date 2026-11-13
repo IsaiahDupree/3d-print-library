@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "model": "Media Travel Case R21 Spring Latch \u2014 Fit Prototype",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype",
+  "release_status": "published",
+  "archive_sha256": "76e8a1fd2bbd5128f9a8cdeb0b49eced56b25f581f830e7716c5998bebbc9bdb",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "5a2b2ebe422e4260c201280aa2c568ba9b724390bd0926fa05620d1dac4979df",
+    "evidence/publication-verification.json": "32fec21423a4cc0205ec659c3f16474145922119857f102cf753c99827fd9e87",
+    "files/R21-PLA-front-clip-pair.stl": "d51d09e65bdaf60959b4bca599c97ce2a8f7d508bdd8b28e32a8e0ad939ba686",
+    "files/R21-direct-M3-clip.stl": "4ce8261f7f7aa5951f44f9e1ea7969b9db2086024678f7cd1fd36a586284683f",
+    "files/media-case-r21-spring-latch.zip": "76e8a1fd2bbd5128f9a8cdeb0b49eced56b25f581f830e7716c5998bebbc9bdb",
+    "images/R21-clip-profile.png": "f51564e3a536540227c72b7cd17200b1fd4d5540040913aabcea089ce2f92c27",
+    "images/R21-spring-closeup.png": "9cc7ef4dff1d46902f094a3bc2ec072f707f134a5731b3bc56d38ee80a89173e",
+    "images/R21-spring-released.png": "45f4f0014dcde43588b89a232de90c82eff5bb5440f6af8890ed0c9c51973e96"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 3
+}
