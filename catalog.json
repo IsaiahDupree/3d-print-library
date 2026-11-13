@@ -8,8 +8,8 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-11-13",
-  "published_model_count_reported_by_printables": 14,
-  "mirrored_model_count": 15,
+  "published_model_count_reported_by_printables": 15,
+  "mirrored_model_count": 16,
   "models": [
     {
       "id": "1840792",
@@ -175,6 +175,17 @@
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "187882a012d5fff6141c8145dd79a56d58b8adbef88093c9cfe649521c3bacb3",
+      "status": "published"
+    },
+    {
+      "id": "1912762",
+      "slug": "muffin-cup-dispenser-body",
+      "title": "Muffin Cup Dispenser \u2014 Rack Body Prototype",
+      "printables_url": "https://www.printables.com/model/1912762-muffin-cup-dispenser-rack-body-prototype",
+      "repository_path": "models/muffin-cup-dispenser-body",
+      "authorship": "original",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "f32aaf2a0bdefed123391dca12365933411852933a1a57b9d25c02c7d68525b4",
       "status": "published"
     }
   ]

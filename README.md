@@ -10,7 +10,7 @@ I design useful parts around real fitment constraints, document how they are dev
 
 ## Models
 
-The [`models/`](models/) directory records 15 releases. 14 have public Printables listings.
+The [`models/`](models/) directory records 16 releases. 15 have public Printables listings.
 
 - [Vehicle A/C Diagnostic Sensor Enclosure V4](https://www.printables.com/model/1840792-vehicle-ac-diagnostic-sensor-enclosure-v4-prototyp)
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5)
@@ -26,6 +26,7 @@ The [`models/`](models/) directory records 15 releases. 14 have public Printable
 - [Watering Enclosure Fit Coupons — Guide, Seal and Hardware](https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard)
 - [Modular Open Toolbox Trays — 42 mm Pitch](https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch)
 - [M3 and M4 Heat-Set Insert Fit Coupons](https://www.printables.com/model/1912753-m3-and-m4-heat-set-insert-fit-coupons)
+- [Muffin Cup Dispenser — Rack Body Prototype](https://www.printables.com/model/1912762-muffin-cup-dispenser-rack-body-prototype)
 
 The Nanosaur Track Ring is under review for attribution and redistribution rights.
 

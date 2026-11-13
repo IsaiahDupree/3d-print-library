@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-11-13T09:39:02.019973+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912762-muffin-cup-dispenser-rack-body-prototype",
+  "files_url": "https://www.printables.com/model/1912762-muffin-cup-dispenser-rack-body-prototype/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "muffin-cup-dispenser-body.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 5,
+      "staged_sha256": "f32aaf2a0bdefed123391dca12365933411852933a1a57b9d25c02c7d68525b4"
+    },
+    {
+      "filename": "muffin-cup-dispenser-body.stl",
+      "bytes": 1175784,
+      "sha256": "ed6330629a594b45bee058065d3f3fea37fbee9bf3dba350bb4423285ae80a5d",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

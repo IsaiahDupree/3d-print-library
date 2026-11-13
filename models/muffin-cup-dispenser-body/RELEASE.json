@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "model": "Muffin Cup Dispenser \u2014 Rack Body Prototype",
+  "author": "Isaiah Dupree",
+  "authorship": "original",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912762-muffin-cup-dispenser-rack-body-prototype",
+  "release_status": "published",
+  "archive_sha256": "f32aaf2a0bdefed123391dca12365933411852933a1a57b9d25c02c7d68525b4",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "dd87395e0b9d8fa40f08693fb9753e0d8e78267fe6414cbc99962c23735910c9",
+    "evidence/publication-verification.json": "a3256a7656bdcb6c27b20b0b94c0472493e4b0e14d5c0f51f3506b157a8c266c",
+    "files/muffin-cup-dispenser-body.stl": "ed6330629a594b45bee058065d3f3fea37fbee9bf3dba350bb4423285ae80a5d",
+    "files/muffin-cup-dispenser-body.zip": "f32aaf2a0bdefed123391dca12365933411852933a1a57b9d25c02c7d68525b4",
+    "images/dispenser-body.png": "650f353e196e7447335369a34be122ef33e76a52cefcdf2f68db2a574d576338"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 2
+}
