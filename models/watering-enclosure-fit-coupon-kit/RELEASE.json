@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "model": "Watering Enclosure Fit Coupons \u2014 Guide, Seal and Hardware",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard",
+  "release_status": "published",
+  "archive_sha256": "dae41c3d870051b18ccc034af9d02e980045e8346e78c3e0c9f1d09d697294d5",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "8743836866015c0b171eab84bec22631b4ec1a87616a77ebdc3c9719b56cb002",
+    "evidence/publication-verification.json": "53812af6416184153fe4b5c7590ce2c88a626babe678fb4c5ca3e5f06caad8bf",
+    "files/fit_M12_gland_bores_print.stl": "56bf5bb920ba50464137d13e7755ba615b5810180dab72bab6dd11dfb721de51",
+    "files/fit_M3_insert_pilots_print.stl": "073e0f5089e97b59f324817232ca16e82f524f8e01a6cf6251749aa7fd67e678",
+    "files/fit_blade_edge_print.stl": "8dba7b27108909f69160536f0a896f72dcc4126d7805c6fa7fbd650a61c90643",
+    "files/fit_front_guide_print.stl": "a0e48db47849d728bc5f14012d629de6c9a271d4ea5b78d82ccddbb0619c221b",
+    "files/fit_water_wall_cup_print.stl": "da38a0b7ced06259072b18d4b18d393fa841a4ba29e1cfdcc551912e1c463f89",
+    "files/fit_wet_seal_cover_print.stl": "7b24e16b3b607369cb43041acc4a20f90195f1f7c55902f247fcc0661e66cf00",
+    "files/fit_wet_seal_land_print.stl": "654958191fc7d41609e9893a0ff7922fe3d77ae7daf1634dea589b1da1fa50f6",
+    "files/watering-enclosure-fit-coupon-kit.zip": "dae41c3d870051b18ccc034af9d02e980045e8346e78c3e0c9f1d09d697294d5",
+    "images/fit_plate_angle.png": "70d19bab90e9e53135bf02bd7878b2c46b4f56eb2cd1ab504559826d38c5cb32",
+    "images/fit_plate_top.png": "4c0c547d5a10d03390fab57190ea28a0a7ee999dfcf88f72e9a33ef2e4d7da70"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null,
+    "slicer_review_completed": true
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 8
+}

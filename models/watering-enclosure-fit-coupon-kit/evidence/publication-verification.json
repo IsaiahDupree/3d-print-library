@@ -1,0 +1,59 @@
+{
+  "verified_at": "2026-11-13T08:59:37.521611+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard",
+  "files_url": "https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Mechanical Parts",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "watering-enclosure-fit-coupon-kit.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 9,
+      "staged_sha256": "dae41c3d870051b18ccc034af9d02e980045e8346e78c3e0c9f1d09d697294d5"
+    },
+    {
+      "filename": "fit_front_guide_print.stl",
+      "bytes": 30884,
+      "sha256": "a0e48db47849d728bc5f14012d629de6c9a271d4ea5b78d82ccddbb0619c221b",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "fit_blade_edge_print.stl",
+      "bytes": 684,
+      "sha256": "8dba7b27108909f69160536f0a896f72dcc4126d7805c6fa7fbd650a61c90643",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "fit_wet_seal_land_print.stl",
+      "bytes": 53184,
+      "sha256": "654958191fc7d41609e9893a0ff7922fe3d77ae7daf1634dea589b1da1fa50f6",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "fit_wet_seal_cover_print.stl",
+      "bytes": 28684,
+      "sha256": "7b24e16b3b607369cb43041acc4a20f90195f1f7c55902f247fcc0661e66cf00",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "fit_M3_insert_pilots_print.stl",
+      "bytes": 76284,
+      "sha256": "073e0f5089e97b59f324817232ca16e82f524f8e01a6cf6251749aa7fd67e678",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "fit_M12_gland_bores_print.stl",
+      "bytes": 102484,
+      "sha256": "56bf5bb920ba50464137d13e7755ba615b5810180dab72bab6dd11dfb721de51",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "fit_water_wall_cup_print.stl",
+      "bytes": 50284,
+      "sha256": "da38a0b7ced06259072b18d4b18d393fa841a4ba29e1cfdcc551912e1c463f89",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

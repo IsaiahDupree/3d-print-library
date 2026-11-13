@@ -8,8 +8,8 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-11-13",
-  "published_model_count_reported_by_printables": 11,
-  "mirrored_model_count": 12,
+  "published_model_count_reported_by_printables": 12,
+  "mirrored_model_count": 13,
   "models": [
     {
       "id": "1840792",
@@ -142,6 +142,17 @@
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "5a7a92bd30ab28ca1c56ab839cb13276aa9b078ba8e31aa513c19b48a952e217",
+      "status": "published"
+    },
+    {
+      "id": "1912721",
+      "slug": "watering-enclosure-fit-coupon-kit",
+      "title": "Watering Enclosure Fit Coupons \u2014 Guide, Seal and Hardware",
+      "printables_url": "https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard",
+      "repository_path": "models/watering-enclosure-fit-coupon-kit",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "dae41c3d870051b18ccc034af9d02e980045e8346e78c3e0c9f1d09d697294d5",
       "status": "published"
     }
   ]

@@ -1,6 +1,6 @@
 # Printables publication receipts, November 13, 2026
 
-Eight reviewed bundles were published under Isaiah_Dupree. The live listing pages show the expected title, creator, CC BY-NC-SA 4.0 licence, and model origin. The two remixes also link their upstream Printables models. The Twin Flame Desk Sign is listed under Home Decor.
+9 reviewed bundles were published under Isaiah_Dupree. The live listing pages show the expected title, creator, CC BY-NC-SA 4.0 licence, and model origin. The two remixes also link their upstream Printables models. The Twin Flame Desk Sign is listed under Home Decor.
 
 | Printables listing | Download rows | Archive members verified |
 | --- | ---: | ---: |
@@ -12,6 +12,7 @@ Eight reviewed bundles were published under Isaiah_Dupree. The live listing page
 | [Bubble Speaker Housing V2 — Fit Prototype](https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype) | 2 | 3 |
 | [Media Travel Case R21 Spring Latch — Fit Prototype](https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype) | 3 | 5 |
 | [M5 Bridge Joint and Hole Gauge — Bench Fit Kit](https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit) | 5 | 10 |
+| [Watering Enclosure Fit Coupons — Guide, Seal and Hardware](https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard) | 8 | 9 |
 
 The standalone files matched the reviewed SHA-256 hashes. Safari expanded each ZIP on download, so verification compared every extracted member and its path against the staged manifest. The archive container checksums are recorded in each release manifest.
 
