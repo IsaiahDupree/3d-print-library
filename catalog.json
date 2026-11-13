@@ -8,8 +8,8 @@
     "printables_user_id": "1141044"
   },
   "last_checked": "2026-11-13",
-  "published_model_count_reported_by_printables": 12,
-  "mirrored_model_count": 13,
+  "published_model_count_reported_by_printables": 13,
+  "mirrored_model_count": 14,
   "models": [
     {
       "id": "1840792",
@@ -153,6 +153,17 @@
       "authorship": "original-ai-assisted",
       "license": "CC-BY-NC-SA-4.0",
       "archive_sha256": "dae41c3d870051b18ccc034af9d02e980045e8346e78c3e0c9f1d09d697294d5",
+      "status": "published"
+    },
+    {
+      "id": "1912741",
+      "slug": "modular-open-toolbox-trays",
+      "title": "Modular Open Toolbox Trays \u2014 42 mm Pitch",
+      "printables_url": "https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch",
+      "repository_path": "models/modular-open-toolbox-trays",
+      "authorship": "original-ai-assisted",
+      "license": "CC-BY-NC-SA-4.0",
+      "archive_sha256": "a3e7b641d393f44c2f669fb8429814d75a6ba6f29ed1309ce91a5c9fdf7d5690",
       "status": "published"
     }
   ]

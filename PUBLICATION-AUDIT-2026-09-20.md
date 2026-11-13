@@ -15,7 +15,7 @@ Six reviewed packs were selected in addition to the already-public Vehicle A/C D
 | WLED ESP32 Controller Enclosure | Original | Three authored parts; sizing-reference components excluded; no completed print documented |
 | Twin Flame Desk Sign | Remix | Two exact upstream Printables pages and compatible licences recorded; modifications disclosed |
 | Scrunchie Tree | Remix | Exact upstream Printables page and CC BY-NC terms recorded; modifications disclosed |
-| Nanosaur Track Ring | Remix | Exact upstream GitHub project and CC BY-NC-SA terms recorded; modifications disclosed |
+| Nanosaur Track Ring | Remix | Upstream project and CC BY-NC-SA terms recorded. The November 13 review found that attribution and redistribution rights for the supplied modification remain unresolved. |
 
 Every pack includes a separate Isaiah Dupree + GitHub QR coupon. The mark is deliberately not fused into fitted, load-bearing, sealing, or upstream-derived geometry.
 

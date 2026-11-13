@@ -1,0 +1,65 @@
+{
+  "verified_at": "2026-11-13T09:14:13.576309+00:00",
+  "printablesPublishedUrl": "https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch",
+  "files_url": "https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch/files",
+  "public_profile": "Isaiah_Dupre_1141044",
+  "printables_category": "Organizers",
+  "licence": "CC-BY-NC-SA-4.0",
+  "origin": "Original model \u2014 I made it",
+  "files": [
+    {
+      "filename": "modular-open-toolbox-trays.zip",
+      "verification": "all_extracted_archive_member_hashes_match",
+      "members": 19,
+      "staged_sha256": "a3e7b641d393f44c2f669fb8429814d75a6ba6f29ed1309ce91a5c9fdf7d5690"
+    },
+    {
+      "filename": "open-tray-1x1.stl",
+      "bytes": 1484,
+      "sha256": "808197bd4d5cc4ab13d14a06d36cd1cc08e19d973d507455e882a3dfded2498c",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-1x2.stl",
+      "bytes": 1484,
+      "sha256": "3cfa1935483e909e9c8da0794b5dfb0e3e726eaac3fea58c7b56330d38a31a10",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-2x1.stl",
+      "bytes": 1484,
+      "sha256": "61734fde79c77a23cf802598c3f356d78263f5c9b74991d2acec017170429754",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-2x2.stl",
+      "bytes": 1484,
+      "sha256": "415a0056ee9f066e2f1825b301a1f1be82f44ac709f8d193473baed557e52088",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-3x1.stl",
+      "bytes": 1484,
+      "sha256": "ce4acfb35b09bcbaf7ee36d655276db919d21769ab62e279cd319427bb440087",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-4x1.stl",
+      "bytes": 1484,
+      "sha256": "44d40670951cc6e6a4ddb935bd5c59891d7b922a14203d8c4dc96724d0b44873",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-5x1.stl",
+      "bytes": 1484,
+      "sha256": "c3bf5230e55c0e320cbdcb41640a63fa7c77d36f1bd7a4004f4a80f80a4bf75b",
+      "verification": "download_sha256_match"
+    },
+    {
+      "filename": "open-tray-6x1.stl",
+      "bytes": 1484,
+      "sha256": "c6432c4615643e95221b99ac392bfab42595ca8bbc9ec457c7a1fb880230d579",
+      "verification": "download_sha256_match"
+    }
+  ]
+}

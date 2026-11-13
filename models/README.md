@@ -2,7 +2,7 @@
 
 This directory records the public Printables releases and their release reviews.
 
-Current mirrored model count: **13**. 12 are published on Printables and one is under rights review.
+Current mirrored model count: **14**. 13 are published on Printables and one is under rights review.
 
 Last checked: **2026-11-13**
 
@@ -23,5 +23,6 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Media Travel Case R21 Spring Latch — Fit Prototype](https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype)
 - [M5 Bridge Joint and Hole Gauge — Bench Fit Kit](https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit)
 - [Watering Enclosure Fit Coupons — Guide, Seal and Hardware](https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard)
+- [Modular Open Toolbox Trays — 42 mm Pitch](https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch)
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.

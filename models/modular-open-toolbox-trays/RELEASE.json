@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "model": "Modular Open Toolbox Trays \u2014 42 mm Pitch",
+  "author": "Isaiah Dupree",
+  "authorship": "original-ai-assisted",
+  "license": "CC-BY-NC-SA-4.0",
+  "printables_url": "https://www.printables.com/model/1912741-modular-open-toolbox-trays-42-mm-pitch",
+  "release_status": "published",
+  "archive_sha256": "a3e7b641d393f44c2f669fb8429814d75a6ba6f29ed1309ce91a5c9fdf7d5690",
+  "files": {
+    "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
+    "README.md": "120c407d040e823b4467e346a183d9389bd140f2ccd9a584e86b740c0b2e83eb",
+    "evidence/publication-verification.json": "b8afc8f9b9af8b906399dc0699c118f8360a275170f144f006c3e31f551d696e",
+    "files/modular-open-toolbox-trays.zip": "a3e7b641d393f44c2f669fb8429814d75a6ba6f29ed1309ce91a5c9fdf7d5690",
+    "files/open-tray-1x1.stl": "808197bd4d5cc4ab13d14a06d36cd1cc08e19d973d507455e882a3dfded2498c",
+    "files/open-tray-1x2.stl": "3cfa1935483e909e9c8da0794b5dfb0e3e726eaac3fea58c7b56330d38a31a10",
+    "files/open-tray-2x1.stl": "61734fde79c77a23cf802598c3f356d78263f5c9b74991d2acec017170429754",
+    "files/open-tray-2x2.stl": "415a0056ee9f066e2f1825b301a1f1be82f44ac709f8d193473baed557e52088",
+    "files/open-tray-3x1.stl": "ce4acfb35b09bcbaf7ee36d655276db919d21769ab62e279cd319427bb440087",
+    "files/open-tray-4x1.stl": "44d40670951cc6e6a4ddb935bd5c59891d7b922a14203d8c4dc96724d0b44873",
+    "files/open-tray-5x1.stl": "c3bf5230e55c0e320cbdcb41640a63fa7c77d36f1bd7a4004f4a80f80a4bf75b",
+    "files/open-tray-6x1.stl": "c6432c4615643e95221b99ac392bfab42595ca8bbc9ec457c7a1fb880230d579",
+    "images/open-tray-2x2.png": "7dc11e697b04b2df9127e8d534f69ee693b812f76709c357ef1c7bcbcf340ee0",
+    "images/open-tray-6x1.png": "7e0a8d699ae36de678e26d05829423132cd0ec59d9ff0cc79898470e206894e1",
+    "images/tray-sizes.png": "b1631bfc803d083de5a73ad35aaf28f5c0623b38e67df5315837e683802eeb37"
+  },
+  "testing_status": {
+    "geometry_audited": true,
+    "physically_printed": false,
+    "fit_verified": false,
+    "load_rating": null
+  },
+  "publication_receipt": "evidence/publication-verification.json",
+  "printables_uploaded_file_count": 9
+}

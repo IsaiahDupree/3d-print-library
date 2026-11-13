@@ -18,6 +18,8 @@ The created count is not a count of publishable models. It includes duplicated M
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](models/vehicle-firewall-slot-tapered-fit-gauge-v5/) — original AI-assisted measurement toolkit.
 - [A/C Diagnostic Enclosure Design Evolution V1–V4](models/ac-diagnostic-enclosure-design-evolution-v1-v4/) — original AI-assisted historical pack with a three-point Orion/ANSYS MAPDL screening study.
 - [WLED ESP32 Controller Enclosure](models/wled-esp32-enclosure/) — original enclosure geometry; third-party component models were sizing references and are excluded.
-- [Twin Flame Desk Sign](models/twin-flame-sign-remix/), [Scrunchie Tree](models/scrunchie-holder-remix/), and [Nanosaur Track Ring](models/nanosaur-tracks-mod/) — remixes with exact source URLs, creators, licences, change descriptions, and compatible CC BY-NC-SA 4.0 releases.
+- [Twin Flame Desk Sign](models/twin-flame-sign-remix/) and [Scrunchie Tree](models/scrunchie-holder-remix/) — published remixes with upstream authors, licences, and changes documented.
+
+The [Nanosaur Track Ring](models/nanosaur-tracks-mod/) is under attribution and redistribution review for the supplied modification. The upstream track licence is documented. The [November 13 publication receipts](PUBLICATION-RECEIPTS-2026-11-13.md) record the current wave.
 
 No remix is represented as original work. The remaining families stay private when they are personal designs, non-printable application assets, unreviewed Orion jobs, duplicated/intermediate exports, or derivatives without exact redistribution evidence. See [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md) for the wave-level disposition.
