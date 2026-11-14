@@ -9,11 +9,18 @@
   "archive_sha256": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2",
   "files": {
     "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
-    "README.md": "0e33feb0513040422d9a34662d989fed70db291a6843d5148faa9b859a1872bd",
-    "evidence/publication-verification.json": "5296c52738079af6cea122fce2f8d1391674c6c93e65914bf204ab081eb45f5b",
+    "README.md": "c94630495a307969b2f5d8b1d2b2b7b2e8bbc3484a59dd7811bc58e66eb7cc10",
+    "evidence/geometry-previews.json": "acdaabdf7a8427a4986dff5bd11f678157c434e56245601e4af4f03aeaaa6faf",
+    "evidence/publication-verification.json": "385901370e037d8ecae7facdcb10bd73b76101bf63fbc2dc2a7eaa9180c3470d",
     "files/charger-cradle-v2.stl": "44b72af9ecc124586e9debc9506205f31e515955f72a298b9c6fefd6422a37c4",
     "files/power-adapter-cradle-v2.zip": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2",
-    "images/charger-cradle-v2.png": "c8e98fa8e600a79c0b38ebf950e4d15137cf63226288cb190274f5e75a727e4d"
+    "files/power-adapter-short-cradle-174mm.step": "87d686790c9b1506170686b0885e49ffc7b5a7837f4a7fb69938940ecc499710",
+    "files/power-adapter-short-cradle-174mm.stl": "523837174b719d652439284a0c36d09b36493404caa21f62529ce7b87ecb7539",
+    "files/power-adapter-triangular-cradle-225mm.step": "4d1baf7fa927b8c095928c131f3d71edb25f6b0245d1316df9fe5a55f8ec7123",
+    "files/power-adapter-triangular-cradle-225mm.stl": "8fd557588e0cb70c299d9a4ed1b6999ac2ecff1176428a9cc899b7ad0b2fa9c4",
+    "images/charger-cradle-v2.png": "c8e98fa8e600a79c0b38ebf950e4d15137cf63226288cb190274f5e75a727e4d",
+    "images/power-adapter-short-cradle-174mm.png": "717ea9d3bd87234326a3a08624cdf742cb4d3a5ff9077e56fb40acd9b76027b0",
+    "images/power-adapter-triangular-cradle-225mm.png": "35e17d82f77ad666a783f147bca1d21a191ca7ce8540ef055b8252cb872fdad0"
   },
   "testing_status": {
     "geometry_audited": true,
@@ -22,5 +29,5 @@
     "load_rating": null
   },
   "publication_receipt": "evidence/publication-verification.json",
-  "printables_uploaded_file_count": 2
+  "printables_uploaded_file_count": 6
 }

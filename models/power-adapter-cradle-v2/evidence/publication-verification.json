@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-11-13T14:03:58.705522+00:00",
+  "verified_at": "2026-11-14T16:24:17.983288+00:00",
   "printablesPublishedUrl": "https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2",
   "files_url": "https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2/files",
   "public_profile": "Isaiah_Dupre_1141044",
@@ -11,13 +11,43 @@
       "filename": "power-adapter-cradle-v2.zip",
       "verification": "all_extracted_archive_member_hashes_match",
       "members": 5,
-      "staged_sha256": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2"
+      "staged_sha256": "cd4290c06096a7f7ba458064571dc0e2f33976197867beb9d38c4a6a2ffa7fb2",
+      "verified_at": "2026-11-13T14:03:58.705522+00:00"
     },
     {
       "filename": "charger-cradle-v2.stl",
       "bytes": 85584,
       "sha256": "44b72af9ecc124586e9debc9506205f31e515955f72a298b9c6fefd6422a37c4",
-      "verification": "download_sha256_match"
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-13T14:03:58.705522+00:00"
+    },
+    {
+      "filename": "power-adapter-short-cradle-174mm.stl",
+      "bytes": 85184,
+      "sha256": "523837174b719d652439284a0c36d09b36493404caa21f62529ce7b87ecb7539",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:17.983288+00:00"
+    },
+    {
+      "filename": "power-adapter-short-cradle-174mm.step",
+      "bytes": 579903,
+      "sha256": "87d686790c9b1506170686b0885e49ffc7b5a7837f4a7fb69938940ecc499710",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:17.983288+00:00"
+    },
+    {
+      "filename": "power-adapter-triangular-cradle-225mm.stl",
+      "bytes": 96684,
+      "sha256": "8fd557588e0cb70c299d9a4ed1b6999ac2ecff1176428a9cc899b7ad0b2fa9c4",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:17.983288+00:00"
+    },
+    {
+      "filename": "power-adapter-triangular-cradle-225mm.step",
+      "bytes": 690749,
+      "sha256": "4d1baf7fa927b8c095928c131f3d71edb25f6b0245d1316df9fe5a55f8ec7123",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:17.983288+00:00"
     }
   ]
 }

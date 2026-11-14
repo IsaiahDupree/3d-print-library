@@ -8,9 +8,20 @@ Practical, measured 3D-printed tools, enclosures, mounts, adapters, and workshop
 
 I design useful parts around real fitment constraints, document how they are developed and tested, and publish the information needed to reproduce them. My work focuses on vehicle and electronics enclosures, mounting adapters, fit gauges, workshop tools, and practical replacement parts.
 
+## Featured designs
+
+| | |
+| --- | --- |
+| [![Compact Bubble Speaker Housing](models/bubble-speaker-housing-v2/images/bubble-speaker-compact-91mm.png)](models/bubble-speaker-housing-v2/) | [![ESP32 rear panel mount](models/esp32-display-fit-bezel-v3/images/esp32-optional-panel-mount.png)](models/esp32-display-fit-bezel-v3/) |
+| **[Bubble Speaker Housing](models/bubble-speaker-housing-v2/)**<br>A compact 91 mm housing for checking speaker fit and the mounting pattern. | **[ESP32 Display Bezel](models/esp32-display-fit-bezel-v3/)**<br>A 7 mm panel face and matching rear mount with 43.4 × 80.03 mm screw centers. |
+| [![Triangular power adapter cradle](models/power-adapter-cradle-v2/images/power-adapter-triangular-cradle-225mm.png)](models/power-adapter-cradle-v2/) | [![Right-angle LED strip connector](models/workbench-led-strip-mounts/images/led-right-angle-connector-28mm.png)](models/workbench-led-strip-mounts/) |
+| **[Power Adapter Cradles](models/power-adapter-cradle-v2/)**<br>Short and triangular cradles for unplugged bench fit checks. | **[Workbench LED Mounts](models/workbench-led-strip-mounts/)**<br>Connectors, a screw block, and a low-profile carrier for different strip layouts. |
+
+The November 14 update adds 17 verified STL and STEP downloads across these four designs. The images show their released CAD geometry. [Dimensions, files, and verification](PUBLICATION-RECEIPTS-2026-11-14.md)
+
 ## Models
 
-The [`models/`](models/) directory records 26 releases. 25 have public Printables listings.
+The [`models/`](models/) directory records 26 releases. As of November 14, 2026, the Printables profile has 25 public listings with 130 download entries.
 
 - [Vehicle A/C Diagnostic Sensor Enclosure V4](https://www.printables.com/model/1840792-vehicle-ac-diagnostic-sensor-enclosure-v4-prototyp)
 - [Vehicle Firewall-Slot Tapered Fit Gauge V5](https://www.printables.com/model/1853082-vehicle-firewall-slot-tapered-fit-gauge-v5)
@@ -52,7 +63,7 @@ Every model folder contains:
 
 Local drafts, private paths, credentials, printer configuration, paid/member-only content, and models without redistribution permission are excluded.
 
-The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The release review is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md), with live publication receipts from [September 23](PUBLICATION-RECEIPTS-2026-09-23.md) [October 17](PUBLICATION-RECEIPTS-2026-10-17.md), and [November 13](PUBLICATION-RECEIPTS-2026-11-13.md).
+The aggregate authorship audit and the distinction between created, remixed, downloaded, and unknown files are documented in [PROVENANCE-INVENTORY.md](PROVENANCE-INVENTORY.md). The release review is recorded in [PUBLICATION-AUDIT-2026-09-20.md](PUBLICATION-AUDIT-2026-09-20.md), with publication receipts from [September 23](PUBLICATION-RECEIPTS-2026-09-23.md), [October 17](PUBLICATION-RECEIPTS-2026-10-17.md), [November 13](PUBLICATION-RECEIPTS-2026-11-13.md), and [November 14](PUBLICATION-RECEIPTS-2026-11-14.md).
 
 The [October 17 FLSUN V400 audit](printer-audits/2026-10-17/) records the 328 loaded G-code files, their hashes and source evidence, and 593 controller-history records. Controller completion is kept separate from physical inspection and fit verification.
 

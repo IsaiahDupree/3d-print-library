@@ -1,0 +1,16 @@
+{
+  "method": "Isometric projection from the exact public STL",
+  "rendered_at": "2026-11-14T18:06:16.782980+00:00",
+  "renderer_sha256": "c2d49cdc9b8642e90316bcf515f5f0b3c16abd9014d463196932d0ec142b9b91",
+  "width": 512,
+  "height": 512,
+  "images": [
+    {
+      "model_file": "bubble-speaker-compact-91mm.stl",
+      "mesh_sha256": "fbcbedb6eb1ae2de2ee2aa98daff90aef2349a5d1dd1b02e295527565d21c5c4",
+      "image_file": "bubble-speaker-compact-91mm.png",
+      "image_sha256": "669e9e0fb8a8f64ef90fa562833dba7bce0175d1af20a0be642abaacb1509558",
+      "triangles": 3486
+    }
+  ]
+}

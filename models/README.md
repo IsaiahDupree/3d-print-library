@@ -4,7 +4,7 @@ This directory records the public Printables releases and their release reviews.
 
 Current mirrored model count: **26**. 25 are published on Printables and one is under rights review.
 
-Last checked: **2026-11-13**
+Last checked **November 14, 2026**. The 25 public listings have **130 download entries**. [Latest publication receipts](../PUBLICATION-RECEIPTS-2026-11-14.md)
 
 Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre_1141044)
 
@@ -19,7 +19,7 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Nanosaur Track Ring — Larger-Diameter Mod](nanosaur-tracks-mod/) — attribution and redistribution rights under review.
 - [Dumbbell Rack Joint Fit Coupons](dumbbell-rack-joint-fit-coupons/) — published [Printables model 1881340](https://www.printables.com/model/1881340-dumbbell-rack-joint-fit-coupons-unloaded-prototype); original AI-assisted unloaded hardware-fit prototypes, physical fit unverified.
 - [Wall-Mounted Key and Mail Organizer](https://www.printables.com/model/1912698-wall-mounted-key-and-mail-organizer)
-- [Bubble Speaker Housing V2 — Fit Prototype](https://www.printables.com/model/1912700-bubble-speaker-housing-v2-fit-prototype)
+- [Bubble Speaker Housing V2 — Fit Prototype](bubble-speaker-housing-v2/)
 - [Media Travel Case R21 Spring Latch — Fit Prototype](https://www.printables.com/model/1912703-media-travel-case-r21-spring-latch-fit-prototype)
 - [M5 Bridge Joint and Hole Gauge — Bench Fit Kit](https://www.printables.com/model/1912705-m5-bridge-joint-and-hole-gauge-bench-fit-kit)
 - [Watering Enclosure Fit Coupons — Guide, Seal and Hardware](https://www.printables.com/model/1912721-watering-enclosure-fit-coupons-guide-seal-and-hard)
@@ -31,10 +31,10 @@ Source profile: [@Isaiah_Dupre_1141044](https://www.printables.com/@Isaiah_Dupre
 - [Screw-On LED Diffuser and Silicone Mold Test Kit](https://www.printables.com/model/1912972-screw-on-led-diffuser-and-silicone-mold-test-kit)
 - [Media Travel Case for T7 Shield, USB and microSD](https://www.printables.com/model/1912974-media-travel-case-for-t7-shield-usb-and-microsd)
 - [Scraper Holder for FLSUN V400](https://www.printables.com/model/1912976-scraper-holder-for-flsun-v400)
-- [Vented Power Adapter Cradle V2](https://www.printables.com/model/1912977-vented-power-adapter-cradle-v2)
-- [ESP32 Display Fit Bezel V3](https://www.printables.com/model/1912978-esp32-display-fit-bezel-v3)
+- [Vented Power Adapter Cradle V2](power-adapter-cradle-v2/)
+- [ESP32 Display Fit Bezel V3](esp32-display-fit-bezel-v3/)
 - [Curved Wall Bracket V2](https://www.printables.com/model/1912980-curved-wall-bracket-v2)
-- [Workbench LED Strip Mounting Parts](https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts)
+- [Workbench LED Strip Mounting Parts](workbench-led-strip-mounts/)
 - [Front-Service Plant Watering Enclosure V2](https://www.printables.com/model/1912984-front-service-plant-watering-enclosure-v2)
 
 Folders are added only after file, licence, attribution, privacy, and release checks pass.

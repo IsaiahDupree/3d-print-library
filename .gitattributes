@@ -1,0 +1,3 @@
+# Keep mirrored Printables downloads byte-for-byte across Git checkouts.
+models/**/files/* -text
+models/**/files/*.step whitespace=cr-at-eol

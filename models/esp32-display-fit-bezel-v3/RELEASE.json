@@ -9,11 +9,18 @@
   "archive_sha256": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949",
   "files": {
     "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
-    "README.md": "c2c2b190dafeb2e9184d2af997de8650e884bb7f5b78efaa4028e417ab1b71aa",
-    "evidence/publication-verification.json": "306bd27fa39d1a5608cfc3372c3a2459410d7888318131e4ba986a3da318815f",
+    "README.md": "69b04993682d8dbc4313f06d0f6b8867e30e7ead3cffe9015b13ef324f2c5ad8",
+    "evidence/geometry-previews.json": "29aeb04fbf1c9c459f5f49d7896764057b7c8cd3b525839b3b0905f39e59d832",
+    "evidence/publication-verification.json": "ba409f3c8afae903a4e0624faa9dba1011e4fc022c95fa87a78cf84e3cbfcd49",
     "files/display-template-v3.stl": "eae7679646e42ff5f4c600203be1d8dd3077a3ebb32e21c45d40a8c1299093e6",
     "files/esp32-display-fit-bezel-v3.zip": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949",
-    "images/display-template-v3.png": "0dd2ffc147f59822ba351bb46e5a1991dc8913ae772d1e8e3455ff72fb53699c"
+    "files/esp32-optional-panel-face-7mm.step": "ec42af6a0a7db09124fdfee8ca7548a23b6c88fad616c80f98b8c835a450274f",
+    "files/esp32-optional-panel-face-7mm.stl": "3a85a9d37fbbc3f0cbc7aa8627fcdc19c7b152be4d10f5042f1281070ec5c27b",
+    "files/esp32-optional-panel-mount.step": "1a9786a657aa6bc56698aec91ca346e54800f923f535c9b6a24e0d1fe4a825e2",
+    "files/esp32-optional-panel-mount.stl": "4d1acfa6b30191b32865900d6db417db943996222e822360a75869e1c7ba44ee",
+    "images/display-template-v3.png": "0dd2ffc147f59822ba351bb46e5a1991dc8913ae772d1e8e3455ff72fb53699c",
+    "images/esp32-optional-panel-face-7mm.png": "8f66781f078be8c4766aa7a9a40f0bc3e26d184896b82b0960351f68d45aad9a",
+    "images/esp32-optional-panel-mount.png": "d74a08ede6fc99d8a29969742102baf45381a919962674814f86ded00a315669"
   },
   "testing_status": {
     "geometry_audited": true,
@@ -22,5 +29,5 @@
     "load_rating": null
   },
   "publication_receipt": "evidence/publication-verification.json",
-  "printables_uploaded_file_count": 2
+  "printables_uploaded_file_count": 6
 }

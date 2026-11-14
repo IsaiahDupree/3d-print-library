@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-11-13T14:04:13.773194+00:00",
+  "verified_at": "2026-11-14T16:24:25.892475+00:00",
   "printablesPublishedUrl": "https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts",
   "files_url": "https://www.printables.com/model/1912981-workbench-led-strip-mounting-parts/files",
   "public_profile": "Isaiah_Dupre_1141044",
@@ -11,25 +11,85 @@
       "filename": "workbench-led-strip-mounts.zip",
       "verification": "all_extracted_archive_member_hashes_match",
       "members": 9,
-      "staged_sha256": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de"
+      "staged_sha256": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de",
+      "verified_at": "2026-11-13T14:04:13.773194+00:00"
     },
     {
       "filename": "led-strip-connector-v2.stl",
       "bytes": 87284,
       "sha256": "f475dc3b075509a2c629fe71da003bf48d56047c6105d0679c20d57adad31b99",
-      "verification": "download_sha256_match"
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-13T14:04:13.773194+00:00"
     },
     {
       "filename": "led-strip-block-v2.stl",
       "bytes": 23084,
       "sha256": "109715f265634bb132664f086632202163f8ff052435b0f722a40c05052846b2",
-      "verification": "download_sha256_match"
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-13T14:04:13.773194+00:00"
     },
     {
       "filename": "led-strip-corner.stl",
       "bytes": 39284,
       "sha256": "61471c7bf4cba505d461b9e26d8d3aa31faae198c337cee66fb7ab140b25c890",
-      "verification": "download_sha256_match"
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-13T14:04:13.773194+00:00"
+    },
+    {
+      "filename": "led-right-angle-connector-28mm.stl",
+      "bytes": 16884,
+      "sha256": "6dba73409e5dab395985403ee9cf741a029a4abb8a5ebf9707e177bfa74b667a",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-right-angle-connector-28mm.step",
+      "bytes": 21796,
+      "sha256": "f945f3efb247beaed55d7ce7648470b1da7d76123c85560a96061af6119bda7b",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-island-connector-81mm.stl",
+      "bytes": 3884,
+      "sha256": "70d2978aea1729762ce6341e5927deceb68cc7e0d9cbb065f5a600686e50efec",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-island-connector-81mm.step",
+      "bytes": 46851,
+      "sha256": "0ca105877ab9d1d945c655e0c66e6f595ed5a5a63c05dce06c47830ec9683647",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-strip-screw-block-20mm.stl",
+      "bytes": 19784,
+      "sha256": "709eaf6aaa5bbd1c8db120bf28f23561942b03b7fe9ff51a5ede2a3a8afdd093",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-strip-screw-block-20mm.step",
+      "bytes": 64708,
+      "sha256": "c644a8b5889ec4214ddccad955f03b0651efa7b13752c46658268040ff3ae6f8",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-strip-low-profile-carrier-236mm.stl",
+      "bytes": 66484,
+      "sha256": "e50f4fd253d7f81c1cbe6c48362d406f2a71c19656fb1f119b54c50f006d69b2",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
+    },
+    {
+      "filename": "led-strip-low-profile-carrier-236mm.step",
+      "bytes": 227764,
+      "sha256": "1be0cd6ad9cc829311fefcf34f46be2b0d0cdb4e11093d89d63eee9423f7d862",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:25.892475+00:00"
     }
   ]
 }

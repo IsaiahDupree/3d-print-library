@@ -1,0 +1,37 @@
+{
+  "method": "Isometric projection from the exact public STL",
+  "rendered_at": "2026-11-14T18:06:16.782980+00:00",
+  "renderer_sha256": "c2d49cdc9b8642e90316bcf515f5f0b3c16abd9014d463196932d0ec142b9b91",
+  "width": 512,
+  "height": 512,
+  "images": [
+    {
+      "model_file": "led-right-angle-connector-28mm.stl",
+      "mesh_sha256": "6dba73409e5dab395985403ee9cf741a029a4abb8a5ebf9707e177bfa74b667a",
+      "image_file": "led-right-angle-connector-28mm.png",
+      "image_sha256": "806b6b52d7690570a8ac44aa69bec6d650ba857826b4c5a69970d666d3fc6f03",
+      "triangles": 336
+    },
+    {
+      "model_file": "led-island-connector-81mm.stl",
+      "mesh_sha256": "70d2978aea1729762ce6341e5927deceb68cc7e0d9cbb065f5a600686e50efec",
+      "image_file": "led-island-connector-81mm.png",
+      "image_sha256": "8cc178a26cd37c8158b51241e56610d4e78efe866995aad8493e5adb98ebfb9f",
+      "triangles": 76
+    },
+    {
+      "model_file": "led-strip-screw-block-20mm.stl",
+      "mesh_sha256": "709eaf6aaa5bbd1c8db120bf28f23561942b03b7fe9ff51a5ede2a3a8afdd093",
+      "image_file": "led-strip-screw-block-20mm.png",
+      "image_sha256": "e7b488a2d2722c680832249cd257a79698876721f4fb6b4d4df5b86440b70959",
+      "triangles": 394
+    },
+    {
+      "model_file": "led-strip-low-profile-carrier-236mm.stl",
+      "mesh_sha256": "e50f4fd253d7f81c1cbe6c48362d406f2a71c19656fb1f119b54c50f006d69b2",
+      "image_file": "led-strip-low-profile-carrier-236mm.png",
+      "image_sha256": "665c9a3ec212b3ef1e33337a8b7b645a0acc1a95c519c8aa66c5b278c67c1bc1",
+      "triangles": 1328
+    }
+  ]
+}

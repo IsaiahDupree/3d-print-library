@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-11-13T14:04:02.568829+00:00",
+  "verified_at": "2026-11-14T16:24:12.701098+00:00",
   "printablesPublishedUrl": "https://www.printables.com/model/1912978-esp32-display-fit-bezel-v3",
   "files_url": "https://www.printables.com/model/1912978-esp32-display-fit-bezel-v3/files",
   "public_profile": "Isaiah_Dupre_1141044",
@@ -11,13 +11,43 @@
       "filename": "esp32-display-fit-bezel-v3.zip",
       "verification": "all_extracted_archive_member_hashes_match",
       "members": 5,
-      "staged_sha256": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949"
+      "staged_sha256": "01d33ef62d9cc66fd125310fdcde76f77a38c8142c1598e4cd668ec51f544949",
+      "verified_at": "2026-11-13T14:04:02.568829+00:00"
     },
     {
       "filename": "display-template-v3.stl",
       "bytes": 49684,
       "sha256": "eae7679646e42ff5f4c600203be1d8dd3077a3ebb32e21c45d40a8c1299093e6",
-      "verification": "download_sha256_match"
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-13T14:04:02.568829+00:00"
+    },
+    {
+      "filename": "esp32-optional-panel-face-7mm.stl",
+      "bytes": 198184,
+      "sha256": "3a85a9d37fbbc3f0cbc7aa8627fcdc19c7b152be4d10f5042f1281070ec5c27b",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:12.701098+00:00"
+    },
+    {
+      "filename": "esp32-optional-panel-face-7mm.step",
+      "bytes": 78431,
+      "sha256": "ec42af6a0a7db09124fdfee8ca7548a23b6c88fad616c80f98b8c835a450274f",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:12.701098+00:00"
+    },
+    {
+      "filename": "esp32-optional-panel-mount.stl",
+      "bytes": 1080484,
+      "sha256": "4d1acfa6b30191b32865900d6db417db943996222e822360a75869e1c7ba44ee",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:12.701098+00:00"
+    },
+    {
+      "filename": "esp32-optional-panel-mount.step",
+      "bytes": 646529,
+      "sha256": "1a9786a657aa6bc56698aec91ca346e54800f923f535c9b6a24e0d1fe4a825e2",
+      "verification": "download_sha256_match",
+      "verified_at": "2026-11-14T16:24:12.701098+00:00"
     }
   ]
 }

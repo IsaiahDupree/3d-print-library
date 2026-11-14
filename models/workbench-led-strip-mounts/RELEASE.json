@@ -9,15 +9,28 @@
   "archive_sha256": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de",
   "files": {
     "LICENSE.md": "c8bcb1936132a4551510b970259eaeb6974c9f344df1e92dd331e466b8c49b34",
-    "README.md": "6fb1d24f6127ef84709de296b74d262af2198b6c51519f09cd9aef4beecc2aee",
-    "evidence/publication-verification.json": "0972a4ff8953528ce0d0e9912cbfc51bd8f637ac68d8e063d14e582aaf8b82ef",
+    "README.md": "195f9d37d3c9b3644a84d804dfa613f830fe2d90426776111e97da2a2d910024",
+    "evidence/geometry-previews.json": "d1cd8889d7e0ce945b3e5654da04326888dee5c28aa37de0abe81ec6b0301c1e",
+    "evidence/publication-verification.json": "2dc641a45b54b979b8a69c819ad5a7b97ff94d3a3ff2a9382c5038478eedb3af",
+    "files/led-island-connector-81mm.step": "0ca105877ab9d1d945c655e0c66e6f595ed5a5a63c05dce06c47830ec9683647",
+    "files/led-island-connector-81mm.stl": "70d2978aea1729762ce6341e5927deceb68cc7e0d9cbb065f5a600686e50efec",
+    "files/led-right-angle-connector-28mm.step": "f945f3efb247beaed55d7ce7648470b1da7d76123c85560a96061af6119bda7b",
+    "files/led-right-angle-connector-28mm.stl": "6dba73409e5dab395985403ee9cf741a029a4abb8a5ebf9707e177bfa74b667a",
     "files/led-strip-block-v2.stl": "109715f265634bb132664f086632202163f8ff052435b0f722a40c05052846b2",
     "files/led-strip-connector-v2.stl": "f475dc3b075509a2c629fe71da003bf48d56047c6105d0679c20d57adad31b99",
     "files/led-strip-corner.stl": "61471c7bf4cba505d461b9e26d8d3aa31faae198c337cee66fb7ab140b25c890",
+    "files/led-strip-low-profile-carrier-236mm.step": "1be0cd6ad9cc829311fefcf34f46be2b0d0cdb4e11093d89d63eee9423f7d862",
+    "files/led-strip-low-profile-carrier-236mm.stl": "e50f4fd253d7f81c1cbe6c48362d406f2a71c19656fb1f119b54c50f006d69b2",
+    "files/led-strip-screw-block-20mm.step": "c644a8b5889ec4214ddccad955f03b0651efa7b13752c46658268040ff3ae6f8",
+    "files/led-strip-screw-block-20mm.stl": "709eaf6aaa5bbd1c8db120bf28f23561942b03b7fe9ff51a5ede2a3a8afdd093",
     "files/workbench-led-strip-mounts.zip": "dc31c62689621a771ffc91be02a9fbd8354239104526a4061f37124308e437de",
+    "images/led-island-connector-81mm.png": "8cc178a26cd37c8158b51241e56610d4e78efe866995aad8493e5adb98ebfb9f",
+    "images/led-right-angle-connector-28mm.png": "806b6b52d7690570a8ac44aa69bec6d650ba857826b4c5a69970d666d3fc6f03",
     "images/led-strip-block-v2.png": "79a05b0dd93498236cac950b655152400dcf059201be2ec358a7143a01b96d95",
     "images/led-strip-connector-v2.png": "dd19ccaa255d7c6ff98370d4eebb1badf7fa8cf6778df0931131011f05cd566e",
-    "images/led-strip-corner.png": "ac3a8872a129739936c60de504df26424798bbbfdb476436054b4c2ce533efa0"
+    "images/led-strip-corner.png": "ac3a8872a129739936c60de504df26424798bbbfdb476436054b4c2ce533efa0",
+    "images/led-strip-low-profile-carrier-236mm.png": "665c9a3ec212b3ef1e33337a8b7b645a0acc1a95c519c8aa66c5b278c67c1bc1",
+    "images/led-strip-screw-block-20mm.png": "e7b488a2d2722c680832249cd257a79698876721f4fb6b4d4df5b86440b70959"
   },
   "testing_status": {
     "geometry_audited": true,
@@ -26,5 +39,5 @@
     "load_rating": null
   },
   "publication_receipt": "evidence/publication-verification.json",
-  "printables_uploaded_file_count": 4
+  "printables_uploaded_file_count": 12
 }

@@ -1,0 +1,23 @@
+{
+  "method": "Isometric projection from the exact public STL",
+  "rendered_at": "2026-11-14T18:06:16.782980+00:00",
+  "renderer_sha256": "c2d49cdc9b8642e90316bcf515f5f0b3c16abd9014d463196932d0ec142b9b91",
+  "width": 512,
+  "height": 512,
+  "images": [
+    {
+      "model_file": "power-adapter-short-cradle-174mm.stl",
+      "mesh_sha256": "523837174b719d652439284a0c36d09b36493404caa21f62529ce7b87ecb7539",
+      "image_file": "power-adapter-short-cradle-174mm.png",
+      "image_sha256": "717ea9d3bd87234326a3a08624cdf742cb4d3a5ff9077e56fb40acd9b76027b0",
+      "triangles": 1702
+    },
+    {
+      "model_file": "power-adapter-triangular-cradle-225mm.stl",
+      "mesh_sha256": "8fd557588e0cb70c299d9a4ed1b6999ac2ecff1176428a9cc899b7ad0b2fa9c4",
+      "image_file": "power-adapter-triangular-cradle-225mm.png",
+      "image_sha256": "35e17d82f77ad666a783f147bca1d21a191ca7ce8540ef055b8252cb872fdad0",
+      "triangles": 1932
+    }
+  ]
+}
