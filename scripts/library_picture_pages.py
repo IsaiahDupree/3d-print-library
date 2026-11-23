@@ -38,3 +38,33 @@ def file_picture(path,pictures,state):
  if key in pictures:return picture_html(pictures[key])
  r=state.get('files',{}).get(key)
  return '<small style="display:block;color:#657085">'+html.escape(('Picture unavailable: '+r.get('reason','')) if r and r.get('status')=='unavailable' else 'Picture pending')+'</small>'
+
+
+def resolve_cached_references(root):
+ """Recover a picture only when a pointer's exact object ID has a verified render."""
+ import re,shutil
+ state=root/'04_Model_Pictures';path=state/'manifest.json'
+ if not path.exists():return
+ data=json.loads(path.read_text(encoding='utf-8'))
+ if data.get('status')!='complete':return
+ cache_path=state/'cache/previews/manifest.json'
+ if not cache_path.exists():return
+ cache=json.loads(cache_path.read_text())['entries'];recovered=0
+ for r in data['files'].values():
+  if r.get('status')=='ready':continue
+  p=Path(r['path'])
+  if not p.is_file() or p.stat().st_size>2048:continue
+  raw=p.read_bytes()
+  if hashlib.sha256(raw).hexdigest()!=r.get('source_sha256'):continue
+  match=re.search(rb'^oid sha256:([a-f0-9]{64})$',raw,re.M)
+  if not raw.startswith(b'version https://git-lfs.github.com/spec/v1') or not match:continue
+  oid=match[1].decode();known=cache.get(oid)
+  if not known:continue
+  image=state/'cache'/known['preview']
+  if not image.is_file() or hashlib.sha256(image.read_bytes()).hexdigest()!=known['preview_sha256']:continue
+  dest=state/'images'/(r['source_sha256']+'.png');shutil.copy2(image,dest)
+  r.update(status='ready',kind='verified_render_of_referenced_LFS_object_geometry_not_resident',referenced_geometry_sha256=oid,image=str(dest),image_sha256=known['preview_sha256']);r.pop('reason',None);recovered+=1
+ if recovered:
+  data['counts']=dict(collections.Counter(x['status'] for x in data['files'].values()))
+  tmp=state/'reference-repair.tmp';tmp.write_text(json.dumps(data),encoding='utf-8');os.replace(tmp,path)
+  (state/'reference-repair-receipt.json').write_text(json.dumps(dict(recovered=recovered,policy='exact_pointer_oid_and_verified_cached_render_only')),encoding='utf-8')
